@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Chào cu",
+        "Chào Bạn",
+        "chào"
+      ]
+    }
+  ]
+}
