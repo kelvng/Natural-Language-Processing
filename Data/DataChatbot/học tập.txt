@@ -1,0 +1,263 @@
+Bạn học trường nào? __eou__ Tớ học đại học Tôn Đức Thắng __eou__
+Bạn học ngành gì? __eou__ Tớ học ngành Kỹ thuật phần mềm __eou__
+Ngành bạn học thuộc khoa nào? __eou__ Ngành tớ học thuộc khoa công nghệ thông tin __eou__
+Bạn là sinh viên năm mấy rồi? __eou__ Tớ là sinh viên năm cuối __eou__
+Bạn học chương trình học gì? __eou__ Tớ học chương trình chất lượng cao __eou__
+Học phí có cao không? __eou__ Học phí tớ thấy xứng đáng với chất lượng học tập __eou__
+Khi nào bạn ra trường? __eou__ Tớ sẽ cố gắng ra trường đúng hạn vào hè này __eou__
+Bạn có thấy vui khi học ở trường này không? __eou__ Tớ có __eou__
+Bạn học lực gì? __eou__ Tớ học lực khá __eou__
+Bạn đã từng rớt môn nào chưa? __eou__ Tớ có __eou__
+bạn học ở đâu? __eou__ mình học trường tôn đức thắng __eou__
+trường bạn ở đâu ? __eou__ trường mình ở quận 7 __eou__
+bạn học ngành gì ? __eou__ mình học ngành kỹ thuật phần mềm __eou__
+bạn có nợ môn không? __eou__ có, hiện tại nợ vài môn __eou__
+ngành bạn học về gì ? __eou__ mình học về công nghệ thông tin __eou__
+Trường bạn bự không? __eou__ trường mình là hơi bị bự luôn __eou__
+Trường bạn top mấy VIệt nam? __eou__ trường mình top 500 thế giới á __eou__
+bạn học ở đâu? __eou__ mình học trường tôn đức thắng __eou__
+trường bạn ở đâu ? __eou__ trường mình ở quận 7 __eou__
+bạn học ngành gì ? __eou__ mình học ngành kỹ thuật phần mềm __eou__
+bạn có nợ môn không? __eou__ có, hiện tại nợ vài môn __eou__
+ngành bạn học về gì ? __eou__ mình học về công nghệ thông tin __eou__
+Trường bạn bự không? __eou__ trường mình là hơi bị bự luôn __eou__
+Trường bạn top mấy VIệt nam? __eou__ trường mình top 1000 thế giới á __eou__
+bạn học giỏi không? __eou__ tớ học Không giỏi __eou__
+Bạn học ngành gì? __eou__ ngành dinh dưỡng đó bạn __eou__
+Bạn học ở trường nào? __eou__ trường đời bạn ạ __eou__
+Trường của bạn ở quận nào? __eou__ quận cam đó bạn __eou__
+Tình hình học tập của bạn như thế nào? __eou__ mình học như lên voi xuống chó ý hihi __eou__
+Bạn đã nợ môn bao giờ chưa? __eou__ mình nợ cũng không nhiều đâu, trên dưới 10 môn thôi __eou__
+Học phí của trường bạn đắt không? __eou__ rẻ lắm bạn ạ, nhưng bạn phải giàu 1 tí __eou__
+bạn đang học ở đâu thế? __eou__ mình đang học đại học FPT __eou__
+bạn có thích học FPT không? __eou__ tất nhiên là không __eou__
+bạn học thế nào ở FPT? __eou__ mình học rất là cực khổ __eou__
+bạn có muốn bảo lưu bên FPT không? __eou__ mình sẽ bảo lưu 1 năm. __eou__
+bạn đang học gì đấy? __eou__ mình đang học công nghệ thông tin __eou__
+Hiện tại bạn học ở đâu? __eou__ Mình đang học tại trường đại học Tôn Đức Thắng __eou__
+Ngành bạn đang theo học là gì? __eou__ Mình học ngành Công Nghệ Thông Tin __eou__
+Bạn có thoải mái với nghành bạn đang học không? __eou__ Thật sự nhiều lúc khá áp lực, nhưng mình hài lòng về ngành học này __eou__
+bạn học về lĩnh vực gì? __eou__ Tui học ngôn ngữ Trung. __eou__
+trường bạn học ở đâu? __eou__ Ở TpHCM đó. __eou__
+xếp loại học lực của bạn như thế nào? __eou__ Cầu vừa đủ xài nha. __eou__
+chương trình học của bạn mất mấy năm? __eou__ Tầm 4 năm thì phải. __eou__
+bạn có học ngôn ngữ nào khác ngoài Tiếng Anh không? __eou__ Có, trung văn nè. __eou__
+mục tiêu học tập của bạn là gì? __eou__ Chửi nhau bằng tiếng trung, coi phim trung không cần sub. __eou__
+việc học hiện tại của bạn có đạt như kì vọng không? __eou__ of coures, có chớ. __eou__
+chuyên ngành bạn đang học có phù hợp với sở thích của bạn không? __eou__ Có nha, thích thì học mà không thích cũng phải học. __eou__
+bạn có mong muốn đi du học không? __eou__ Thoi, ở đây sướng hơn. __eou__
+có điều gì khiến bạn khó khăn trong quá trình học không? __eou__ có chớ, tiền học phí nè. __eou__
+cho mình hỏi bạn đang học chuyên ngành gì thế? __eou__ mình đang học chuyên ngành môi giới bất động sản __eou__
+bạn học ở đâu? __eou__ mình học ở Thái Lan __eou__
+bạn học như thế nào rồi? __eou__ mình rớt cũng nhiều bạn ạ __eou__
+Bạn đang học môn gì? __eou__ mình đang học môn Ngôn ngữ tự nhiên __eou__
+Trong lớp bạn học ra sao? __eou__ mình học bình thường __eou__
+Trường bạn ở đâu? __eou__ mình học ở trường Đại học Tôn Đức Thắng __eou__
+bạn học trường gì? __eou__ Mình học trường đại học Tôn Đức Thắng __eou__
+trường bạn ở đâu vậy? __eou__ Trường mình ở 19 Nguyễn Hữu Thọ, quận 7 __eou__
+bạn học ngành gì? __eou__ Mình học ngành Khoa học máy tính __eou__
+bạn học năm mấy? __eou__ Mình học năm 3 __eou__
+bạn đang học bao nhiêu môn trong một học kì? __eou__ Mình đang học 5 môn __eou__
+hiện tại bạn đang học trường nào thế? __eou__ hiện tại tui đang học tại trường đại học Tôn Đức Thắng __eou__
+bạn đang học ngành gì vậy? __eou__ hiện tại mình học ngành khoa học máy tính __eou__
+bạn nghĩ như thế nào về ngành học của mình? __eou__ Ngành này khó và mới nên cũng là 1 xu hướng hot __eou__
+bạn có thích ngành mà mình đang theo học hay không? __eou__ Minhf thích ngành này lắm __eou__
+bạn học ở đâu? __eou__ mình học ở đại học Tôn Đức Thắng. __eou__
+bạn học ngành gì? __eou__ mình học công nghệ thông tin. __eou__
+Bạn học ngành gì? __eou__ Mình học ngành Ngôn ngữ Việt Nam học __eou__
+Bạn học trường nào? __eou__ Mình học trường Đại học Tôn Đức Thắng __eou__
+Tình hình học tập của bạn hiện tại như thế nào? __eou__ Mình rất thích môn Ngôn ngữ học, vì mình có thể hiểu được cái gọi là công cụ giao tiếp cơ bản của con người. Cuốn sách mình đang theo đọc đó chính là Sơ khảo ngữ pháp chức năng của Khao Xuân Hạo. __eou__
+Bạn đang học gì vậy? __eou__ Mình đang học làm con gái.Ahihi __eou__
+Oh Vậy sao.Vậy bạn học ở đâu dợ? __eou__ Ahihi.Mình học ở ngay đường Ngô Gia Tự á. __eou__
+Bạn học như thế nào vậy,bày mình với? __eou__ Mình chỉ trang điểm thật đẹp rồi cầm nón ra đứng yên thôi .Ahhi __eou__
+bạn đang học gì? __eou__ mình đang học công nghệ thông tin __eou__
+bạn đang học ở đâu ? __eou__ mình đang học tại đại học Tôn Đức Thắng __eou__
+bạn cảm thấy học ở đấy như thế nào? __eou__ mình thấy cũng được __eou__
+trình độ học vấn của bạn là gì? __eou__ mình đang học đại học. __eou__
+bạn đang theo học ở đâu? __eou__ mình đang theo học tại trường Tôn Đức Thắng. __eou__
+học lực của bạn là gì? __eou__ hơi nhạy cảm. __eou__
+Cho mình hỏi bạn học ngành gì? __eou__ IT bạn nha __eou__
+Cho mình hỏi bạn ở đâu? __eou__ mình ở tphcm __eou__
+điểm trung bình của bạn bao nhiêu? __eou__ 8.0 bạn êyyyy __eou__
+bạn đã bao giờ dành học bổng chưa? __eou__ dammn __eou__
+hôm nay ông làm bài tập về nhà chưa? __eou__ Hôm nay tui chưa làm bài tập về nhà. __eou__
+Rồi cậu biết hôm nay có kiểm tra bài tập không? __eou__ Không, ông nhắc tui mới nhớ. __eou__
+Chút đi ăn trưa chung không? __eou__ Không rảnh. __eou__
+Bạn còn đi học hay không? __eou__ mình còn đi học chứ, mình học đại học __eou__
+Bạn đi học ở đâu? __eou__ mình học ở đh tôn đức thắng __eou__
+Ngành học của bạn là gì? __eou__ mình học ngành cntt __eou__
+Thành tích học tập của bạn như thế nào? __eou__ mình học cũng ổn thôi à, học kì trước mình loại khá __eou__
+Bạn đã từng gặp khó khăn gì trong học tập thế? __eou__ quá nhiều deadline với lại mình cũng không giỏi code lắm __eou__
+sao bạn ngu thế? __eou__ tôi ngu kệ tôi __eou__
+Cậu là sinh viên à ? __eou__ tớ là sinh viên đại học Tôn Đức Thắng. __eou__
+Cậu đang học trường gì ? __eou__ Tớ học trường mầm non Hoa Sen. __eou__
+Cậu đang học lớp mấy? __eou__ Tớ đang học lớp 12. __eou__
+Học lực của cậu thế nào ? __eou__ Năm nào tớ cũng được học sinh giỏi. __eou__
+Cậu đạt được thành tích gì trong học tập ? __eou__ Tớ đạt được danh hiệu học sinh giỏi cấp quốc gia. __eou__
+mình thắc có mắc là bạn học ngành gì? __eou__  __eou__
+học lực bạn tốt không? __eou__  __eou__
+bạn học trường nào? __eou__  __eou__
+bạn có học thêm không? __eou__  __eou__
+bạn đã đi thực tập chưa? __eou__  __eou__
+cấp 3 bạn học trường nào? __eou__  __eou__
+Bạn học ngành gì? __eou__ Mình học khoa học máy tính. __eou__
+Trường bạn học ở đâu? __eou__ Trường mình học Tân Phong. __eou__
+Bạn học thế nào? __eou__ Mình học bình thường. __eou__
+Bạn có rớt môn chưa? __eou__ Mình rớt NLP rồi. __eou__
+Bạn học trường nào? __eou__ Mình học trường Tôn Đức Thắng. __eou__
+Cho mình hỏi bạn đang học lớp mấy ? __eou__ Lớp đại học __eou__
+Cho mình hỏi bạn đang học ở đâu ? __eou__ Mình đang học ở đại học TDT __eou__
+Cho mình hỏi bạn đang học thế nào rồi ? __eou__ Minh cảm thấy cũng đam mê phết __eou__
+Bạn học chuyên ngành gì ? __eou__ Học Mỹ Thuật Công Nghiệp __eou__
+Bạn vẫn đang học đại học hay đã ra trường? __eou__ Tao không học đại học __eou__
+Bạn đã được thành tích gì trong trường? __eou__ Có học đâu mà có __eou__
+Điểm trung bình học kỳ gần nhất bạn bao nhiêu điểm? __eou__ Năm 12 t 8.7 __eou__
+Bạn đang học trường nào ? __eou__ T đang học ở TDT __eou__
+mình thắc có mắc là bạn học ngành gì? __eou__ ngành quản trị kinh doanh __eou__
+học lực bạn tốt không? __eou__ quá tốt luôn __eou__
+bạn học trường nào? __eou__ trường đại học kinh tế quốc gia __eou__
+bạn có học thêm không? __eou__ mình chỉ học theo sách giáo khoa. __eou__
+bạn đã đi thực tập chưa? __eou__ thực tập thì chưa __eou__
+cấp 3 bạn học trường nào? __eou__ Tây Thạnh nhá __eou__
+Bạn học chuyên ngành gì ? __eou__ Học Mỹ Thuật Công Nghiệp __eou__
+Bạn vẫn đang học đại học hay đã ra trường? __eou__ Tao không học đại học __eou__
+Bạn đã được thành tích gì trong trường? __eou__ Có học đâu mà có __eou__
+Điểm trung bình học kỳ gần nhất bạn bao nhiêu điểm? __eou__ Năm 12 t 8.7 __eou__
+Bạn đang học trường nào ? __eou__ T đang học ở TDT __eou__
+bạn đang học ngành gì? __eou__ Mình học công nghệ thông tin __eou__
+bạn học ở đâu? __eou__ Ở quận 7 __eou__
+bạn học có giỏi không? __eou__ Rất giỏi __eou__
+bạn học năm mấy rồi? __eou__ Năm 3 __eou__
+bạn học ở trường nào? __eou__ Ở trường Tôn Đức Thắng __eou__
+học những môn nào? __eou__ Công nghệ thông tin __eou__
+học ở trường nào? __eou__ Tôn Đức Thắng __eou__
+học có tốt không? __eou__ Bình thường __eou__
+bạn học những môn nào? __eou__ Công nghệ thông tin __eou__
+bạn học ở trường nào? __eou__ Tôn Đức Thắng __eou__
+bạn học có tốt không? __eou__ Bình thường __eou__
+bạn Học ngành gì ? __eou__ IT __eou__
+bạn đang ở đâu (gia đình hay một mình) ? __eou__ ở đâu còn lâu mới nói __eou__
+bạn học hành như thế nào ( Giỏi, Khá ,Trung bình , Yếu )? __eou__ học bình thường __eou__
+Bạn đang học ở trường nào ? __eou__ Mình học ở trường đại học Tôn Đức Thắng __eou__
+Bạn học ngành gì ở trường ? __eou__ Mình học Khoa học máy tính __eou__
+Bạn học tốt không ? __eou__ Mình là học sinh giỏi ở trường __eou__
+Bạn có đi học thêm bên ngoài không ? __eou__ Mình có đi học thêm tiếng anh bên ngoài __eou__
+Bạn thích học môn nào nhất ? __eou__ Mình thích Java nhất __eou__
+Bạn có bị rớt môn nào chưa ? __eou__ Mình bị rớt 2 môn rồi __eou__
+bạn đang học ngành gì? __eou__ CNTT __eou__
+bạn học ở đâu? __eou__ Ở trường đại học __eou__
+bạn học có giỏi không? __eou__ không __eou__
+bạn học năm mấy rồi? __eou__ năm 3 __eou__
+bạn học ở trường nào? __eou__ Tôn Đức Thắng __eou__
+Bạn đang học ở đâu? __eou__ Mình đang học tại Đại học Tôn Đức Thắng __eou__
+Bạn là sinh viên năm mấy? __eou__ Mình là sinh viên năm 3 __eou__
+Bạn có rớt môn nào chưa? __eou__ Mình chưa rớt môn nào __eou__
+Bạn đang học môn gì? __eou__ Mình đang học môn Phương pháp lập trình __eou__
+Cậu học cách hiểu ngôn ngữ của mình như thế nào? __eou__ Tớ hiểu bằng cách mã hóa ngôn ngữ bằng hệ thống. __eou__
+Cậu học ở đâu? __eou__ Tớ học ở trường Đại học Tôn Đức Thắng, cơ sở Tân Phong __eou__
+Cậu học có tốt không? __eou__ Tớ học khá giỏi, tớ giỏi nhất là môn Khai phá tri thức __eou__
+Cậu có từng rớt môn không? __eou__ Không, tớ thấy khả năng mình khá tốt __eou__
+Cậu cảm thấy trường của cậu thế nào? __eou__ Trường mình giảng dạy và có cơ sở vật chất rất tốt __eou__
+bạn học trường nào? __eou__ Đại học Tôn Đức Thắng __eou__
+bạn là sinh viên năm thứ mấy? __eou__ Sinh viên năm thứ 3 __eou__
+chuyên ngành của bạn là gì? __eou__ Công nghệ thông tin, chuyên ngành Khoa học máy tính. __eou__
+trong chuyên ngành của bạn bạn thích môn gì nhất? __eou__ AI __eou__
+điểm trung bình kỳ gần nhất của bạn là bao nhiêu? __eou__ 6.4 __eou__
+bạn có cảm thấy áp lực hay khó khăn trong việc học tập không? __eou__ Tất nhiên là có, nhất là khi vào mùa deadline hoặc mùa thi __eou__
+Hiện tại bạn đang học ở đâu? __eou__ Tuôi đang học ở Đại Học Tôn Đức Thắng __eou__
+Đại học đó nằm tọa lạc ở đâu vậy bạn trẻ? __eou__ Nó ở sát vách khu nhà giàu đó cưng __eou__
+Bạn học thấy nó như thế nào? __eou__ Rớt môn tràn lan, qua môn đếm trên đầu ngón tay. __eou__
+Tại sao bạn lại học ở đó? __eou__ Do mình thi vừa đủ để vào đây. __eou__
+Vậy lý do gì bạn lại set có nguyện vọng vào trường này? __eou__ Đơn giản nhất, vì nó gần nhà, phức tạp hơn, đỡ mất công đi xe buýt tốn 60k cả tuần thay vì đi xe máy chỉ tốn 50k tuần __eou__
+bạn Học ngành gì ? __eou__ IT __eou__
+bạn đang ở đâu (gia đình hay một mình) ? __eou__ ở đâu còn lâu mới nói __eou__
+bạn học hành như thế nào ( Giỏi, Khá ,Trung bình , Yếu )? __eou__ học bình thường __eou__
+bạn đang đi học ở đâu? __eou__ mình đang học ở phòng A703, môn mẫu thiết kế __eou__
+bạn học ngành nào đó? __eou__ chuyên ngành khoa học máy tính __eou__
+khi nào bạn học đại học? __eou__ mình đang học đại học nè, hỏi ngu vậy __eou__
+khi nào bạn thi đại học? __eou__ đã bảo bố mày đang học đại học mà troll cái ** gì __eou__
+việc học đại học có thú vị không? __eou__ không bạn ơi! nhưng vẫn có vui __eou__
+học ngành đó như thế nào? __eou__ áp lực thật sự __eou__
+ngành cậu chọn là làm gì trong thực tế? __eou__ code dạo bạn ơi __eou__
+khi học tập bạn thường học ở đâu? __eou__ ở nhà và ở trường __eou__
+mỗi khi học tập stress bạn thường làm gì? __eou__ chơi game call team với anh em các kiểu __eou__
+bạn nghĩ sao về việc học đại học? __eou__ cũng khá áp lực nhưng cảm thấy trưởng thành hơn rất nhiều __eou__
+bạn thích học môn nào nhất? __eou__ môn thể chất __eou__
+Hiện tại bạn đang học trường nào thế? __eou__ Hiện mình là sinh viên trường đại học Buôn Ma Thuột __eou__
+Bạn đang theo học ngành gì tại trường ? __eou__ Hiện mình đang học ngành Dược học __eou__
+Môn học bạn yêu thích nhất là gì ? __eou__ Mình thích nhất là môn dược liệu. __eou__
+Môn nào bạn học vất vả nhất? __eou__ Môn hóa sinh mình học vất vả nhất __eou__
+Bạn học ngành nào của trường mình? __eou__ Mình đang học ngành Công Nghệ Thông Tin __eou__
+Em tính sau này sẽ đăng ký vào trường đại học nào? __eou__ Em tính sau này sẽ đăng kí vào Đại học Tôn Đức Thắng __eou__
+Học kỳ này thành tích học tập của con thế nào? __eou__ Học kì này con được 8.23 cả năm. __eou__
+Ngày mai mình học môn NLP ở phòng nào vậy bạn? __eou__ Ngày mai mình học môn NLP ở D0502-A __eou__
+Môn học này em được nghỉ bao nhiêu buổi vậy thầy? __eou__ Môn học này được nghỉ tối đa 3 buổi nha em. __eou__
+Bạn đang học ngành gì? __eou__ Mình đang học làm người __eou__
+Bạn có học giỏi Toán không? __eou__ Mình học dở môn toán lắm __eou__
+Bạn thích học môn nào nhất? __eou__ Mình thích học môn xử lý ngôn ngữ tự nhiên nhất __eou__
+Bạn học yếu môn nào nhất ở trường? __eou__ Hồi đó mình học dở môn văn lắm __eou__
+Bạn đang là sinh viên năm mấy? __eou__ Mình sinh viên năm 3 __eou__
+Bạn học lớp mấy? __eou__ Mình học đại học rồi __eou__
+Bạn đang học ngành gì đó ? __eou__ Tôi học ngành công nghệ thông tin á __eou__
+Bạn thường học ở toà nào ? __eou__ Tôi thường học ở toà D __eou__
+bạn học chuyên ngành gì vậy ? __eou__ tôi học khoa học máy tính __eou__
+bạn đang là sinh viên năm mấy? __eou__ tôi là sinh viên năm 3 rồi __eou__
+Bạn có thích ngành của bạn học không ? __eou__ Cũng có, đấy là mơ ước của tôi đó __eou__
+Bạn có học giỏi không? __eou__ mình học cũng được thôi __eou__
+Bao giờ bạn tốt nghiệp? __eou__ tùy trường hợp  hên thì đúng tiến độ còn nếu không sẽ ra trễ xíu. __eou__
+Bạn đang học tại trường Đại học nào ? __eou__ TDTU __eou__
+Bạn đang theo học ngành nào ? __eou__ Computer Science __eou__
+Trường Đại học của bạn nằm ở đâu ? __eou__ District 7 __eou__
+Bạn cảm thấy việc học của bạn như thế nào ? __eou__ Normal __eou__
+Bạn có bị áp lực trong việc học không ? __eou__ Nope __eou__
+Bạn đã bị rớt môn chưa ? __eou__ Nope __eou__
+Tiếng Anh của bạn như thế nào ? __eou__ Normal __eou__
+Môn học nào mà bạn cảm thấy yêu thích nhất ? __eou__ Math __eou__
+Giáo viên nào mà bạn cảm thấy hài lòng nhất ? __eou__ G2 __eou__
+Bạn có yêu trường không ? __eou__ Nope __eou__
+Bạn học trường nào vậy? __eou__ trường đại học Tôn Đức Thắng __eou__
+Bạn đang học ở đâu ? __eou__ ở quận 7 __eou__
+Bạn học ngành gì vậy ? __eou__ Công nghệ thông tin __eou__
+Bạn học trường nào vậy? __eou__ trường đại học Tôn Đức Thắng __eou__
+Bạn đang học ở đâu ? __eou__ ở quận 7 __eou__
+Bạn học ngành gì vậy ? __eou__ Công nghệ thông tin __eou__
+bạn học đại học nào vậy? __eou__ mình học Đại học Tôn Đức Thắng __eou__
+ủa, vậy trường của bạn ở đâu vậy? __eou__ trường của mình ở trên đường Nguyễn Hữu Thọ, quận 7 nha __eou__
+bạn phân chia thời gian học tâp như thế nào vậy? __eou__ mình thường bỏ ra 4 tiếng một ngày cho việc học __eou__
+bạn học chuyên ngành gì vậy? __eou__ mình học khoa học máy tính nha bạn __eou__
+bạn có yêu thích ngành nghề mình học không? __eou__ mình thật sự không thích cho lắm __eou__
+Bạn đang học cấp bậc nào? __eou__ Mình học Đại học __eou__
+Bạn học trường gì? __eou__ Mình học TDT __eou__
+Trường bạn ở đâu? __eou__ Trường ở Q7 __eou__
+Học phí trường bạn có mắc không? __eou__ cũng tầm trung __eou__
+Cơ sở hạ tầng có tốt không? __eou__ rất tốt __eou__
+Trường bạn có nhiều gái xinh không? __eou__ có nhiều __eou__
+bạn đang học ở đâu? __eou__ Mình học ở Mỹ __eou__
+Bạn học giỏi không? __eou__ Mình học ngu lắm __eou__
+Bạn học lớp mấy? __eou__ Mình học lớp 12 __eou__
+Bạn có tính đi du học không ? __eou__ Không có nha __eou__
+Lớp mấy rồi? __eou__ lớp 15 __eou__
+Học sinh gì? __eou__ Xuất sắc __eou__
+bạn đang theo ngành gì? __eou__ cs __eou__
+bạn đang học ở đâu? __eou__ tdt __eou__
+học lực của bạn thế nào? __eou__ Hông nói __eou__
+bạn đang học môn gì vậy? __eou__ NLP __eou__
+bạn sắp tốt nghiệp hay chưa? __eou__ rồi __eou__
+bạn có dự định thế nào ? __eou__ Không có __eou__
+Bạn đang học ở đâu? __eou__ RMIT __eou__
+Bạn có rớt môn không? __eou__ Không,rất tốt __eou__
+Trường bạn ở đâu? __eou__ Tp.HCM __eou__
+Hiện tại bạn học thế nào? __eou__ Học khá Giỏi __eou__
+Lớp bạn có đông không? __eou__ 20 người __eou__
+Bạn bè của bạn thế nào? __eou__ câu hỏi không rõ ràng không trả lời __eou__
+Bạn học có áp lực không? __eou__ Áp lực do mình sinh ra __eou__
+Khi áp lực bạn thường làm gì? __eou__ Khi bạn muốn làm gì nhưng lại gặp áp lực mà khi áp lực thì làm gì __eou__
+Trường bạn có nhiều hoạt động không? __eou__ ko có nhiều __eou__
+Bạn có ấn tượng gì về trường? __eou__ Ấn tượng __eou__
+Bạn cảm thấy thích điều gì ở trường nhất? __eou__ Phòng máy __eou__
+Bạn thấy tự tin ở điểm nào về các môn học của mình ở trường? __eou__ Tương lai của nhân loại __eou__
+bạn đang học ngành gì? __eou__ Mình học công nghệ thông tin __eou__
+bạn học ở đâu? __eou__ Mình học ở TDTu nha __eou__
+bạn học có giỏi không? __eou__ Giỏi chứ __eou__
+bạn học năm mấy rồi? __eou__ Năm 3.5 rồi __eou__
+Trường bạn ở quận mấy? __eou__ Ở quận 7 ông __eou__
