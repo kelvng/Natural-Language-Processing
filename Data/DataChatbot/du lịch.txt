@@ -1,0 +1,230 @@
+bạn muốn đi du lịch với tớ không ? __eou__ chắc rồi, nhưng ta sẽ đi đâu ? __eou__
+bạn nghĩ sao về việc du lịch tại Đà Nẵng ? __eou__ tuyệt vời, mình cũng muốn đi Đà Nẵng __eou__
+khi nào chúng ta sẽ đi ? __eou__ chúng ta sẽ đi khi hè đến __eou__
+chúng ta sẽ cần bao nhiêu để hoàn thành chuyến đi ? __eou__ tớ nghĩ chúng ta cần tầm 10 triệu __eou__
+chúng ta sẽ đi bằng cái gì ? __eou__ chúng ta sẽ đi bằng máy bay đến đó __eou__
+bạn có định đi du lịch đâu trong tương lai không? __eou__ mình có dự định đi Vũng Tàu __eou__
+bạn tính đi du lịch vào dịp nào? __eou__ mình tính đi vào Hè __eou__
+nếu đi du lịch bạn tính chọn những nơi vùng núi hay biển? __eou__ mình sẽ đi những nơi có biển như Vũng Tàu __eou__
+bạn thường đi du lịch bằng phương tiện gì? __eou__ mình thường đi du lịch bằng xe máy __eou__
+bạn có thường đi du lịch bằng máy bay không? __eou__ mình hiếm khi đi du lịch bằng máy bay __eou__
+bạn thường đi du lịch với ai? __eou__ mình thường đi du lịch với bạn mình __eou__
+bạn có thường xuyên đi du lịch với gia đình không? __eou__ mình ít khi đi du lịch với gia đình __eou__
+bạn cho mình hỏi lần cuối bạn đi du lịch ở đâu? __eou__ lần cuối tớ đi du lịch ở Đà Nẵng __eou__
+bạn cho mình hỏi hiện bạn có dự đi du lịch ở đâu không? __eou__ hiện tớ không có dự đi du lịch ở đâu __eou__
+bạn cho mình hỏi hiện bạn có dự đi du lịch ở đâu không? __eou__ hiện tớ có dự đi du lịch ở Vũng Tàu __eou__
+bạn cho mình hỏi bạn đã đi du lịch ở Hà Nội chưa? __eou__ tớ chưa đi du lịch ở Hà Nội __eou__
+bạn cho mình hỏi bạn đã đi du lịch ở Đà Nẵng chưa? __eou__ tớ đã đi du lịch ở Đà Nẵng __eou__
+bạn cho mình hỏi bạn đã đi du lịch ở Cà Mau chưa? __eou__ tớ chưa đi du lịch ở Cà Mau __eou__
+bạn cho mình hỏi bạn đã đi du lịch ở nước ngoài chưa? __eou__ tớ chưa đi du lịch ở nước ngoài __eou__
+Tết này bạn đi đâu chơi? __eou__ Đi về nhà. __eou__
+Hạnh phúc? __eou__ Đi về nhà. __eou__
+Cô đơn? __eou__ Đi về nhà. __eou__
+Thành công? __eou__ Đi về nhà. __eou__
+Thất bại? __eou__ Đi về nhà. __eou__
+Mông lung? __eou__ Đi về nhà. __eou__
+Chênh vênh? __eou__ Đi về nhà. __eou__
+Hè này mình đi đâu? __eou__ Xem phim ở CGV. __eou__
+Tết này bạn đi đâu chơi? __eou__ Đi về nhà. __eou__
+Hạnh phúc? __eou__ Đi về nhà. __eou__
+Cô đơn? __eou__ Đi về nhà. __eou__
+Thành công? __eou__ Đi về nhà. __eou__
+Thất bại? __eou__ Đi về nhà. __eou__
+Mông lung? __eou__ Đi về nhà. __eou__
+Chênh vênh? __eou__ Đi về nhà. __eou__
+Hè này mình đi đâu? __eou__ Xem phim ở CGV. __eou__
+đi chơi không? __eou__ có __eou__
+chơi ở đâu? __eou__ Nha Trang __eou__
+nhớ mang theo đồ bơi? __eou__ tớ có áo tắm rồi __eou__
+mày đình đi mấy ngày? __eou__ 3 ngày 2 đêm __eou__
+rủ mấy đứa đi cùng không? __eou__ tùy mày __eou__
+bạn có định đi du lịch đâu trong tương lai không? __eou__ mình có dự định đi Vũng Tàu __eou__
+bạn tính đi du lịch vào dịp nào? __eou__ mình tính đi vào Hè hoặc là cuối năm sau __eou__
+nếu đi du lịch bạn tính chọn những nơi vùng núi hay biển? __eou__ mình sẽ đi những nơi có biển hoặc là yên tĩnh để thư giãn __eou__
+có cậu __eou__ cậu muốn đi chung không __eou__
+cậu tính đi đâu __eou__ tầm thi giữa kì xong tớ định là đi Đà Lạt với vài người á __eou__
+tớ cũng tính đi á __eou__ vậy đi chung luôn nha __eou__
+Tết này bạn đi đâu chơi? __eou__ Đi về quê chơi. __eou__
+Khi nào bạn về? __eou__ Chắc là mùng 2 tết. __eou__
+Bạn đi với ai? __eou__ Đi với gia đình. __eou__
+Khi nào bạn về lại thành phố? __eou__ Qua tết mình lên. __eou__
+Hà Giang đang mùa đẹp bạn có muốn phượt không ? __eou__ Mình rất vui lòng __eou__
+Nếu muốn đi nước ngoài thì bạn sẽ đi đâu ? __eou__ Mình muốn sang Mỹ __eou__
+Bạn muốn đi phượt với lũ bạn hay người yêu ? __eou__ nếu được thì cả hai __eou__
+khi đi du lịch thì bạn chú ẩm thực hay phong cảnh ? __eou__ theo mình thì chính là ẩm thực __eou__
+Tết này bạn có muốn đi Đà Lạt ? __eou__ không mình sẽ về quê __eou__
+dạo này bạn có đi du lịch ở đâu không? __eou__ mình có đi đà lạt hồi noel 2020 __eou__
+bạn đã đi với ai vậy? __eou__ mình đi với nhóm bạn thân ở trên đại học __eou__
+bạn đi bao lâu vậy? __eou__ mình đi 4 ngày 3 đêm ở trên đà lạt __eou__
+bạn đi du lịch có tốn nhiều tiền không? __eou__ có, vì lên đà lạt chủ yếu là đi ăn với đi cà phê nên sẽ tổn một khoảng lớn __eou__
+Vừa rồi mày đi đâu mà chụp ảnh toàn cảnh đẹp không vậy ? __eou__ À, tao vừa đi Sapa về, lạnh vãi linh hồn, nhưng được cái gái vùng cao xinh dã man __eou__
+Thứ 7 này tao có tour đi phượt mày muốn đi chung với đoàn tao không ? __eou__ Nếu còn dư slot thì đi, dạo này hơi chán, muốn đi đâu đó để giải tỏa __eou__
+Lễ quốc khánh sắp tới nghỉ 3, 4 ngày lận đó đi đâu không mày ? __eou__ Để xem, nếu được thì đi Bà Nà chơi đi cho biết với người ta __eou__
+Noel này có dắt em nào đi chơi không dị ? __eou__ Có chứ mới rủ được bé kia đi chơi Noel, tao đang nôn tới ngày đó quá __eou__
+Hè tới tao tính về quê thăm ông bà mày muốn về cùng làm chuyến miền quê sông nước không ? __eou__ Hay thế, chốt kèo vậy đi, nào gần đi hú tao chuẩn bị đồ nha __eou__
+Ra tết Nha Trang không ku? __eou__ Nha Trang gì giờ này ba __eou__
+Thì hỏi trước, mày đi không? __eou__ Đi với ai đấy? __eou__
+Tao với đám bạn tao nữa, có con Trang đợt trước mày hỏi nè __eou__ Liên quan gì tao, nó có bồ rồi mà __eou__
+Mới chia tay :)) __eou__ Ồ, vậy thì đi __eou__
+Okie, chốt đơn __eou__ Okie __eou__
+Tết này mọi người có đi đâu chơi không? __eou__ là cụ thể đi đâu ông ơi. __eou__
+mọi người có ai rãnh không, đi Vũng Tàu không nè? __eou__ mình thấy cũng được đấy, cho mình đi với nha. __eou__
+Không biết năm nay có ai ra miền Bắc chơi không ha? __eou__ ngoài Bắc đang bùng dịch nên mình nghĩ mọi người chắc đang hạn chế. __eou__
+các cậu ơi, rãnh rỗi quá thì hay là chúng ta cùng nhau tổ chứ buổi đi chơi nhỉ? __eou__ mình vừa mới hết tiền mất rồi. __eou__
+ai đi Đà Nẵng với công ty bên bạn mình không? __eou__ Tầm Tết dương lịch này thì mình rãnh đó. __eou__
+Tết năm nay bạn có đi du lịch không? __eou__ Năm nay mình muốn ở nha nên không đi __eou__
+Tết được nghỉ nhiều sao bạn không đi du lịch? __eou__ Mình muốn ơ nhà với ba mẹ __eou__
+Năm nay bạn định đi du lịch ở đâu? __eou__ Mình tính đi về miền tây du lịch __eou__
+Bạn đi du lịch với ai vậy? __eou__ Mình đi với gia đình __eou__
+Bạn đi trước tết hay sau tết? __eou__ Mình đi trước tết __eou__
+Bạn thích đi du lịch ở đâu nhất? __eou__ Mình thích đi đà lạt __eou__
+Tuần sau có lịch nghỉ á, cậu đi chơi không? __eou__ thế á, có tớ đi với __eou__
+Được nghỉ 1 tuần lận đấy, cậu muốn đi đâu? __eou__ tớ muốn đi du lịch Sapa __eou__
+Đi Sapa mùa này lạnh lắm đó nha, phải đem thêm nhiều áo ấm vào? __eou__ tớ có sẵn áo ấm rồi, không phải mua nhiều nữa __eou__
+Cậu định đi mấy ngày á? __eou__ theo tớ thì 5ngày 4đêm đi __eou__
+Vậy mình rủ thêm mấy đứa nữa đi chung cho vui nha __eou__ ok cậu, cậu rủ đi __eou__
+Sau Tết bạn rảnh không? __eou__ Sau Tết mình rảnh chứ __eou__
+Bạn có muốn đi du lịch không? __eou__ Ồ, tất nhiên rối __eou__
+Bạn muốn đi đâu? __eou__ Mình muốn rủ bạn đi Đà Lạt __eou__
+Có bao nhiêu người đi chung trong dịp này? __eou__ Hiện tại có 6 người đồng ý đi __eou__
+Bạn đã đặt khách sạn chưa? __eou__ Mình đã đặt 4 phòng 2 người rồi __eou__
+Ra tết Nha Trang không ku? __eou__ Nha Trang gì giờ này ba __eou__
+Thì hỏi trước, mày đi không? __eou__ Đi với ai đấy? __eou__
+Tao với đám bạn tao nữa, có con Trang đợt trước mày hỏi nè __eou__ Liên quan gì tao, nó có bồ rồi mà __eou__
+Mới chia tay :)) __eou__ Ồ, vậy thì đi __eou__
+Okie, chốt đơn __eou__ Okie __eou__
+đi chơi không bạn ơi? __eou__ đi bạn ơi __eou__
+đi đâu giờ bạn ơi? __eou__ Đà Lạt đi bạn __eou__
+khi nào mình đi đây bạn ? __eou__ tầm lễ 30 tháng 4 đi bạn __eou__
+mình lên đó làm gì bạn? __eou__ đi cắm cắm trại bạn __eou__
+còn làm gì nữa không bạn? __eou__ đi chụp hình ăn uống nữa __eou__
+tết ông có đi đâu chơi không? __eou__ có chứ ông __eou__
+ông đi chơi ở đâu ? __eou__ tôi đi đà lạt __eou__
+ông đi với người yêu à ? __eou__ không ông ơi, đi với gia đình __eou__
+đi bằng gì thế ông? __eou__ đi bằng xe khách á ôn __eou__
+ông chơi gì ở đấy ? __eou__ tận hưởng cái không khí thôi __eou__
+Cuối tuần này mình đi Vũng Tàu nha? __eou__ Được chứ. __eou__
+Mình đi 2 ngày thì thế nào? __eou__ Ok __eou__
+Bạn cho mình hỏi bạn có thường đi du lịch không? __eou__ Mình cũng ít đi du lịch __eou__
+Vậy hiện tại bạn có dự định đi du lịch ở đâu khong? __eou__ Hiện tại thì mình có dự định đi Nha Trang __eou__
+Bạn định đi vào dịp nào? __eou__ Mình dự định sẽ đi nhân dịp nghỉ hè __eou__
+Bạn sẽ đi trong mấy ngày ? __eou__ Mình đi khoảng 2 tuần __eou__
+Bạn có thông thường đi du lịch không Quang? __eou__ Không, mình thuộc hướng nội thích ở nhà hơn. __eou__
+Vậy Tết 2021 này thì sao, bạn có tính đi đâu không? __eou__ Covid-19 tùm lum thì đi đâu, với lại đi để làm gì, ở nhà chơi vẫn vui như thường mà. __eou__
+Đi nhiều nơi để biết này biết kia chứ. __eou__ Đâu cần phải đi đến nơi mới biết, có thể tìm thông tin trên mạng được mà với lại biết nhiều để làm gì. __eou__
+Vậy chứ trước giờ bạn chưa đi đâu xa luôn à Quang? __eou__ Có đi một số nơi rồi như Vũng Tàu, Phan Thiết, Đã Nẵng ngoài ra mình cũng có một số bạn bè ở các nước khác nhau kể về nơi ở của họ. __eou__
+Hè này bạn sẽ đi đâu chơi? __eou__ mình sẽ đi Đà Lạt __eou__
+bạn có thích đi Đà Lạt không? __eou__ mình không thích đi Đà Lạt chơi cho lắm __eou__
+bạn thích đi biển ở đâu nhất? __eou__ mình thích đi biển Nha Trang __eou__
+bạn thích đi du lịch đến nước nào? __eou__ mình thích đi Nhật __eou__
+bạn đã từng đi du lịch ở nước ngoài chưa? __eou__ mình đã đi rồi __eou__
+Bạn ơi bạn có muốn đi du lịch với mình vào dịp hè này không ? __eou__ Oh ! được chứ bạn ! __eou__
+Oke bạn ! vậy cho mình hỏi là bạn thích đi du lịch ở đâu nhỉ ? __eou__ Hmm ! bạn cho ý kiến đi ! __eou__
+Mình có check trên các trang web và các trang mạng xã hội thì có thấy những review khá là hay về Đà Lạt bạn có muốn đi Đà lạt không nhỉ ? __eou__ Mình đi ở đó nhiều quá chán rồi bạn ạ huhu ! __eou__
+À vậy thì chúng mình đi paris được không bạn ? mình nghe nói ở đó rất đẹp nữa bạn thấy được không nè ? __eou__ Được chứ bạn thế thì thật tuyệt vời! __eou__
+Bạn hay đi đâu vào các dịp lễ nhỉ? __eou__ Mình hay đi nước ngoài __eou__
+Wow, vào các dịp gì vậy? __eou__ Vào các dịp Tết nguyên đán, vì thời gian đó lịch nghỉ cũng khá dài và cũng là thời điểm thích hợp cho việc đi du lịch nữa __eou__
+Bạn hay đi cùng với ai? __eou__ Mình hay đi với gia đình __eou__
+Bao lâu cho một chuyến đi nhỉ? __eou__ Tầm 7 - 9 ngày đổ xuống á __eou__
+Thế có quà cáp cho mình không nhỉ, haha? __eou__ Haha để xem __eou__
+hè này bạn tính đi chơi đâu đây? __eou__ mình tính đi Đà Lạt __eou__
+bạn đi tầm tháng mấy? __eou__ mình tính đi vào tháng 6 __eou__
+bạn tính đi tầm bao lâu? __eou__ mình tính đi chắc khoảng 1 tuần __eou__
+lên đó có gì vui không bạn? __eou__ mình lên đó tránh nóng Sài Gòn thôi __eou__
+thế sao bạn không đi biển đi cho gần? __eou__ mình hay đi biển hoài à __eou__
+Tết này mình nên đi chơi ở đâu? __eou__ Mình thích đi chùa cuối năm. __eou__
+Bạn thích đi du lịch ở đâu? __eou__ Mình thích đi Vũng Tàu. __eou__
+Thế còn đi du lịch nước ngoài? __eou__ Ở nước ngoài, mình thích đi du lịch ở Nhật. __eou__
+Bạn có thích đi leo núi vào ngày nghỉ không? __eou__ Thôi. Leo núi mệt lắm. __eou__
+Giáng Sinh này có đi chơi đâu không? __eou__ Mình định rủ bạn bè đi uống coffee thôi. __eou__
+Công ty tổ chức đi Vịnh Hạ Long, bạn đi không? __eou__ Đi chứ, mình đi du lịch đến đó bao giờ. __eou__
+Cậu có thích đi du lịch đây đó không? __eou__ Thích chứ, mình thích đi nhiều nơi lắm __eou__
+Cậu thích đi trong nước hay ngoài nước? __eou__ Mình thích đi ngoài nước cậu ạ __eou__
+Cậu thích đến nước nào? __eou__ Mình thích nước Anh, vì có tháp Bigben __eou__
+Khi nào thì cậu đi qua đấy? __eou__ Năm sau mình sẽ đi nè __eou__
+Gia đình cậu có theo cùng không? __eou__ Không, mình chỉ đi một mình thôi __eou__
+Khi về nhớ mua quà cho mình nhé? __eou__ Đương nhiên rồi, mình sẽ mua thật nhiều mà __eou__
+Tết đi đâu chơi không tụi bây ? __eou__ Vũng tàu đi mọi người __eou__
+mày từng đi du lịch nước ngoài chưa ? __eou__ tao từng đi Singapore tháng trước __eou__
+bao lâu thì bạn đi du lịch 1 lần ? __eou__ khoản 6 tháng tui đi 1 lần __eou__
+Mày biết Du lịch ở đâu vui không ? __eou__ Vịnh Hạ Long đẹp lắm á __eou__
+Đi đâu du lịch không mày ? __eou__ tao hết tiến rồi __eou__
+Tết này có tính làm kèo gì không? __eou__ Tết này đi ăn tất niên nhà Lan đi. __eou__
+Thi xong mình làm chuyến đi Vũng Tàu chứ hả? __eou__ OK, để tao sắp xếp thời gian __eou__
+Đi Đà Lạt mang mấy bộ đồ là đủ? __eou__ Mang tầm 4 bộ đi, để có gì dơ thì thay. __eou__
+Tết này đi phượt Vũng Tàu không? __eou__ OK, đi luôn. __eou__
+Đi phượt Vũng Tàu 5h sáng nha? __eou__ Mày dậy nổi thì quất à. __eou__
+Bạn thích đi du lịch ở đâu? __eou__ Mình thích có một chuyến đi Hà Giang __eou__
+Nơi đó có gì mà bạn thích? __eou__ Mình xem video của Khoai lang thang thấy Hà Giang rất đẹp và đặc biệt __eou__
+Bạn có chuyến đi nào đáng nhớ nhất không? __eou__ Mình đã đi phượt Vũng Tàu Đà Lạt cùng với khoảng 10 người thân __eou__
+Bạn thường đi du lịch vào dịp nào? __eou__ Mình thường đi vào dịp Tết và nghỉ hè __eou__
+Sắp tới bạn có dự định đi đâu? __eou__ Dịch bệnh đang hoành hành mình nghỉ nên ở nhà cho an toàn __eou__
+Bạn thường đi du lịch vào những dịp nào? __eou__ Mình thường đi du lịch và những dịp nghỉ lễ như là: tết, quốc khánh và noel. __eou__
+Những nơi bạn thường hay đi du lịch là ở đâu vậy? __eou__ mình thường hay đi du lịch ở Đà Lạt, Nha Trang, Đà Nẵng và Hà Nội. __eou__
+Trong công việc đã có những lúc nào khiến bạn phiền lòng không? __eou__ Có những lúc không kịp deadline nhưng mọi người lại không có ai giúp đỡ mình __eou__
+Địa điểm du lịch nào khiến bạn đi một lần nhớ mãi? __eou__ Đó là Đà Lạt mộng mơ __eou__
+Nếu được dẫn người bạn yêu quý bạn sẽ dẫn họ đi du lịch ở đâu? __eou__ Mình sẽ dẫn họ đi đến Đà Lạt __eou__
+Mỗi lần đi du lịch bạn trải nghiệm đc những gì? __eou__ Tớ biết thêm được lối sống của địa phương đó, lịch sử cũng như các phong cảnh mới __eou__
+Cuối tuần này mình và Phương có đi Đà Lạt?Bạn có hứng thú đi cùng không?Mình nghĩ chúng ta sẽ có một tiệc tất niên tuyệt vời trên thành phố mộng mơ? __eou__ Cuối tuần này có thể mình sẽ đi được?Thú vị đấy!!! __eou__
+Chuyến đi lần này 3 ngày 2 đêm?Bạn có những kế hoạch gì cho chuyến đi hay không? __eou__ Mình vẫn chưa nghĩ ra?Nhưng chắc có lẽ sẽ đi đến một số địa điểm nổi tiếng tại Đà Lạt. __eou__
+Bạn có gậy chụp hình không? __eou__ À!Mình mới mua được 2 tháng nay. __eou__
+Ngày mai chúng mình có thể đi shoping để mua sẵm một số vật dụng cá nhân.Bạn đi cùng chứ? __eou__ Dĩ nhiên rồi!Mình hẹn nhau ở đâu bạn nhỉ? __eou__
+Có lẽ chúng mình nên lập 1 groub fb riêng để có thể dễ dàng đưa ra những ý kiến.Bạn thấy sao? __eou__ Ổn đấy.Nhớ mời mình vào nhé. __eou__
+Tết này mình tổ chức đi đâu chơi đi mọi người! __eou__ Nghe hay đấy đi đâu nào __eou__
+Hay mình đi Đà lạt đi __eou__ Thôi Đà Lạt đông lắm, ai cũng kéo nhau đi __eou__
+Thế mình đi cắm trại ở hồ đi, được không? __eou__ Nghe được đấy __eou__
+Thế khi nào thì đi được? __eou__ Nhưng mà hết tiền rồi bạn êi __eou__
+hè này bạn tính đi chơi đâu đây? __eou__ mình tính đi Đà Lạt __eou__
+bạn đi tầm tháng mấy? __eou__ mình tính đi vào tháng 6 __eou__
+bạn tính đi tầm bao lâu? __eou__ mình tính đi chắc khoảng 1 tuần __eou__
+lên đó có gì vui không bạn? __eou__ mình lên đó tránh nóng Sài Gòn thôi __eou__
+thế sao bạn không đi biển đi cho gần? __eou__ mình hay đi biển hoài à __eou__
+Xin chao ban __eou__ Toi muon tim mot noi de du lich __eou__
+Ban hay cho biet noi ban muon di la noi nhu the nao __eou__ Mot noi gan bien __eou__
+Toi nghi la Vung Tau, Nha Trang, Phan Thiet... __eou__ Noi gan nhat la dau nhi? __eou__
+Hien tai dang o dau __eou__ TP Ho Chi Minh __eou__
+Chao __eou__ Di du lich khong? __eou__
+O dau __eou__ Bien __eou__
+Vung Tau, Nha Trang, Phan Thiet? __eou__ Noi gan nhat? __eou__
+Noi dang o __eou__ TP Ho Chi Minh __eou__
+Hè tới, cậu có dự định đi chơi đâu không ? __eou__ Tớ đang tính đi du lịch vùng Tây Bắc __eou__
+Tây Bắc là đi những đâu vậy cậu ? __eou__ Tớ đặt tour tham quan Mộc Châu với Sapa __eou__
+Lịch trình tour du lịch đi như nào vậy cậu ? __eou__ Tớ sẽ đi máy bay từ Sài Gòn đến Hà Nội, sau đó đi xe khách lên Mộc Châu chơi 2 ngày, tiếp tục lên Sapa chơi 2 ngày, rồi về Hà Nội chơi 1 ngày __eou__
+Ồ, tổng chi phí tour du lịch hết bao nhiêu vậy ? __eou__ Tour du lịch khoảng 10 triệu á cậu __eou__
+Tổng chi phí gồm bao ăn, bao ở luôn hả cậu ? __eou__ Không, chi phí chỉ gồm tiền thuê khách sạn và vé máy bay thôi cậu. Mình tự chủ động trong việc ăn uống __eou__
+Tết này bạn có dự tính đi du lịch ở đâu không? __eou__ Không bạn ơi __eou__
+Sao không đi vậy, lúc trước tết nào bạn cũng đi mà? __eou__ Năm nay sợ dịch quá nên chắc tết ở nhà luôn __eou__
+Nghe nói bạn tính đi du lịch hả? __eou__ Um, đúng rồi, mình tính đi Nha Trang. __eou__
+Khi nào bạn bắt đầu chuyến đi vậy? __eou__ Mình không rõ nữa, chắc hè mới đi __eou__
+Sao vậy, tết này bạn không đi à? __eou__ Tết này dịch quá nên mình hơi ngại nên dời sang hè vậy __eou__
+làm chuyến cuối năm đi? __eou__ vote Đà Lạt __eou__
+Đà Lạt hoài không chán à? __eou__ ngủ mát mà __eou__
+đi chơi hay đi ngủ ba? __eou__ hì hì __eou__
+năm nay đi SaPa nhé? __eou__ cũng ok đó __eou__
+25 tết đi nha? __eou__ đi sớm sớm đi __eou__
+mầy muốn bao nhiêu __eou__ 20 tết __eou__
+Sắp tới cậu có định đi chơi ở đâu không? __eou__ Tớ định đi du lịch Nha Trang __eou__
+Khi nào cậu đi du lịch? __eou__ Sau Tết rồi đi __eou__
+Nha Trang có đặc sản gì không? __eou__ Cậu có thể thử mực và ốc. __eou__
+Trải nghiệm vui nhất khi ở Nha Trang là gì? __eou__ Tham quan Vinpearl. __eou__
+Cậu thích làm gì khi ở Nha Trang? __eou__ Tớ thích cảm giác sáng sớm đi dạo ở biển, hoặc là buổi đêm cũng được. __eou__
+Ở Nha Trang có an toàn không? __eou__ Khá là an ninh buổi đêm. __eou__
+tháng 4 này cậu có muốn đi chơi không? __eou__ có cậu ơi __eou__
+tháng tư này bọn mình đi Phú Quốc không? __eou__ oke cậu ơi __eou__
+cậu có muốn đi Thái Lan vào kì nghỉ hè không __eou__ có cậu ơi mình thích lắm __eou__
+cậu có thích đi Trung Quốc mình chuẩn bị đi? __eou__ có cậu mình thích Trung Quốc lắm __eou__
+cậu có muốn đi Campuchia không? __eou__ có cậu mình thích ĂngCovat ở bên Cap lắm __eou__
+Bạn ơi bạn có muốn đi du lịch với mình vào dịp hè này không ? __eou__ Oh ! được chứ bạn ! __eou__
+Oke bạn ! vậy cho mình hỏi là bạn thích đi du lịch ở đâu nhỉ ? __eou__ Hmm ! bạn cho ý kiến đi ! __eou__
+Mình có check trên các trang web và các trang mạng xã hội thì có thấy những review khá là hay về Đà Lạt bạn có muốn đi Đà lạt không nhỉ ? __eou__ Mình đi ở đó nhiều quá chán rồi bạn ạ huhu ! __eou__
+À vậy thì chúng mình đi paris được không bạn ? mình nghe nói ở đó rất đẹp nữa bạn thấy được không nè ? __eou__ Được chứ bạn thế thì thật tuyệt vời! __eou__
+bạn ơi tết này đi đâu chơi không? __eou__ ok cũng được vậy mình sẽ đi đâu nhỉ __eou__
+này em ơi đi du lịch với anh không? __eou__ ok anh vịnh hạ long cũng đẹp đấy ạ __eou__
+mọi người ơi sắp họp lớp rồi mình hẹn nhau ở đâu đi? __eou__ ohm vậy hả nhân dịp này mình làm chuyến du lịch luôn thôi __eou__
+ê mày đi chỗ này chơi không nghe nói vui lắm? __eou__ ok mày đi luôn nè, mày qua chở tao đi __eou__
+Ê bạn đi chùa cầu duyên không dạo này ế quá? __eou__ ok dạo này tao hơi nghiệp mình đi chùa làm phước phóng sanh đi __eou__
+Tết sắp đến rồi bạn dự định sẽ đi đâu ? __eou__ Phan thiết __eou__
+Bạn dự định đi vào ngày nào sẽ thoải mái ? __eou__ Mùng 3 tết __eou__
+Có ai đi chung với bạn trong chuyến đi này không ? __eou__ Tụi mình __eou__
+Bạn đã gọi điện để đặt phòng chưa ? __eou__ Rồi __eou__
+Bạn dự định sẽ chuẩn bị trang phục như thế nào cho chuyến đi ? __eou__ Trắng đen __eou__

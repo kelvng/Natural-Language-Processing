@@ -1,0 +1,271 @@
+bạn thích hãng phim nào nhất ? __eou__ mình thích hãng phim Marvel nhất __eou__
+thể loại phim bạn thích là gì ? __eou__ mình thích thể loại phim hành động, viễn tưởng __eou__
+bạn có thần tượng ca sĩ nào không ? __eou__ mình rất thích ca sĩ Noo Phước Thịnh __eou__
+bạn có muốn thử vận may vào việc chơi đề ? __eou__ mình không muốn cờ bạc __eou__
+tết này bạn có muốn đi xem phim không ? __eou__ tất nhiên rồi, mình rất muốn __eou__
+cuối tuần này bạn có rãnh hay không? __eou__ cuối tuần này mình rãnh __eou__
+bạn có muốn đi xem phim vào cuối tuần này hay không? __eou__ dĩ nhiên là muốn rồi __eou__
+mai bạn có muốn đi đá banh chung với tụi mình không? __eou__ xin lỗi mai mình có việc bận rồi __eou__
+bạn có dự định đi chơi đâu vào cuối tuần không? __eou__ không hiện tại mình chưa có dự định gì __eou__
+bạn cho mình hỏi bạn thích xem phim thể loại gì? __eou__ tớ thích xem phim thể loại hành động __eou__
+bạn cho mình hỏi bạn có hay đi chơi ở đâu không? __eou__ tớ không hay đi chơi ở đâu hết __eou__
+bạn cho mình hỏi bạn thích xem phim gì nhất? __eou__ tớ thích xem phim "Kỳ nghỉ nhớ đời" __eou__
+bạn cho mình hỏi bạn thường đi xem phim chung với ai? __eou__ tớ thường đi xem phim chung với bạn bè __eou__
+bạn cho mình hỏi bạn có thích xem phim kinh dị không? __eou__ tớ không thích xem phim kinh dị __eou__
+bạn cho mình hỏi bạn có thích ăn gì trong khi xem phim không? __eou__ tớ thích ăn bổng ngô khi đang xem phim __eou__
+Phim hồi nãy hay không? __eou__ Phim CGV hay đấy chứ. __eou__
+Phim này gay cấn nhỉ? __eou__ Ừ, nãy coi ở CGV hồi hộp thật. __eou__
+Hôm nay đi xem phim chứ? __eou__ Ok, coi ở rạp CGV nha. __eou__
+Cậu muốn coi phim gì? __eou__ Tùy cậu, mình chỉ muốn coi ở CGV. __eou__
+Hôm nay mình đi xem phim tại CGV nhé? __eou__ OK cậu. __eou__
+Mình đi xem phim ở đâu? __eou__ Ở CGV đi. __eou__
+Phim hồi nãy hay không? __eou__ Phim CGV hay đấy chứ. __eou__
+Phim này gay cấn nhỉ? __eou__ Ừ, nãy coi ở CGV hồi hộp thật. __eou__
+Hôm nay đi xem phim chứ? __eou__ Ok, coi ở rạp CGV nha. __eou__
+Cậu muốn coi phim gì? __eou__ Tùy cậu, mình chỉ muốn coi ở CGV. __eou__
+Hôm nay mình đi xem phim tại CGV nhé? __eou__ OK cậu. __eou__
+Mình đi xem phim ở đâu? __eou__ Ở CGV đi. __eou__
+rảnh không? __eou__ không rảnh __eou__
+đi xem phim hay đi chơi ko? __eou__ xem phim __eou__
+thích xem phim gì? __eou__ phim kinh dịp __eou__
+mấy giờ? __eou__ 3 giờ __eou__
+ai đặt vé __eou__ mình __eou__
+đi coi phim Transformer không Tú? __eou__ ok, mình đi __eou__
+hôm nay mình rảnh, đi uống cà phê không bạn? __eou__ xin lỗi, hôm nay mình bận rồi. __eou__
+đi coi phim Titanic không Bảo? __eou__ xin lỗi, mình bận rồi __eou__
+cuối tuần này bạn có rãnh hay không? __eou__ cuối tuần này mình rãnh __eou__
+bạn có muốn đi xem phim vào cuối tuần này hay không? __eou__ dĩ nhiên là muốn rồi __eou__
+mai bạn có muốn đi đá banh chung với tụi mình không? __eou__ xin lỗi mai mình có việc bận rồi __eou__
+bạn có dự định đi chơi đâu vào cuối tuần không? __eou__ không hiện tại mình chưa có dự định gì __eou__
+cậu có thích đi xem phim hay đi chơi game chi đó không? __eou__ tớ thích đi xem phim nha __eou__
+cậu thích thể loại phim nào? __eou__ tớ thích kiểu phim siêu anh hùng giống marvel hay dc comic á __eou__
+Ê vậy cậu biết tập vừa mới ra đang công chiếu á. __eou__ ừ tớ biết, sao á __eou__
+định đi xem nè không biết rủ ai, cậu đi không? __eou__ okay cậu, cậu muốn đi luôn chiều nay hay sao. __eou__
+đúng rồi nè okay có gì tớ điện cậu sau nhen. __eou__ okay __eou__
+alo, cậu tới chưa __eou__ tớ vừa mới tới rồi nè __eou__
+okay tớ thấy cậu rồi __eou__ tớ cũng thấy cậu rồi __eou__
+đi vô mua vé xem phim thôi __eou__ okay đi __eou__
+Phim hồi nãy hay không? __eou__ Phim ấy hay đấy chứ. __eou__
+Phim này gay cấn nhỉ? __eou__ Ừ, phim này coi ở CGV hồi hộp thật. __eou__
+Hôm nay đi xem phim chứ? __eou__ Ok, coi ở rạp BHD nha. __eou__
+Cậu muốn coi phim gì? __eou__ Tùy cậu, mình chỉ muốn coi ở HBD. __eou__
+Hôm nay mình đi xem phim tại BHD nhé? __eou__ OK cậu. __eou__
+Mình đi xem phim ở đâu? __eou__ Ở BHD đi. __eou__
+Hôm nay bạn có biết phim nào mới ra rạp không ? __eou__ Hôm nay có phim của marvel mới ra __eou__
+chính xác là phim nào ? __eou__ là endgame đấy __eou__
+Nó có hay không ? __eou__ ồ nó là siêu phẩm bom tấn đấy __eou__
+Phim nó diễn biến như thế nào ? __eou__ Tập hợp những siêu anh hùng giải cứu thế giới khỏi Thanos __eou__
+Thế diễn viên thì sao ? __eou__ Mê nhất là doremon __eou__
+Bạn biết kết của phim không ? __eou__ say no spoiler __eou__
+bạn có thích xem phim không? __eou__ chắc chắn là có rồi __eou__
+tên bộ phim bạn thích nhất là gì? __eou__ Series phim của Marvel __eou__
+bạn thích thể loại phim nào? __eou__ mình thích phim hành động, gay cấn và hài hước __eou__
+bạn có chơi trò chơi điện tử không? __eou__ có, mình chơi game mỗi tối luôn __eou__
+bạn có chơi game không? __eou__ có, mình chơi game mỗi tối luôn __eou__
+các game bạn hay chơi là gì vậy? __eou__ mình hay chơi liên minh huyền thoại với CSGO __eou__
+bạn có muốn đi xem phim cùng không? __eou__ dạo này dịch đang bùng phát trở lại nên chắc mình sẽ không đi đâu __eou__
+Cuối tuần này đi xem phim không em yêu ? __eou__ Ok được chứ, chọn phim đi anh yêu __eou__
+Học xong sớm, đi chơi game không mày ? __eou__ Xin lỗi, nay nhà tao có việc bận không đi được rồi __eou__
+Chiều nay có trận đá banh giao hữu với khoa khác, đi xem cùng tui không nè ? __eou__ Hình như tói nay tui có lịch hẹn trước rồi __eou__
+Thứ 6 này có lịch đánh giải VCS đi xem không ? __eou__ Đi chứ, kèo GAM với SE hay vậy sao không đi được __eou__
+tao mới lên kèo bóng rổ với tụi thằng Bảo, chiến không ? __eou__ đánh giao hữu thôi nha, chứ tao lười hard lắm __eou__
+Cuối tuần rảnh qua nhà tao bơi không ? __eou__ Ok được đó, lâu rồi không có dịp đi bơi, vận động cho khỏe người mới được __eou__
+Tối nay đi cà phê không bạn? __eou__ Mấy giờ đi vậy? __eou__
+20h đi __eou__ Sao trễ quá vậy? __eou__
+Vậy mấy giờ bạn đi được? __eou__ 19h nha __eou__
+Ừ, cũng được __eou__ Mà đi quán nào? __eou__
+Quán cũ đi __eou__ Hay đi TCH bên NAT đi __eou__
+Có bạn nào muốn đi xem phim với mình không nè? __eou__ bạn có thể cho mình đi cùng với nha. __eou__
+bạn có biết phim gì đang cháy vé vào cuối năm 2020 không? __eou__ minh nghe đâu đấy hình như là "lừa đểu gặp lừa đảo" đấy bạn. __eou__
+Không biết chừng nào "Kingsman" mới ra rạp phim vậy mọi người? __eou__ mình thấy tình hình dịch có vẻ tiến triển xấu, chắc sẽ phải dời tới tháng ba năm 2021 đó. __eou__
+có ai đi chơi điện tử không nè? __eou__ Ở đây tụi mình có 5 bạn, không biết tham gia chung được không cậu. __eou__
+sáng thứ 7 ở nhà hát thành phố có ca nhạc ngoài trời, ai coi không? __eou__ Có vẻ như sáng thứ bảy, mình phải ở nhà phụ việc nhà mất rồi nên chắc không đi được với cậu. __eou__
+Bây giờ đi xem phim với mình không? __eou__ Xin lỗi nha, mình đang bận __eou__
+Khi nào bạn rãnh để đi? __eou__ ngày mai mình mới rãnh __eou__
+Vậy hẹn bạn ngày mai đi xem phim với mình nha? __eou__ Hẹn gặp bạn ngày mai ở rạp nha __eou__
+Mình rủ bạn đi cùng được không? __eou__ được nha, đi càng đông càng vui __eou__
+Hiện tại phim nào hay vậy bạn? __eou__ Mình cũng không biết nữa __eou__
+Bạn chọn phim nào để xem vậy? __eou__ mình chọn phim hành động nha __eou__
+Bạn có thích xem phim kinh dị không? __eou__ không nha, mình chỉ thích xem phim hành động thôi __eou__
+Cuối tuần này bạn có rảnh không? __eou__ Cuối tuần này mình rảnh __eou__
+Bạn có muốn đi chơi hay đi xem phim cùng mình không? __eou__ ok. tớ muốn đi xem phim __eou__
+Bạn thích xem thể loại phim nào: phim tình cảm, phim hành động, phim ma, phim hoạt hình,...? __eou__ tớ muốn xem phim hành động __eou__
+Bạn muốn mình đặt vé trước hay cậu đặt vé? __eou__ bạn đặt vé trước cho tớ luôn nhé __eou__
+Vậy chiều chủ nhật mình chờ nhau tại cổng lotte nha, cậu muốn mấy giờ? __eou__ tớ nghĩ bốn(4) giờ là thích hợp __eou__
+Bạn có muốn đi xem phim không? __eou__ Được chứ __eou__
+Bạn muốn xem ở đâu? __eou__ Tụi mình xem ở Hùng Vương Plaza nhé __eou__
+Bạn muốn xem thể loại gì? __eou__ Mình thích thể loại kinh dị __eou__
+Bạn có muốn ăn gì trong lúc xem phim không? __eou__ Mình muốn ăng bắp rang bơ __eou__
+Mình mua cho bạn một combo nhé? __eou__ Cảm ơn bạn __eou__
+Bạn có muốn rủ thêm ai không? __eou__ Không, chỉ mình thôi __eou__
+Tối nay có film mới ra rạp, em đi với anh chứ? __eou__ Dạ okie anh, mấy giờ anh nhỉ? __eou__
+20h em nhỉ? __eou__ Okie anh, vừa đúng lúc em đi học về. __eou__
+Vậy chiều em đừng đi xe, anh sang chở đi học luôn nhé? __eou__ Vậy cũng được anh ^^ __eou__
+bạn muốn đi chơi với mình không? __eou__ được mình đi với bạn __eou__
+bạn muốn đi xem phim không? __eou__ ok bạn __eou__
+bạn muốn xem phim gì? __eou__ mình xem phim gì cũng được tùy bạn __eou__
+vậy mình chọn đại 1 phim nhé ? __eou__ ok bạn __eou__
+xem phim xong mình đi đâu đó chơi tiếp không? __eou__ ok bạn __eou__
+bạn muốn đi đâu ? __eou__ đi đâu cũng được bạn __eou__
+đi chơi ở game center không bạn __eou__ ok bạn __eou__
+cậu thường làm gì lúc rãnh? __eou__ tớ hay đọc sách, nấu ăn. Thỉnh thoảng thì dọn dẹp nhà cửa hoặc ngủ. À tớ cũng hay nghe nhạc nữa. __eou__
+cậu có đi làm thêm không? __eou__ ngoài việc học ra thì hiện tại tớ cũng có làm thêm. __eou__
+vậy cậu làm thêm ở đâu? __eou__ hiện tại tớ đang làm thêm tại một nhà hàng món Thái ở quận 7. __eou__
+nơi cậu làm thì một ca làm có mấy tiếng? __eou__ nhà hàng nơi tớ làm một ca làm là 5 tiếng, một ngày 2 ca từ 9 giờ đến 14giờ và từ 17 giờ đến 22 giờ 30. __eou__
+ở Tôn Đức Thắng thì một ca học có mấy tiếng ? __eou__ ở Tôn Đức Thắng thì một ca học tương đương 3 tiết học và tổng thời gian học là 2 tiếng 15 phút. __eou__
+phải làm gì nếu sai quy định và bị giám thị bắt? __eou__ tớ nghĩ cậu nên thử xin hoặc năn nỉ giám thị, nếu không được thì chỉ còn cách kí tên vào biên bản thôi. __eou__
+nếu bị mất thẻ sinh viên thì tớ phải làm gì? __eou__ nếu bị mất thẻ sinh viên thì cậu phải liên hệ phòng A003 nhanh nhất có thể để được cấp thẻ tạm và đăng kí làm lại thẻ với mức phí 50 nghìn. __eou__
+cậu biết trong trường thường có gì vui không? __eou__ theo tớ thấy thì sinh viên trường ăn mặc rất hiện đại và có phong cách, mỗi ngày đến trường đều có thể coi như là một lễ hội thời trang. __eou__
+vậy trong trường mình có gì cậu cho là không được vui? __eou__ dù vô tình hay cố ý thì mỗi ngày đều sẽ kẹt xe đều cả 4 ca và thang máy cũng thế. __eou__
+trường Tôn Đức Thắng có gì đặc biệt không cậu? __eou__ mình nghĩ đặc biệt nhất là thư viện được đầu tư xây dựng với 129 tỉ, 5 lầu khang trang với đủ mọi đầu sách, sức chưa tối đa 3000 người cùng lúc. __eou__
+Bạn có thường đi chơi không? __eou__ Mình có đi chơi thường xuyên. __eou__
+Bạn có hay đi chơi ở trung tâm thành phố không? __eou__ Mình cũng đi khá thường xuyên. __eou__
+Bạn thường đi chơi ở các địa điểm nào? __eou__ Mình hay đi phố đi bộ, hồ con rùa, cầu Ánh Sao. __eou__
+Bạn đi chơi với ai? __eou__ Mình đi cùng các bạn trên đại học. __eou__
+Bạn có hay đi xem ca nhạc không? __eou__ Có, mình thường đến các show rap. __eou__
+Sắp có Rap Việt concert, bạn có tham gia chứ. __eou__ Mình đã mua vé nhưng đang bị hoãn do dịch Covid-19. __eou__
+Vậy sắp tới bạn có đi sự kiện nào không? __eou__ Không, mình ở nhà vì Tổ quốc. __eou__
+Tết này bạn có dự đình đi du lịch không? __eou__ Có nhưng phải theo dõi tình hình dịch bệnh. __eou__
+Bạn có hay chơi game online không? __eou__ Không mình không có sở thích chơi game. __eou__
+Vậy bạn thsich đọc sách chứ? __eou__ Mình rất thích đọc sách và thường hay đọc mỗi khi có thời gian. __eou__
+đi Đà Lạt với mình không bạn ? __eou__ Ok bạn __eou__
+nên đi bằng xe máy hay xe khách nhỉ ? __eou__ đi xe khách đi bạn cho an toàn __eou__
+bạn biết nhà xe nào lên Đà Lạt không ? __eou__ Mình biết nhà xe Thành Bưởi __eou__
+Bạn đã lên Đà Lạt chơi lần nào chưa ? __eou__ Mình có đi một vài lần __eou__
+Với ai ? __eou__ Với gia đình mình __eou__
+Cuối tuần này đi xem phim không bạn? __eou__ Được chứ mình đi __eou__
+Đi xem phim gì đây? __eou__ Mình đi xem phim Trạng Tí nha __eou__
+Mình xem lúc 7h tối mai nha? __eou__ Ừm, vậy thứ 7 gặp nha __eou__
+Thứ 2 tuần sau có phim mới hay lắm bạn đi xem với tui không? __eou__ Để mình xem lại thời khóa biểu trên trường coi rãnh không __eou__
+Ngày mai có lễ hội âm nhạc mình đi chơi không? __eou__ Ok.Vậy hẹn mai gặp __eou__
+Hiện tại mình có  dư một vé xem phim bạn có muốn đi xem cùng mình không? __eou__ Ok.Cảm ơn bạn nha __eou__
+Bạn có coi phim nhiều không? __eou__ Mình không xem phim nhiều lắm. __eou__
+Chứ thông thường bạn hay xem phim gì? __eou__ Tùy, lâu lâu bộ Movie, nhưng thường là Anime hoặc đọc Manga và Light Novel hơn là xem phim. __eou__
+Đọc Light Novel bạn không thấy chán à ? __eou__ Tùy thôi, nếu là Light Novel hay thì mình đọc cả ngày cũng không chán, nếu không thì mình đọc lướt qua là buồn ngủ ngay. __eou__
+Bạn thường hay chơi game gì vậy Quang? __eou__ Dạo này mình thường chơi game online như World of Warships, Genshin Impact, Minecraft. Còn game offline thì mình chơi tùm lum hết, thích game nào là chơi game đó. __eou__
+Một số game offline mà bạn thích là gì vậy Quang? __eou__ Các game mình thích như Mount and Blade, The Witcher 3, Kerbal Space Program, Phasmophobia,... __eou__
+Bạn có chơi Liên Minh không Quang? __eou__ Không, mình không còn chơi Liên Minh nữa. __eou__
+World of Warships là game gì vậy ? __eou__ World of Warships là game bằn tàu, 2016 chơi vui chứ 2021 mình càng chơi càng thấy teo não. __eou__
+Bạn chơi qua game Cyberpunk2077 chưa, và nếu chơi rồi thì bạn thấy game đó như thế nào? __eou__ Cyberpunk2077 có cốt truyện được viết khá tốt, nhân vật chính có cá tính thật nhưng ngoài 2 cái đó ra thì Cyberpunk2077 khá là nhàm chán. __eou__
+Kerbal Space Program là game nói về cái gì vậy? __eou__ Mặc định thì Kerbal Space Program là game nói về việc khám phá các hành tinh trong hệ mặt trời của game, bạn có thể thiết kế tên lữa, tàu bay (Space Shuttle) để bay lên quỹ đạo và từ đó đi khám phá. __eou__
+Phasmophobia là game nói về cái gì vậy? __eou__ Phasmophobia là game Coop bắt ma, một mình bạn hoặc nhóm người cùng nhau khám phá một màn, kiếm thông tin về con ma để nhận diện con ma đó thuộc loại gì. Nếu tìm kiếm quá lâu, con ma có thể nổi giận và đi săn người chơi và giết họ. __eou__
+ngày mai bạn rảnh thì đi xem phim với mình nhé? __eou__ ngày mai mình bận học rồi __eou__
+cuối tuần này đi xem phim với mình nhé? __eou__ vâng __eou__
+bạn thích xem phim thể loại gì? __eou__ mình thích xem phim hành động __eou__
+bạn thích thể loại phim nào nhất? __eou__ mình thích thể loại phim kinh dị __eou__
+bạn thích đi đâu chơi nhất? __eou__ mình thích đi Thảo Cầm Viên __eou__
+khi rảnh rỗi bạn thường đi đâu? __eou__ mình thường đi nhà sách __eou__
+Bạn có muốn hôm nay đi xem phim không ? __eou__ Cũng được nhé bạn ! __eou__
+Bạn có đề xuất xem phim gì không nè ? Hiện tại rạp đang chiếu phim Star War, bạn có muốn xem phim này không ? __eou__ Tớ nghe bảo phim này khá là hay vậy chúng ta cùng đi xem phim này nào ! __eou__
+Bạn có muốn rủ thêm ai đi chung không nè ? __eou__ Thôi! mình nghĩ mình muốn đi riêng với bạn thôi! __eou__
+Vậy bạn có thể đi lúc mấy giờ vậy nhỉ ? __eou__ Tối nay lúc 7h30 nhé ! mình thấy có 1 suất giờ đó mà mình cũng rảnh giờ đó nữa ! __eou__
+Bạn hay xem tại rạp nào? __eou__ Mình hay đi xem tại CGV __eou__
+Bạn có yêu thích phim gì không? __eou__ Có chứ, phim Avengers - Biệt đội siêu anh hùng __eou__
+Công ty sản xuất của bộ phim đó là gì nhỉ? __eou__ Marvel Studios ấy bạn __eou__
+Nhân vật yêu thích của bạn là gì? __eou__ Iron Man bạn ạ __eou__
+Diễn viên đảm nhiệm nhân vật đó là ai? __eou__ Robert Downey, Jr. __eou__
+bạn thích xem phim gì? __eou__ mình thích xem phim khoa học viễn tưởng __eou__
+bạn hay đi xem ở đâu? __eou__ mình hay đi xem ở rạp CGV __eou__
+bạn có chơi game không? __eou__ có chứ __eou__
+bạn đang chơi game gì? __eou__ mình chơi Liên minh huyền thoại __eou__
+bạn hay chơi một mình hả? __eou__ mình hay chơi với bạn mình __eou__
+bạn ơi bạn có muốn đi xem phim với mình không? __eou__ mình muốn chứ __eou__
+bạn ơi bạn muốn đi xem phim gì? __eou__ mình muốn đi xem phim Prison Break __eou__
+Chủ nhật này bạn rảnh không? __eou__ Ừm, mình rảnh. __eou__
+Đi xem phim chung với mình không? __eou__ OK, mình đi chung. __eou__
+Bạn thích thể loại phimn nào? __eou__ Mình thích phim có drama. __eou__
+Bạn có chơi game không? __eou__ Mình cũng hay chơi game lắm. __eou__
+Bạn thích chơi thể loại game nào? __eou__ Mình thích nhất thể loại kinh dị __eou__
+Vậy mai qua nhà mình chơi không? __eou__ Được luôn, mai mình sẽ qua. __eou__
+Tối mai đi coi phim không Lan? __eou__ Đi chứ, tối mai mình khá rảnh. __eou__
+Thế Lan thích coi phim gì? __eou__ Mình coi phim hoạt hình đi, mình thích phim Doraemon ấy. __eou__
+Lan có muốn dùng bắp rang với nước ngọt không? __eou__ Cũng được nè, mình chọn combo 2 tặng 1 nhé. __eou__
+Ok. Vậy giờ mình đi mua vé đi? __eou__ Ừm, Thế mua ở Lotte ha __eou__
+Ở đó có vé đắt không đấy? __eou__ À, không đâu. Sinh viên được giảm giá còn 50k nha __eou__
+Tối đi xem phim không mày ? __eou__ Tao hết tiền rồi __eou__
+Bộ phim hôm qua hay ha ? __eou__ Tao thấy cũng bình thường __eou__
+Mai đi net không ? __eou__ Mày bao thì đi __eou__
+Tối đi đâu chơi không bạn ? __eou__ Đi xem phim đi __eou__
+Mày biết bộ phim nào hay không ? __eou__ không biết nữa __eou__
+Bạn thường hay xem phim thể loại gì? __eou__ Mình hay coi phim kinh dị với phim hài. __eou__
+Bạn có hay đi ra rạp xem phim Tết không? __eou__ Mình có hay đi chung với gia đình và bạn. __eou__
+Ngoài rạp vừa ra phim hài Tết hay lắm, cuối tuần này mình đi xem nha? __eou__ Vậy hẹn bạn cuối tuần 6h tối mình gặp ở BHD 3 tháng 2. __eou__
+Nhà bạn ở đâu để mình qua đi chung luôn? __eou__ Nhà mình ở trọ gần trường mình học á. __eou__
+Phim chiếu suất 7h tối, vậy 6h30 mình qua đón bạn ha? __eou__ Vâng, vậy cũng được. __eou__
+Bạn đi xem phim không? __eou__ Mình nghĩ ở nhà coi netflix sướng hơn __eou__
+Bạn chơi game không? __eou__ Mình không chơi game __eou__
+Bạn đang ở trường hay ở đâu mình qua chở đi chơi nè? __eou__ Mình đang ở quận 3 á __eou__
+Bạn có thích xem phim dài tập không? __eou__ Mình không thích xem phim dài tập __eou__
+Phim gì gây ấn tượng với bạn nhất? __eou__ Đó là phim Minh Lan truyện __eou__
+Bạn thích các thể loại phim gì? __eou__ Mình thích các thể loại phim như: hành động, hài kịch, phim ma và tu tiên __eou__
+Bạn thích nhất là xem phim j? __eou__ Phim mình thích nhất là phim hoạt hình doremon __eou__
+Nơi bạn thích đi chơi nhất là ở đâu? __eou__ Mình thích đến những nơi như quán nước và những khu vực ngắm cảnh __eou__
+Tuần sau có công chiếu phim mà mình thích coi. Bạn có muốn đi cùng mình không? __eou__ Nếu là thứ 6 thì mình có thể đi cùng bạn __eou__
+Bạn có thích xem phim kình dị không? __eou__ Mình không thích xem phim kinh dị __eou__
+Hôm nay bạn rãnh không?Mình đi xem phim nhé? __eou__ OK.Mình rãnh lúc 8h __eou__
+Bạn có thích chơi game không? __eou__ Có?Mình thích chơi LMHT. __eou__
+Bạn có thích bóng đá không? __eou__ Có?Đó là môn thể thao mình hâm mộ __eou__
+Cầu thủ bạn thích là ai? __eou__ Mình chỉ xem và không hâm mộ ai cả __eou__
+Bạn có thể đi xem trận đấu tối giữa VN và ThaiLan với mình không? __eou__ OK. __eou__
+Cuối tuần này mình có 2 vé xem phim bạn có rảnh đi cùng mình không? __eou__ Được chứ, nghe hay đấy! __eou__
+Thế giữa phim hoạt hình và hành động bắn súng tâm lý tình cảm, cậu thích xem gì? __eou__ Gì cũng được miễn là xem cùng cậu hihi __eou__
+Cậu muốn xem rạp nào? __eou__ Rạp nào có ghế đôi nhé __eou__
+bạn thích xem phim gì? __eou__ mình thích xem phim khoa học viễn tưởng __eou__
+bạn hay đi xem ở đâu? __eou__ mình hay đi xem ở rạp CGV __eou__
+bạn có chơi game không? __eou__ có chứ __eou__
+bạn đang chơi game gì? __eou__ mình chơi Liên minh huyền thoại __eou__
+bạn hay chơi một mình hả? __eou__ mình hay chơi với bạn mình __eou__
+Di choi xem phim gi khong? __eou__ O dau? __eou__
+Lotte __eou__ May gio? __eou__
+Xem phim khong? __eou__ O dau? __eou__
+Lotte __eou__ May gio? __eou__
+Chiều cậu có rãnh chơi game cùng mình không? __eou__ Được, chiều mình rãnh nha __eou__
+Tối nay cậu có rãnh không, đi xem phim cùng mình __eou__ Tối nay ư, được ă, tối nay mình rãnh __eou__
+Vậy bọn mình hẹn nhau 8h tối này tại Vivo city nhá __eou__ Ok cậu, mình sẽ đến đúng giờ __eou__
+Cậu cho mình hỏi, cậu biết chơi bóng chuyền không? __eou__ Biết ă, mình cũng đã từng chơi hồi lúc còn đi học ă. __eou__
+Cậu ơi, cậu đang làm gì vậy ? __eou__ Tớ đang nằm nhà bấm điện thoại __eou__
+Tớ cũng đang rãnh, nãy lướt web xem phim đang chiếu ngoài rạp, thấy phim Godzilla vs Kong cũng khá hay, cậu đi coi chung với tớ không ? __eou__ Đợi tí tớ xem trailer đã. Được! Duyệt! Phim hay đấy __eou__
+Khung giờ nè, cậu cậu muốn đi mấy giờ ? __eou__ Cậu chọn đi, tớ xem lúc nào cũng được, đang rãnh mà __eou__
+Vậy tối nay 6g rạp CGV Cresent Mall nha cậu ? __eou__ Okay cậu __eou__
+Tới đó rồi mua bắp, nước luôn ha ? __eou__ Okay luôn nhá __eou__
+Bạn ơi, bây giờ bạn có bận gì không? __eou__ Không bạn ơi, mình đang rảnh. __eou__
+Mình có thể mời bạn chơi vài game không? __eou__ Được chứ, mình không phiền đâu. __eou__
+Tối nay, bạn có muốn cùng mình xem phim không? __eou__ Xin lỗi, mình không xem cùng bạn được rồi. __eou__
+Bạn bận việc gì à? __eou__ Lúc đó mình xem phim cùng người yêu rồi. __eou__
+Hôm sau tụi mình cùng cùng xem phim thì bạn không phiền chứ? __eou__ Ok, thế chì hôm sau nhé __eou__
+ê đi xem film không bạn? __eou__ kím chỗ đi rồi cùng nhau đi __eou__
+xem phim ở đâu vậy mày? __eou__ tui định xem ở Gò Vấp á __eou__
+rủ thêm bạn bè đi cùng cho vui? __eou__ ok, để giờ nhắn tin rủ thêm người __eou__
+coi chị 13 không, nghe nói mới công chiếu? __eou__ thấy trailer hay lắm, đi liền __eou__
+Bạn thường hay xem phim thể loại gì? __eou__ Mình hay coi phim kinh dị với phim hài. __eou__
+Bạn có hay đi ra rạp xem phim Tết không? __eou__ Mình có hay đi chung với gia đình và bạn. __eou__
+Ngoài rạp vừa ra phim hài Tết hay lắm, cuối tuần này mình đi xem nha? __eou__ Vậy hẹn bạn cuối tuần 6h tối mình gặp ở BHD 3 tháng 2. __eou__
+Nhà bạn ở đâu để mình qua đi chung luôn? __eou__ Nhà mình ở trọ gần trường mình học á. __eou__
+Phim chiếu suất 7h tối, vậy 6h30 mình qua đón bạn ha? __eou__ Vâng, vậy cũng được. __eou__
+Cậu thích phim thể loại gì? __eou__ Tớ thích phim thể loại hành động có chút yếu tố kinh dị. __eou__
+Có phim nào về thể loại kinh dị hay không? __eou__ Phim the saw khá hay! __eou__
+Có phim nào về thể loại hành động hay không? __eou__ Phim Kẻ hủy diệt hay đó __eou__
+Có phim nào về thể loại tình cảm hay không? __eou__ Phim Crash landing on you khá nổi tiếng __eou__
+Có phim nào về thể loại tội phạm hay không? __eou__ Phim Extracurricular của Hàn Quốc cực hay. __eou__
+Có phim nào về thể loại viễn tưởng hay không? __eou__ Phim Avengers nổi tiếng lắm. __eou__
+tuần này bạn có muốn đi xem phim không? __eou__ tớ có __eou__
+bộ phim bọn mình chuẩn bị xem tên là gì vậy bạn? __eou__ phim bọn mình chuẩn bị xem là avendture __eou__
+bộ phim mấy giờ bắt đầu vậy bạn? __eou__ bộ phim bắt đầu lúc 9 giờ __eou__
+bạn có thích chơi bóng rổ không? __eou__ tớ có thích __eou__
+bạn có muốn đi chơi đâu đó cho giải toả không khí sau kì thi không? __eou__ tớ có __eou__
+vậy bọn mình sẽ đi đâu bạn nhỉ? __eou__ tớ nghĩ bọn mình sẽ đi Đầm Sen park. __eou__
+nó ở khúc nào vậy cậu? __eou__ Đầm Sen park ở đường Hoà Bình Quận 11 __eou__
+Bạn có muốn hôm nay đi xem phim không ? __eou__ Oke bạn. __eou__
+Bạn muốn xem thể loại phim nào nà? __eou__ Mình thích xem phim tình cảm. __eou__
+Bạn có muốn rủ thêm ai đi chung không nè ? __eou__ Mình nghĩ chỉ chúng ta thôi __eou__
+Vậy bạn có thể đi lúc mấy giờ vậy nhỉ ? __eou__ Chiều nay 17h nhé. __eou__
+bạn thấy phim này hay không __eou__ phim gì vậy bạn? __eou__
+phim endgame hay không vậy bạn> __eou__ phim đó hay lắm bạn, đánh nhau hay lắm __eou__
+bạn xem phim infinity war chưa? __eou__ phải chi Thor nhắm vào đầu Thanos :( __eou__
+mình còn 2 vé bạn đi xem cùng mình không? __eou__ được bạn thế khi nào mình đi __eou__
+đi chơi không? __eou__ ok đi chơi đi buồn quá nè __eou__
+Bạn cho mình hỏi bạn muốn xem phim không ? __eou__ OK __eou__
+Bạn cho mình hỏi bạn muốn đi net không ? __eou__ Đi __eou__
+Bạn cho mình hỏi bạn muốn rủ ai không ? __eou__ OK __eou__
+Tớ có 1 cặp vé xem phim, cậu cho mình hỏi cậu muốn đi chung không ? __eou__ Không, cậu có thể xem 2 lần mà __eou__
+Tớ muốn đi với cậu, cậu có đồng ý đi với tớ không ? __eou__ Tớ thì không __eou__

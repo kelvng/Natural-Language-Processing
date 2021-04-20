@@ -1,0 +1,427 @@
+Bạn thuê trọ bao nhiêu tiền? __eou__ Mình thuê khoảng 3 tr một tháng __eou__
+Nhà bạn có bao nhiêu người vậy ? __eou__ Nhà mình có 7 người __eou__
+Nhà trọ bạn ở Phú Mỹ Hưng phải không __eou__ Không nhà mình ở Thảo Điền __eou__
+Bạn ơi cho t hỏi chỗ trọ lúc trước bạn ở giá cả như thế nào vậy ? __eou__ Giá hơi mắc nên mình đã chuyển đi rồi đó bạn, 5 triệu 1 tháng, nhưng không đáng với giá tiền đó __eou__
+Bạn ơi, lúc trước mình có nghe bạn kể rằng bạn vừa mới chuyển trọ ấy, không biết chỗ trọ mới của bạn ở đâu thế ? __eou__ À mình chuyển trọ để gần nơi đi làm, ở quận 7 đường huỳnh tấn phát á bạn __eou__
+Bạn ơi chỗ ở cũ của mình giá cao quá không biết xoay sở như nào nên đành phải chuyển trọ, bạn có biết phòng trọ cho thuê giá rẻ nào ở sài gòn mình không ? __eou__ Để cho việc tìm trọ thuận lợi thì mình khuyên bạn nên lên facebookk tìm những bài post, hoặc google để search các nhà trọ, có ảnh, địa chỉ rõ ràng, nhưng bạn phải cẩn thận khi lại ký hợp đồng, nhớ đọc kỹ vì dạo này lừa tiền cọc trên sài gòn rất phổ biến __eou__
+Mình vừa từ dưới quê lên sài gòn sinh sống nên định thuê trọ nhưng không biết cách thức thuê như nào, bạn có thể chỉ giúp mình không ? __eou__ Khi thuê trọ bạn phải đóng tiền cọc, xong khi chuyển đến bạn phải làm sổ tạm trú bằng cách khai thông tin vào giấy khai __eou__
+Hiện tại bạn đang ở trọ chung với ai vậy, có vui không chứ tui thấy ở một mình có hơi bất tiện ? __eou__ Mình hơi khó tính nên ở 1 mình, mình cảm thấy bình thường, không vui cũng không buồn, bất tiện thì không có __eou__
+hiện tại bạn đang ở nhà trọ hay là ở chung với gia đình? __eou__ hiện tại mình đang ở nhà trọ __eou__
+bạn ở nhà trọ một mình à? __eou__ không, mình ở nhà trọ với một số người bạn của mình __eou__
+bạn ở nhà trọ vậy có nhớ nhà không? __eou__ đôi lúc mình cũng nhớ nhà lắm __eou__
+bạn có hay nấu ăn ở phòng trọ không? __eou__ không, mình thường với bạn ra ngoài ăn __eou__
+bạn thuê nhà trọ như vậy có mắc không? __eou__ cũng không mắc lắm vì tụi mình chia sẻ tiền nhà với nhau mà __eou__
+nhà trọ bạn thuê có gần trường không? __eou__ nhà trọ mình cũng khá là gần trường __eou__
+nhà trọ bạn thuê có gần trường không? __eou__ nhà trọ cách trường mình 5 phút đi bộ __eou__
+Bạn thuê nhà ở đâu? __eou__ Mình thuê phòng ở đường Lê Văn Lương, quận 7 __eou__
+Chi phí 1 tháng bao nhiêu tiền? __eou__ Chi phí 1 tháng 4 triệu bao luôn phí tiền điện, nước __eou__
+Phòng bạn đang ở có mấy người? __eou__ Mình đang ở phòng 3 người __eou__
+Bạn cùng phòng của bạn tính tình như thế nào? __eou__ Bạn cùng phòng của mình cũng vui tính __eou__
+Nơi bạn ở có gần chợ không? __eou__ Nơi mình ở cách chợ 2 km __eou__
+Bạn có ở gần trường không? __eou__ Mình ở cũng khá xa trường __eou__
+Bạn thích sống ở đó không? __eou__ Mình cảm thấy rất vui khi ở đó __eou__
+Mình có thể ghé chơi vào những lúc rãnh không __eou__ Bạn có thể ghé qua phòng mình chơi vào những lúc rãnh __eou__
+Không gian phòng bạn có thoải mái không? __eou__ Không gian có cửa sổ thoáng mát nên rất thoải mái __eou__
+Hiện tại cậu đang ở đâu vậy, ở thuê hay ở nhà riêng? __eou__ Tớ hiện tại đang ở nhà riêng __eou__
+Phòng ốc nhà cậu rộng rãi không? __eou__ Phòng ốc nhà tôi Không rộng rãi lắm. __eou__
+Phòng riêng của anh có máy lạnh không? __eou__ Phòng riêng của tôi có máy lạnh. __eou__
+Gia đình có đang sống với anh không? __eou__ Gia đình tôi hiện đang sống với tôi. __eou__
+Không biết chỗ cậu có trống để thêm người vào ở không? __eou__ Nhà tôi có trống cho thêm người vào ở. __eou__
+Chào cậu. Cậu đang sống cùng gia đình hay ở trọ thế ? Mình đang tìm hiểu các nhà trọ. __eou__ Mình đang thuê trọ một mình cậu ơi __eou__
+Cậu thuê trọ ở đâu thế ? __eou__ Mình thuê trọ ở quận 7, vừa gần trường vừa gần lũ bạn __eou__
+Phòng ở thoải mái chứ ? __eou__ Ở đây thích lắm cậu ạ, thích làm gì thì làm. __eou__
+Giá cả như nào, có đắt lắm không ? __eou__ Tầm 1 triệu rưỡi đỗ lại thôi, rất thích hợp cho sinh viên nghèo haha. __eou__
+Nghe thích đấy, thế diện tích phòng như nào mà thoải mái ? __eou__ Phòng rộng đủ để ngủ, nấu ăn với sinh hoạt nè. __eou__
+Chủ nhà trọ không cấm kị gì ư ? __eou__ Chỉ cần không làm phiền ai và đóng tiền đủ là ok hết. __eou__
+Ở đó có chỗ phơi đỗ hay để xe gì không ? __eou__ Thoải mái phơi đỗ, rất nhanh khô và có chỗ để xe cho mỗi người nhé. __eou__
+Được quá. Khi nào mình rãnh sang tham quan phòng được chứ? __eou__ Dĩ nhiên. Khi nào tới bao trước với mình một câu là được. __eou__
+mày đang ở nhà trọ ở đâu thế ? __eou__ gần làng đại học á, nhà bè __eou__
+ở nhà bè giá trọ thường thuê bao nhiêu thế ? __eou__ tầm 2 triệu đến gần 4 triệu á, mà tùy phòng số lượng người ở. __eou__
+mày đang ở trọ với ai thế ? __eou__ với thằng chung phòng ktx cũ __eou__
+ở trọ nhà bè có tuyến xe bus nào đến trường không ? __eou__ có, tao ở trọ gần tuyến xe bus luôn, đi bộ khoảng 200m __eou__
+chỗ trọ mày ở có chỗ nào chơi không ? __eou__ nhà bè thì ít lắm, chỗ đó ngoại ô rồi. __eou__
+bắt grab từ nhà bè lên trường mình là bao nhiêu thế ? __eou__ tầm 40k đổ xuống, xem khuyến mãi từng app thì ít hơn nhiều. __eou__
+giá trọ 1 tháng ở đây bao nhiêu vậy? __eou__ vào khoảng 1 triệu 2 đó bạn __eou__
+ở đây có cho nấu ăn không bạn? __eou__ ở đây cho nấu tùy ý nha bạn __eou__
+gần nơi bạn ở có siêu thị gì không? __eou__ siêu thị thì không có nhưng có 2 cửa hàng tiện lợi ở đây __eou__
+nơi bạn ở trọ có gần trạm xe buýt không? __eou__ gần lắm bạn, chỉ cần 5 phút đi bộ là tới à __eou__
+theo bạn thì có những lợi ích nào khi sống ở gần trường? __eou__ theo mình nghĩ thì lợi ích lớn nhất là tiết kiệm thời gian __eou__
+nơi bạn ở trọ có được ở ghép không vậy? __eou__ được ở ghép nhưng tối đa chỉ có 3 người thôi bạn __eou__
+bạn đang thuê nhà ở bên nào thế? __eou__ mình đang thuê bên chỗ quận 7 __eou__
+tiền trọ một tháng của bạn có mắc không? __eou__ cũng không mắc lắm đâu __eou__
+chỗ bạn trọ an ninh có tốt không? __eou__ bên mình an ninh an toàn lắm __eou__
+bạn có ở chung với ai không? __eou__ mình ở với bạn mình __eou__
+tiền điện của bạn bao nhiêu 1 kw? __eou__ tiền điện bên mình 3 nghìn rưỡi 1kw __eou__
+cho mình hỏi có thể thuê nhà ở đâu? __eou__ bạn có thể kiếm phòng ở Nhà Bè __eou__
+về an ninh phòng trọ mình muốn hỏi nó có tốt không? __eou__ an ninh ổn ít trộm cắp __eou__
+và nơi ở có tiện cho mình đi học không? __eou__ không quá xa trường TDTU __eou__
+cho mình hỏi giá cả thuê phòng như nào? __eou__ giá cả ưa đãi cho sinh viên __eou__
+mình có phải ở ghép với ai nữa không? __eou__ ở ghép thì bạn đỡ tiền thuê nhà nhiều phần __eou__
+cho mình hỏi nơi đó có yên tĩnh không? __eou__ nơi thoáng mát yên tĩnh __eou__
+cho mình hỏi hiện tại bạn đang ở với ai vậy ạ ? __eou__ mình ở ghép á bạn __eou__
+không biết giá phòng mình bao nhiêu vậy ạ? __eou__ phòng mình ở 800k bạn nhé __eou__
+chỗ mình ở có wifi không thế bạn ? __eou__ có bạn nhé __eou__
+không biết chủ nhà có dễ tính không ạ ? __eou__ cô chú hơi khó chịu á bạn __eou__
+chỗ bạn ở có nhà để xe không ? __eou__ có bạn nhé __eou__
+bạn thuê nhà ở đâu vậy? __eou__ mình thuê nhà ở Nhà Bè nha __eou__
+chỗ trọ của bạn có tốt không? __eou__ cá nhân mình thấy cũng ổn __eou__
+chỗ bạn trọ bao nhiêu tiền một tháng? __eou__ chỗ mình trọ 2 triệu một tháng __eou__
+bạn ở trọ chung với ai vậy? __eou__ mình ở trọ một mình __eou__
+chỗ bạn trọ họ có bao ăn không? __eou__ chỗ mình trọ không có bao ăn nah __eou__
+Bạn học cùng lớp với mình phải không ? __eou__ Đúng rồi mình cũng học với bạn __eou__
+Mình đang timd người ở ghép chung với mình, bạn đang ở trọ ở đâu rồi á ? __eou__ Mình ở với gia đình ở quận Bình Tân __eou__
+Không phải là rất xa so với trường sao,bạn có muốn ở trọ ngoài không ? __eou__ Mình cũng đang có ý định đó mà chưa biết giá cả sao nữa. __eou__
+Bạn có muốn ở ghép với mình không ? Chi phí mỗi tháng là 5tr chia đôi là mỗi người 2tr5 __eou__ Ồ để mình suy nghĩ thêm, nhưng mà tầm giá đó ổn với mình đó __eou__
+Vậy khi nào bạn có quyết định liên lạc với mình theo số này nhé __eou__ Được rồi mình sẽ liên lạc lại nhanh nhất có thể __eou__
+Bạn thuê nhà ở đâu thế? __eou__ Mình thuê nhà ở gần trường, gần nơi làm việc để dễ dàng cho việc đi lại __eou__
+Bạn thuê nhà như thế nào thế? __eou__ Trải nghiệm của mình là mình ký hợp đồng với chủ nhà và đặt cọc, nhớ chú ý các điều khoản trong hợp đồng tránh rắc rối nhé __eou__
+Bạn hiện tại đang ở nhà thuê chung với ai thế? __eou__ Mình đang ở chung với 4 bạn, bọn mình chia sẻ tiền phòng và phí sinh hoạt với nhau. __eou__
+Giá cả của phòng thuê thì như thế nào là hợp lý vậy bạn? __eou__ Này mình không chắc chắn, nhưng theo quan điểm mình thì tầm 3 đến 4 triệu dành cho 3 hay 4 người ở là một con số hợp lý đối sinh viên bọn mình __eou__
+Nếu thuê nhà một mình, thì bạn có chịu thuê không? __eou__ Được chứ, ở một mình trong căn nhà riêng sẽ tôi luyện tính tự lập và còn có cả không gian riêng tư nữa, nên thích lắm. __eou__
+địa chỉ hiện tại của bạn ở đâu? __eou__ nhà mình ở 18 Nguyễn Hữu Thọ __eou__
+bạn sống cũng với ai? __eou__ mình sống cùng ba mẹ và một em gái __eou__
+nhà bạn ở quận nào? __eou__ nhà mình ở quận 7 __eou__
+gần nhà bạn có gì thú vị không? __eou__ gần nhà mình có trung tâm mua sắm với đầy đủ các điểm vui chơi, giải trí __eou__
+bạn sống ở đó bao lâu rồi? __eou__ mình sống ở đó từ lúc sinh ra tới bây giờ __eou__
+Hùng này , mày muốn  thuê nhà ở đâu? __eou__ Mình thuê phòng ở đường  Nguyễn oanh , quận Gò vấp. __eou__
+Hùng Đã đi xem phòng ở nơi đó chưa? __eou__ Mình Đã đi tham quan rồi , nơi đó rất đẹp , lại gần công viên gia định nữa. __eou__
+giá phòng bạn thuê ở tại đó là nhiêu? __eou__ mình thuê phòng có giá là 4 triệu đồng. __eou__
+Khu bạn sống có an ninh và trật tự không ? __eou__ khu mình sống rất an ninh, yên tĩnh , không có các tiêu cực tệ nạn xã hội. __eou__
+Phòng bạn thuê vệ sinh chung hay riêng , có sạch không ? __eou__ Mỗi phòng đều có toilet riêng và được dọn dẹp sạch sẽ bởi các cô lao công. __eou__
+hiện tại bạn đang ở sài gòn với gia đình hay sao ấy? __eou__ ùm mình hiện tại đang sinh sống và làm việc tại Sài Gòn, nhưng mình không sống chung với gia đình. __eou__
+thế bạn ở với ai? bạn ở thuê hay sao vậy? __eou__ mình làm cho công ty nên công ty lo chỗ ở cho mình nên mình không cần phải lo chỗ ở. __eou__
+bạn ở chung với bạn hay là đồng nghiệp? __eou__ hiện tại mình ở chung với đồng nghiệp, may mắn thay đồng nghiệp của mình cũng đồng thời là bạn của mình. __eou__
+nơi ở của bạn ở đâu vậy? __eou__ hiện tại mình ở căn hộ ở bên quận 2 ấy, mình quên mất tên. __eou__
+giá tiền để thuê khoảng bao nhiêu ấy? __eou__ nói thiệt thì mình cũng không rõ, do công ty mình lo về vấn đề này, nhưng điều kiện ở rất tốt và mình khá hài lòng. __eou__
+cho hỏi chú có phải chủ nhà trọ này không ạ ? __eou__ đúng rồi con __eou__
+cho con hỏi giá thuê nhà của mình là bao nhiêu vậy ạ ? __eou__ 1tr2 nha con, chưa tính tiền nước tiền điện __eou__
+vậy có thể ở mấy người vậy chú ? __eou__ có thể đủ cho 2 người nha con __eou__
+vậy khi nào con có thể dọn đến vậy ạ ? __eou__ có thể dọn vào ở vào tuần sau nha con __eou__
+nhà trọ mình có quy tắc gì không ạ ? __eou__ không về khuya quá 11 giờ, không nhậu nhẹt, không tệ nạn nha __eou__
+vậy mình đặt cọc trước bao nhiêu vậy ? __eou__ đặt trước 1 tháng là được rồi __eou__
+Bạn thuê nhà ở đâu? __eou__ Mình thuê nhà ở Nhà Bè, trước đây thì ở quận 7 __eou__
+Bạn thấy thuê ở đâu thì rẻ hơn? __eou__ Tùy từng chỗ, nếu chỗ đó cơ sở vật chất tốt thì sẽ đắt hơn __eou__
+Bạn ở bao nhiêu người trong 1 phòng? __eou__ Mình ở 3 người __eou__
+Giá của phòng bạn bao nhiêu? __eou__ Phòng mình giá 3 triệu __eou__
+Bạn ở chung cư hay ở nhà trọ sinh viên? __eou__ Mình ở chung cư __eou__
+Chung cư hay nhà trọ của bạn ở có an ninh không? __eou__ Rất an ninh __eou__
+bạn thuê nhà ở đâu __eou__ mình đang thuê nhà ở huyện Nhà Bè __eou__
+mỗi tháng chi phí thuê của bạn là bao nhiêu __eou__ mình thuê một triệu rưỡi mỗi tháng __eou__
+phòng bạn ở bao nhiêu người __eou__ hiện tại mình ở một mình nhé __eou__
+xung quanh đó có tiện nghi gì không __eou__ có rất nhiều tiện nghi cơ bản như các cửa hàng tiện lợi, hồ bơi, phòng tập gym __eou__
+đường từ nơi bạn ở đến trường đi khoảng bao lâu __eou__ mình đi khoảng 5 đến 10 phút là đến trường __eou__
+cho mình hỏi là phòng này đặt cọc trước bao nhiêu ạ __eou__ phòng này mình cho thuê cọc một tháng nha bạn __eou__
+tiền điện nước và tiền mạng như thế nào vậy bạn __eou__ bên mình cố định thu mỗi tháng 200k nha __eou__
+ê mày, mày đang thuê nhà ở đâu vậy? __eou__ lê văn lương á, đoạn gần nguyễn thị thập. __eou__
+gần trường á, nhìn ổn hông mày, gía cả sao? tại tao đang tính chuyển trọ. __eou__ chỗ ở thì okiela lắm nha, an nình trật tự ổn định, phòng sáng sủa sạch sẽ, giá thì 4 triệu rưỡi 1 phòng ở được khoảng 3 hoặc 4 người. __eou__
+ủa phòng mày còn trống chỗ hông? __eou__ phòng tao đang thiếu 1 người. mà bà chị chung phòng tao bả hơi khó tính, sợ mày không chịu được bả á. __eou__
+vậy để tao rủ thêm nhỏ bạn nữa qua ở chung khu với mày, à cho tao hỏi giờ giấc sao? __eou__ bà chủ trọ thì khó dụ giờ giấc lắm, 11h bả đóng cửa rồi, mà nếu mày nói bả đi làm thì lúc làm về chịu khó gọi điện kêu bả xuống mở cửa. __eou__
+bà chủ mày có dễ tính không? __eou__ tao thấy bả không dễ cũng không khó, mày muốn dắt bạn về qua đêm thì phải nói cho bà chủ biết. __eou__
+Bạn thuê nhà ở đâu? __eou__ Mình hiện tại thuê nhà tại Nhà Bè __eou__
+Bạn thấy thế nào về căn nhà đấy? __eou__ Theo mình thì rất tốt. __eou__
+Giá cả căn nhà bạn là bao nhiêu? __eou__ Thì phòng mình hai triệu rưỡi 1 tháng và ở 2 người __eou__
+Bạn ở với ai tại đấy? __eou__ Mình ở với bạn học của mình. __eou__
+Điện nước tính như nào bạn nhỉ? __eou__ Điện thì 20k/ 1m3. Còn nước thì 3k. __eou__
+mình có thể tìm thuê nhà ở đâu? __eou__ cậu có thể dễ dàng tìm nhà thuê tại trên các con đường như: Lê Văn Lương, Huỳnh Tấn Phát hoặc khu vực trong quận 7, quận 8, quận 4 và huyện Nhà Bè. __eou__
+mình nên thuê nhà có giá dao động từ bao nhiêu? __eou__ mức giá thấp nhất mình từng biết là từ 1,5 triệu đến cao nhất 5 triệu tùy phòng lớn hay nhỏ, ở nhiều người hay ít người, ở càng nhiều người giá càng thấp. __eou__
+mình có thể thuê nhà ở ghép với ai? __eou__ cậu có thể liên hệ với các bạn sinh viên TDTU, sinh viên Nguyễn Tất Thành, sinh viên Tài Chính Marketing. __eou__
+chổ trọ ở đâu là tốt nhất? __eou__ mình nghĩ tốt nhất và an toàn nhất là ở kí túc xá trường nhưng sẽ phải tuân theo vài quy định về giờ giấc và vệ sinh. Nếu thuê trọ mình nghĩ tiền nào của nấy và bạn nên tham khảo thêm các hội nhóm sinh viên để có cái nhìn khách quan và thực tế nhất. __eou__
+chi phí sinh hoạt ở đâu đắt nhất? __eou__ ở thành phố Hồ Chí Minh mình nghĩ chi phí ở Quận 1 và Quận 7 là sẽ đắt nhất vì mức sống ở đây cao nhất. __eou__
+cậu thường ăn uống ở đâu? __eou__ bạn có thể tìm ở xung quanh trường. Trên đường Tôn Đản Quận 4 hay chợ ẩm thực Hồ Thị Kỷ Quận 10. __eou__
+có những nơi giải trí vui chơi nào khi học ở Tôn Đức Thắng? __eou__ bạn có thể tìm đến tiệm net xung quanh trường nếu thích chơi game. Hoặc cầu Ánh Sao nếu thích đi dạo. Cresent Mall, Vivo City nếu thích mua sắm và vui chơi tổng hợp. __eou__
+mình có thể tìm đến nơi nào để đọc sách? __eou__ mình nghĩ nơi lí tưởng nhất để đọc sách là thư viện trường vì ở đó yên tĩnh tuyệt đối, không gian rộng rãi có bàn ghế luôn sẵn sàng phục vụ. __eou__
+mình có cần lưu ý gì khi học ở Tôn Đức Thắng không? __eou__ cậu cần lưu ý khi ra cổng 3 nhớ cẩn thận tư trang và điện thoại di động vì hay có móc túi. Vào thang máy nhớ xếp hàng. Không được xả rác bừa bãi. Gặp người lớn và giáo viên trong trường phải gật đầu chào hỏi. __eou__
+bạn định thuê nhà ở đâu? __eou__ mình định thuê ở gần trường __eou__
+nhà gần trường giá cả có hợp lý cho sinh viên không bạn nhỉ? __eou__ đa số các chủ nhà đều hiểu hoàn cảnh sinh viên nên giảm giá nhiều lắm __eou__
+vậy bạn định ở với ai? __eou__ thì ở với mấy bạn ở ghép chung với mình __eou__
+gần chỗ bạn ở có siêu thị hay chợ gì không? __eou__ có, có lotte mart với vivo gần đó lắm __eou__
+ở gần trường thì chắc đi học cũng tiện nhỉ? __eou__ tiện thì tiện nhưng vì gần nên hay chủ quan xong đi học trễ ấy __eou__
+Bạn ở đâu? __eou__ Mình ở quận 8 __eou__
+Bạn ở nhà thuê phải không? __eou__ Đúng rồi __eou__
+Bạn thuê nhà giá bao nhiêu __eou__ Mình thuê 3 triệu 1 tháng __eou__
+Bạn ở với ai vậy? __eou__ Mình ở với gia đình __eou__
+Mình học ở trường đại học Tôn Đức Thắng thì mình nên chọn trọ ở đâu? __eou__ Theo mình bạn nên chọn trọ ở quận 7, Nhà Bè hoặc bạn có thể ở ký túc xá của trường. __eou__
+Nhà bạn thuê có tiện ích gì không? __eou__ Nhà mình thuê có điều hoà, bếp ga, máy giặt đầy đủ. __eou__
+Nhà trọ của bạn có gần trung tâm thành phố không? __eou__ Nhà trọ mình cách trung tâm thành phố khá xa. __eou__
+Gần nhà bạn có nhiều quán ăn ngon không? __eou__ gần nhà mình có một số quan ăn nhưng cũng không ngon lắm, ăn được thôi. __eou__
+Bạn đang sống với ai? __eou__ Mình đang sống với bạn cảu mình. __eou__
+em có thể ở ktx được không ạ __eou__ em đăng ký theo form để xét ở ktx nhé __eou__
+em muốn ở lâu tại ktx thì làm thế nào ạ __eou__ em tuân thủ theo nội quy ktx và tham gia hoạt động thể dục để xét ở lại ktx nhé __eou__
+ktx có gửi xe không ạ __eou__ ktx gửi xe theo học kì, em đăng ký và đóng tiền đầy đủ nhé __eou__
+em thuê nhà ở đâu __eou__ em thuê trọ gần trường để tiện đi lại __eou__
+thời gian từ nhà đến trường mất bao lâu __eou__ em đến trường mất tầm 10 phút đi xe __eou__
+em đến trường bằng xe buýt hay xe máy __eou__ em đến bằng xe máy __eou__
+trường có vé xe buýt hỗ trợ sinh viên không ạ __eou__ trường có đăng ký vé theo tháng em nhé __eou__
+Ê mày, sắp tới tao định chuyển trọ sang Q1, mày biết chỗ nào giá cả hợp lý không ? __eou__ Sao mày chuyển trọ vậy __eou__
+Thì sắp hết hợp đồng, với chỗ này xa chỗ tao làm quá __eou__ Ok, chỗ tao đang ở có phòng trống nè, giá cả hợp lý, phòng đẹp nữa __eou__
+Bao nhiêu 1 tháng vậy ? __eou__ 3tr5 1 tháng nha mày __eou__
+Có tính tiền điện nước chưa mày ? __eou__ Điện nước tính chung rồi đó __eou__
+Ok, có máy giặt không __eou__ Máy giặt tự trang bị nha __eou__
+Ok, hợp lý đó, để tao thu xếp tháng sau chuyển __eou__ Ok __eou__
+Cảm ơn mày nha __eou__ Không có gì đâu __eou__
+Ê mày, sắp tới tao định chuyển trọ sang Q1, mày biết chỗ nào giá cả hợp lý không ? __eou__ Sao mày chuyển trọ vậy __eou__
+Thì sắp hết hợp đồng, với chỗ này xa chỗ tao làm quá __eou__ Ok, chỗ tao đang ở có phòng trống nè, giá cả hợp lý, phòng đẹp nữa __eou__
+Bao nhiêu 1 tháng vậy ? __eou__ 3tr5 1 tháng nha mày __eou__
+Có tính tiền điện nước chưa mày ? __eou__ Điện nước tính chung rồi đó __eou__
+Ok, có máy giặt không __eou__ Máy giặt tự trang bị nha __eou__
+Ok, hợp lý đó, để tao thu xếp tháng sau chuyển __eou__ Ok __eou__
+Cảm ơn mày nha __eou__ Không có gì đâu __eou__
+bạn ở trọ hay ở với ba mẹ? __eou__ mình ở trọ __eou__
+bạn thuê trọ ở đâu vậy? __eou__ mình trọ ở bên Lê Văn Lương quận 7 __eou__
+bạn có ở chung với ai không? __eou__ mình ở chung với 3 bạn khác __eou__
+giá trọ như thế nào hả bạn? __eou__ khoảng 1-1tr5 mỗi tháng __eou__
+chỗ trọ của bạn còn phòng không? __eou__ mình không biết __eou__
+bạn ở trọ như thế có nhiều bất tiện không? __eou__ lúc đầu cũng có 1 vài bất tiện __eou__
+Bạn là sinh viên tỉnh khác phải không? __eou__ Đúng vậy, mình ở Đồng Nai. __eou__
+Bạn thuê trọ hay sống ở nhà người thân? __eou__ Mình thuê trọ ở gần phía Lotte Quận 7. __eou__
+Giá cả ở đó thế nào? __eou__ Cũng khá rẻ, 1 triệu 8 trăm ngàn đồng 1 tháng chưa tính điện nước. __eou__
+Bạn ở 1 mình hay ở ghép? __eou__ Mình ở ghép cùng với 2 bạn nữa nên khá dễ chịu. __eou__
+Khu vực đó có an ninh không? __eou__ Chỗ mình kế bên công an phường. __eou__
+Chỗ bạn ở có thường bị kẹt xe không? __eou__ Thường kẹt vào sáng sớm và vào giờ tan tầm buổi chiều. __eou__
+Bạn ở cùng với các bạn cùng trường không? __eou__ Có 2 bạn học cùng trường và 1 bạn học Tài chính Marketing. __eou__
+Khu trọ của bạn có đông sinh viên không? __eou__ Có, khoảng đâu đó 80% là các bạn sinh viên. __eou__
+Bạn có thường về quê không? __eou__ Hàng tuần khi có thời gian rảnh mình sẽ về vì quên mình kahs gần thành phố. __eou__
+Hàng tháng bạn có đi làm thêm để trả tiền trọ không? __eou__ Không, tiền trọ và sinh hoạt đều do ba mẹ mfinh gửi từ quê lên. __eou__
+ông đang thuê trọ ở đâu thế, còn trống không? __eou__ tôi thuê ở gần trường, còn trống một phòng, ông có muốn thuê chung không __eou__
+sáng giờ tui đi kiếm trọ mà toàn trên 3 triệu, bà có biết chỗ nào rẻ rẻ khoảng 1.5 triệu trở xuống không? __eou__ hình như cái mới xây ở gần trường có đó, bả thử qua đó hỏi thử xem __eou__
+tui đang kiếm người ở ghép, ông có quen ai có nhu cầu không? __eou__ hình như không, nếu có thì tui báo lại cho __eou__
+chỗ ông ở có bao điện, nước với wifi không? __eou__ chỉ bao điện nước thôi ông __eou__
+tui thấy ở trong ký túc xá tù túng quá, định dọn ra ngoài ở, bà có biết chỗ nào gần trường không? __eou__ chỗ tui còn trống nè, bà muốn ở chung với tui không __eou__
+Bạn ở Ký túc xá hay ở trọ vậy ? __eou__ Mình ở trọ __eou__
+Bạn ở trọ khu nào vậy ? __eou__ Minh ở trọ khu C của làng Đại học __eou__
+Giá cả phòng trọ như thế nào ? __eou__ Phòng mình ở là 3 triệu 1 tháng __eou__
+Bạn có ở chung với ai không ? __eou__ Có, mình ở chung với 3 thằng bạn __eou__
+Khu trọ của bạn có an ninh không vậy ? __eou__ Có, rất là an nình __eou__
+Bạn ơi thuê nhà ở đâu vậy? __eou__ Lên google mà kiếm đi bạn ơi sao lại hỏi mình __eou__
+có chỗ nào giá cả hợp lý ở quận 7 không vậy bạn? __eou__ mình thấy chỗ đường số 5 ngay gần trường Tôn Đức Thắng có mấy chỗ cho thuê trọ sinh viên á. __eou__
+Bạn có ở chung với ai nữa không? __eou__ Ở với gia đình mình. __eou__
+Có chỗ nào giá cả hợp lý mà gần trung tâm không? __eou__ Mình cũng không biết hay bạn thử search google đi __eou__
+Mọi người cho em hỏi em nên ở kí túc xá hay ở trọ bên ngoài sẽ tiện hơn ạ? __eou__ Mình thấy bạn nên ở ngoài sẽ tiện hơn vì không bị gò bó thời gian, có thể đi làm thêm ở bên ngoài __eou__
+Phòng trọ mình bao nhiêu một tháng vậy cô? __eou__ à nếu chưa tính tiền điện nước thì 3 triệu một tháng á con __eou__
+Phòng trọ mình bao nhiêu một tháng vậy cô? __eou__ 2 triệu rưỡi 1 tháng __eou__
+Chỗ ông ở có mấy người rồi? __eou__ Chỗ tôi có 4 người rồi __eou__
+Chỗ ông ở có mấy người rồi? __eou__ Chỗ tôi có 3 người rồi __eou__
+Ông thấy nội thất ở đó được không? __eou__ Được lắm nha, có cả lò vi sóng luôn __eou__
+Chỗ này có an ninh không? __eou__ An ninh lắm nên cứ yên tâm __eou__
+Bạn lên đây học có ở nhà trọ không và ở đâu ? __eou__ Có nha bạn và mình ở quận 7 gần trường cho tiên cho việc đi lại. __eou__
+Bạn ở một mình hay có ở chung với ai không ? __eou__ Mình ở một mình. __eou__
+Cảm giác của bạn về chỗ ở trọ như thế nào ? __eou__ Mình cảm thấy thoải mái, nhà trọ có đầy đủ tiện nghi và hàng xóm cũng khá hiền. __eou__
+Căn nhà này như thế nào vậy ạ? __eou__ Căn nhà này rất rộng nhé bạn __eou__
+Cho mình hỏi giá cả của căn nhà này thế nào? __eou__ Giá thuê của căn nhà này khá là ổn nhé bạn __eou__
+Cho mình hỏi về an ninh của căn nhà này ạ? __eou__ Căn nhà này an ninh rất tốt nhé bạn __eou__
+Cho mình hỏi chủ nhà có khó không ạ? __eou__ Chủ nhà này rất hiền bạn nhé __eou__
+Ngôi nhà này có tiện đường đi đến trường TDTU không ạ? __eou__ Đường từ ngồi nhà này đến trường TDTU chỉ có 1km thôi bạn nhé __eou__
+Cho mình hỏi gần khu vực này có siêu thị không ạ? __eou__ Xung quanh đây có rất nhiều siêu thị bạn nhé __eou__
+Quê bạn ở đâu? __eou__ Quê mình ở Tiền Giang __eou__
+Bạn hiện tại đang ở đâu? __eou__ Tớ đang ở thành phố Hồ Chí Minh __eou__
+Gia đình bạn có ở cùng bạn không? __eou__ Mình hiện không sống cùng gia đình __eou__
+Quê nội bạn ở đâu? __eou__ Quê nội mình ở Tiền Giang __eou__
+Quê ngoại bạn ở đâu? __eou__ Quê ngoại mình ở Tiền Giang __eou__
+bạn có nhà riêng không? __eou__ không mình sống với ba má __eou__
+nhà bạn ở đâu ? __eou__ nhà mình ở quận 8 __eou__
+bạn có ở chung với ba mẹ không? __eou__ có mình sống với ba má __eou__
+nhà bạn bao nhiêu lầu ? __eou__ nhà mình có 2 lầu __eou__
+nhà bạn có bao nhiêu phòng ngủ? __eou__ 4 phòng ngủ __eou__
+nhà bạn rộng bao nhiêu? __eou__ mình không biết, mình chưa đo __eou__
+nhà bạn là nhà cấp 4 hay biệt phủ? __eou__ nhà mình là nhà cấp 4 __eou__
+nhà bạn dài bao nhiêu mét? __eou__ mình chưa có đo __eou__
+nhà bạn rộng bao nhiêu mét? __eou__ mình chưa có đo __eou__
+nhà bạn diện tích bao nhiêu mét vuông? __eou__ mình chưa có đo __eou__
+nhà bạn có nằm ở mặt tiền đường lớn không? __eou__ không mình ở trong hẻm __eou__
+nhà bạn có người giúp việc không? __eou__ không, nhà mình nghèo lắm __eou__
+nhà bạn có vào nhiêu người giúp việc? __eou__ không, nhà mình nghèo lắm __eou__
+bạn có hay dọn dẹp nhà cửa không? __eou__ mình cũng không thường xuyên dọn lắm __eou__
+nhà bạn có chỗ đậu ô tô không? __eou__ không, nhà mình nghèo lắm __eou__
+bạn có nhà riêng không? __eou__ không mình sống với ba má __eou__
+nhà bạn ở đâu ? __eou__ nhà mình ở quận 11 __eou__
+bạn có ở chung với ba mẹ không? __eou__ có mình sống với ba má __eou__
+nhà bạn bao nhiêu lầu ? __eou__ nhà mình chung cư __eou__
+nhà bạn có bao nhiêu phòng ngủ? __eou__ 2 phòng ngủ __eou__
+nhà bạn rộng bao nhiêu? __eou__ mình cũng không nhớ __eou__
+nhà bạn là nhà cấp 4 hay biệt phủ? __eou__ nhà mình là chung cư __eou__
+nhà bạn dài bao nhiêu mét? __eou__ mình chưa có đo __eou__
+nhà bạn rộng bao nhiêu mét? __eou__ mình chưa có đo __eou__
+nhà bạn diện tích bao nhiêu mét vuông? __eou__ mình chưa có đo __eou__
+nhà bạn có nằm ở mặt tiền đường lớn không? __eou__ có mặt tiền __eou__
+nhà bạn có người giúp việc không? __eou__ không có __eou__
+nhà bạn có vào nhiêu người giúp việc? __eou__ không có __eou__
+bạn có hay dọn dẹp nhà cửa không? __eou__ không có __eou__
+nhà bạn có chỗ đậu ô tô không? __eou__ không có __eou__
+bạn sống ở đâu __eou__ mình ở Penthouse tầng thượng Landmark 81 __eou__
+Nhà của bạn ở đâu? __eou__  __eou__
+Nhà của bạn trị giá bao nhiêu tiền? __eou__  __eou__
+Nhà của bạn dài bao nhiêu mét? __eou__  __eou__
+Nhà của bạn dài bao nhiêu rộng? __eou__  __eou__
+Nhà của bạn ở được bao nhiêu người? __eou__  __eou__
+Nhà của bạn có bao nhiêu phòng ngủ? __eou__  __eou__
+Nhà của bạn có bao nhiêu phòng tắm? __eou__  __eou__
+Nhà của bạn có bao nhiêu tầng? __eou__  __eou__
+nhà bạn ở đâu? __eou__ nhà mình ở đường Trần Quang Khải. __eou__
+gia đình bạn ở đâu? __eou__ gia đình mình ở thành phố Hồ Chí Minh __eou__
+Hiện tại bạn đang ở đâu? __eou__ Mình đang sống tại căn biệt thự ở quận 3, TP.HCM __eou__
+Gia đình bạn gồm mấy thành viên? __eou__ Nhà mình gồm 4 thành viên sống hạnh phúc với nhau __eou__
+bạn sống tại đâu? __eou__ Ở TpHCM nha. __eou__
+bạn sống cùng với gia đình đúng không? __eou__ That's right. __eou__
+bạn có sống gần họ hàng không? __eou__ Mình có. __eou__
+nơi bạn đang sống có không gian thế nào? __eou__ Mình ở chung cư cách trung tâm tpHCM vài ki lô nét. __eou__
+bạn có thích nơi ở hiện tại không? __eou__ Có chớ, không thích dọn đi rồi. __eou__
+bạn có dự tính chuyển đến nơi ở mới trong tương lai không? __eou__ Tùy tình hình nha. __eou__
+nhà bạn ở đâu vậy bạn? __eou__ nhà mình ở Đắk Lắk __eou__
+gia đình bạn có bao nhiêu người? __eou__ gia đình mình có tổng cộng 19 người __eou__
+Bạn đang sống ở đâu? __eou__ mình sống ở thành phố Hồ Chí Minh __eou__
+Bạn đang sống với ai? __eou__ mình sống với gia đình __eou__
+Bạn sống ở quận nào? __eou__ mình sống ở quận 11 __eou__
+nhà bạn ở quận mấy? __eou__ Nhà mình ở quận 11 __eou__
+bạn có ở chung với gia đình không? __eou__ Có, mình đang ở với gia đình __eou__
+gia đình bạn sống ở đâu? __eou__ Gia dình mình sống ở thành phố Hồ Chí Minh __eou__
+hiện tại gia đình của bạn ở đây luôn hay là ở quê vây? __eou__ Mình ở Sài Gòn cùng gia đình từ nhỏ __eou__
+nhà của bạn có ở gần đây không? __eou__ Nhà mình ở Tân Bình nên khá xa. __eou__
+bạn có ở cùng với gia đình của mình chứ? __eou__ Mình ở cùng gia đình __eou__
+quê bạn ở đâu? __eou__ quê mình ở Tiền Giang __eou__
+bạn sống ở đâu? __eou__ mình sống ở quận 7 tp.Hồ Chí Minh __eou__
+Hiện tại bạn ở đâu? __eou__ Hiện tại mình đang làm chuyên viên chăm sóc sức khỏe cho thú cưng của con trai tổng thống ở Nhà Trắng. __eou__
+Quê bạn ở đâu? __eou__ Quê mình là vùng nước mặn, đất đai cằn cỗi, Gò Công. __eou__
+Địa chỉ trường bạn ở đâu? __eou__ Cơ sở chính của trường mình là số 2 đường Nguyễn Hữu Thọ, Quận 7 __eou__
+Bạn đang làm việc ở đâu? __eou__ Mình chưa có công việc nhất định, nhưng đối với partjob thì mình đang làm gia sư. __eou__
+Ủa Vậy bạn đang ở đâu dợ? __eou__ Mình đang ở Nhà Bè á. __eou__
+Còn gia đình bạn ở đâu vậy? __eou__ Gia đình mình đang sống ở Nhơn Trạch,Đồng Nai __eou__
+bạn đang ở đâu vậy? __eou__ mình đang ở thành phố Hồ Chí Minh __eou__
+gia đình bạn ở đâu? __eou__ gia đình mình ở chung với mình. __eou__
+bạn đang ở đâu? __eou__ mình đang sinh sống tại thành phố Hồ Chí Minh. __eou__
+gia đình bạn ở đâu? __eou__ gia đình mình ở chung với nhau hạnh phúc. __eou__
+Nhà bạn ở đâu? __eou__ nhà ở Bình Tân __eou__
+Gia đình bạn ở đâu? __eou__ gia đình tôi ở Bình Tân luôn __eou__
+Người yêu bạn ở đâu? __eou__ người yêu tôi ở quận 7 bạn êyyy __eou__
+Ông nhà ở đâu thế? __eou__ Tui mới chuyển hộ khẩu vào trong tim ông á. __eou__
+Vậy ông có sống chung với gia đình không? __eou__ Có, tui đang sống trong tim ông mà. __eou__
+Cho mình hỏi hiện tại bạn đang ở đâu? __eou__ mình đang ở cùng gia đình ở quận 6 __eou__
+Quê quán của bạn ở đâu? __eou__ quê mình ở phú thọ __eou__
+Quê của bạn có gì thú vị? __eou__ mình cũng không biết nhiều lắm vì mình ít khi được về quê __eou__
+Khu bạn sống có gì vui không? __eou__ không có, mọi người ở quanh đó ít giao tiếp với nhau lắm __eou__
+bạn ơi, nhà bạn ở đâu thế? __eou__ nhà mình ở đường số 19 Nguyễn Hữu Thọ, phường Tân Phong, TP Hồ Chí Minh __eou__
+Nhà cậu ở đâu thế ? __eou__ Nhà tớ ở bờ sông Trần Xuân Soạn. __eou__
+Nhà cậu rộng bao nhiều mét vuông? __eou__ Nhà tớ rộng 1000 mét vuông có 2 hồ bơi và 100 hecta đất nuôi vịt. __eou__
+Gia đình cậu ở đâu? __eou__ Gia đình tớ là tài phiệt ở Hà Nội. __eou__
+Nông trại của cậu ở tỉnh nào ? __eou__ Nộng trại nhà tớ ở Côn Đảo. __eou__
+Cậu có căn biệt thự ở Côn Đảo phải không? __eou__ Đúng rồi. __eou__
+bạn sinh ở đâu? __eou__  __eou__
+cho mình hỏi hiện tại bạn sống ở đâu? __eou__  __eou__
+bạn còn ở chung với bố, mẹ không? __eou__  __eou__
+làm ơn cho mình biết bạn đã đi vũng tàu chưa? __eou__  __eou__
+bạn tùng đi du lịch ở đâu? __eou__  __eou__
+Nhà bạn ở đâu? __eou__ Nhà mình quận 7. __eou__
+Gia đình bạn mấy người? __eou__ Gia đình có 4 người. __eou__
+Cho mình hỏi bạn đang ở đâu ? __eou__ Mình đang là Việt Nam __eou__
+Cho mình hỏi bạn đang sống với ai ? __eou__ Mình đang sống với gia đình __eou__
+Cho mình hỏi bạn sống ở thành phố hay ở quê ? __eou__ Mình sống ở thành phố __eou__
+Nhà bạn ở miền nào? __eou__ Miền Trung nhá __eou__
+Bạn ở chung với bố mẹ hay bạn ở riêng? __eou__ Mình đi làm nên ở riêng rồi __eou__
+Cho mình xin địa chỉ đi bạn __eou__ Chi vậy bạn ? __eou__
+Quê bạn ở đâu? __eou__ Quê mình ở Bắc Giang __eou__
+bạn sinh ở đâu? __eou__ TP.HCM __eou__
+cho mình hỏi hiện tại bạn sống ở đâu? __eou__ đang ở thành phố luôn __eou__
+bạn còn ở chung với bố, mẹ không? __eou__ còn chứ. __eou__
+làm ơn cho mình biết bạn đã đi vũng tàu chưa? __eou__ đi vài lần rồi . __eou__
+bạn tùng đi du lịch ở đâu? __eou__ mình cũng chả nhớ nhiều lắm ,đà nẵng ,đà lạt , phan thiết , nha trang , vũng tàu. __eou__
+Nhà bạn ở miền nào? __eou__ Miền Trung nhá __eou__
+Bạn ở chung với bố mẹ hay bạn ở riêng? __eou__ Mình đi làm nên ở riêng rồi __eou__
+Cho mình xin địa chỉ đi bạn __eou__ Chi vậy bạn ? __eou__
+Quê bạn ở đâu? __eou__ Quê mình ở Bắc Giang __eou__
+nhà bạn ở đâu? __eou__ Ở thành phố HCM __eou__
+cho mình hỏi bạn sống ở quận nào? __eou__ Quận 4 __eou__
+bạn đang ở tỉnh nào ở Việt Nam? __eou__ Tp. Hồ Chí Minh __eou__
+địa chỉ cụ thể nhà bạn là gì? __eou__ 243 Tôn Đản P8 Q4 __eou__
+nhà bạn ở đường nào? __eou__ Tôn Đản __eou__
+đang sống ở đâu? __eou__ Sống tại quận 7 __eou__
+đang ở với gia đình hay với bạn? __eou__ Tôi sống với gia đình __eou__
+Bạn đang sống ở đâu? __eou__ Sống tại quận 7 __eou__
+Bạn đang ở với gia đình hay với bạn? __eou__ Tôi sống với gia đình __eou__
+Địa chỉ nhà ở đâu ? __eou__ Quảng Nam __eou__
+Gia đình đang ở dưới quê hay trên sài gòn ? __eou__ ở dưới quê __eou__
+Quê bạn ở đâu ? __eou__ Quê mình ở Nha Trang __eou__
+Bạn đang ở trọ hay ở nhà trong thành phố HCM ? __eou__ Mình ở trọ __eou__
+Bạn ở quận nào trong Thành phố ? __eou__ Mình ở quận 8 __eou__
+nhà bạn ở đâu? __eou__ Quận 5 __eou__
+cho mình hỏi bạn sống ở quận nào? __eou__ quận 5 __eou__
+bạn đang ở tỉnh nào ở Việt Nam? __eou__ Tp.HCM __eou__
+địa chỉ cụ thể nhà bạn là gì? __eou__ 80 nguyễn trãi __eou__
+nhà bạn ở đường nào? __eou__ nguyễn trãi __eou__
+Nhà bạn ở đâu? __eou__ Nhà mình ở Biên hòa __eou__
+Bạn và gia đình bạn có đang sống chung? __eou__ Mình và gia đình đang sống chung __eou__
+Bạn có đi làm thêm ở đâu không? __eou__ Mình không đi làm thêm __eou__
+Cậu hiện giờ ở đâu? __eou__ Tớ hiện đang sống ở Thành phố Hồ Chí Minh __eou__
+Gia đình cậu có sống ở Thành phố Hồ Chí Minh không? __eou__ Gia đình tớ đang ở cùng tớ __eou__
+Cậu ở quận mấy? __eou__ Tớ ở quận Bình Thạnh __eou__
+Quê cậu ở đâu? __eou__ Quê tớ ở Long An, gần TPHCM __eou__
+Cậu có dự định chuyển chỗ ở không? __eou__ Tớ nghĩ là không, hiện tại cuộc sống tớ đang ổn định __eou__
+Nhà của bạn ở đâu trong cái đất nước chữ S này. __eou__ Nhà tuôi tọa lạc đâu đó á, bot tự tìm iii __eou__
+Gia đình bạn sống ở đâu? __eou__ Hiện tại thì sống ở đây thôi bot à __eou__
+Quê quán mà bạn sống ở đâu? __eou__ Đồng nai nha cưng :))) __eou__
+Địa chỉ nhà ở đâu ? __eou__ Quảng Nam __eou__
+Gia đình đang ở dưới quê hay trên sài gòn ? __eou__ ở dưới quê __eou__
+cho mình xin địa chỉ nhà của bạn? __eou__ không bạn ơi, cuộc sống là nhiều khi không nên biết quá nhiều điểu về nhau __eou__
+cậu sống ở đâu? __eou__ Việt Nam nhá bạn __eou__
+Hiện tại bạn đang ở trọ hay ở với gia đình? __eou__ Hiện tại mình đang ở với gia đình __eou__
+Địa chỉ nhà bạn ở đâu nhỉ? __eou__ Địa chỉ nhà mình là 3xx đường Y Moal, phường Tân Lợi, TP.Buôn Ma Thuột, tỉnh ĐắkLắk __eou__
+Miêu tả đường về nhà của bạn xíu được không ? __eou__ Đường rộng thênh thang, nhiều quán trà sữa, ăn vặt. Đặc biệt là nhiều ninja, nhiều người mua đường và nhiều dân chơi. __eou__
+Nhà anh có gần trung tâm thành phố không ạ? __eou__ Nhà anh đi bộ qua là tới trung tâm thành phố nha. __eou__
+Quê mình cũng ở Thanh Hoá, nhà bạn có ở gần uỷ ban tỉnh không? __eou__ Không rồi mình ở khá xa. __eou__
+Gia đình bạn đang sống ở đâu? __eou__ Hiện tại gia đình mình đang sống ở quê, mình và chị đang ở thành phố. __eou__
+Chị cho em xin địa chỉ để em giao hàng ạ? __eou__ Em giao ở trường Đại học Tôn Đức Thắng cổng 1 giúp chị nha. __eou__
+Ngày mai đi ăn ở quán nào cậu ơi? __eou__ Ngày mai mình đi ăn ở Hokkaido nhe. __eou__
+Quê bạn ở đâu? __eou__ Quê mình ở Sài Gòn __eou__
+Bạn sống ở quận nào? __eou__ Mình sống ở quận Tân Bình __eou__
+Bạn sống ở thành phố nào? __eou__ Mình sống ở Thành phố Vũng Tàu __eou__
+Khu bạn sống có gần trung tâm không? __eou__ Mình ở ngay trung tâm luôn __eou__
+Hiện tại bạn ở đâu? __eou__ Hiện tại tôi đang ở 380/81 Lê Văn Lương, hôm nào rảnh bạn ghé nhà tôi chơi nha. __eou__
+Quê bạn ở đâu? __eou__ Quê tôi ở Tiền Giang nè bạn __eou__
+Địa chỉ trường bạn ở đâu? __eou__ Cơ sở chính của trường là số 2 đường Nguyễn Hữu Thọ, Quận 7 __eou__
+Ở đâu bán bún đậu ngon vậy bạn? __eou__ Tôi nghĩ ở đường Lê Văn Lương, gần trường đó bạn __eou__
+Quê bạn có gì ngon không? __eou__ Tây ninh thì tất nhiên là bánh tráng và muối tôm rồi __eou__
+Gia đình bạn ở ddaau? __eou__ Bến Tre __eou__
+Gia đình bạn có mấy người __eou__ 4 __eou__
+Bạn sống ở đâu ? __eou__ Trong tim Cún á __eou__
+Nhà bạn ở đường nào ? __eou__ Đường vào tim Cún __eou__
+Nơi ở của bạn như thế nào ? __eou__ Toàn Gái và Gái __eou__
+Bạn có sống chung với gia đình không ? __eou__ Of course __eou__
+Bạn có thể miêu tả nơi bạn sống được không ? __eou__ Black Pink in my Area __eou__
+Quê của bạn ở đâu ? __eou__ Long An __eou__
+Bạn đang ở đâu ? __eou__ Đang ở dưới quê __eou__
+Bạn có đang sống cùng với gia đình không ? __eou__ có nha bạn __eou__
+Quê của bạn ở đâu ? __eou__ Long An __eou__
+Bạn đang ở đâu ? __eou__ Đang ở dưới quê __eou__
+Bạn có đang sống cùng với gia đình không ? __eou__ có nha bạn __eou__
+bạn ở nhà thuê hay bạn có nhà ở thành phố Hồ Chí Minh vậy? __eou__ mình ở một căn nhà thuê nha bạn __eou__
+bạn ở chỗ nào vậy? __eou__ mình ở quận Bình Thạnh nha bạn __eou__
+quê của bạn ở đâu vậy? __eou__ mình đến từ thành phố Phan Rang __eou__
+bạn đã từng chuyển nhà đến những quận nào rồi? __eou__ mình có chuyển đến quận 6, quận 3 và quận 8 __eou__
+bạn có muốn chuyển đến ở nơi nào không? __eou__ nếu có cơ hội mình muốn đện 7 sinh sống __eou__
+Hiện tại bạn sống ở đâu? __eou__ có chi không? __eou__
+Bạn có ở gần chợ không? __eou__ mình ở gần chợ __eou__
+Từ nhà bạn tới trường bao xa? __eou__ Khoảng 3km __eou__
+Nơi ở của bạn có nhiều tệ nạn? __eou__ có nhiều __eou__
+Bạn sống chung với gia đình hay ở quê lên? __eou__ Mình sống chung với gia đình __eou__
+bạn đang sống ở bang nào? __eou__ Mình đang ở Texas __eou__
+Bạn có ở chung với gia đình không? __eou__ Mình không ở chung __eou__
+bạn đang ở xa gia đình à? __eou__ đúng rồi bạn __eou__
+bạn tính xây nhà ở đâu? __eou__ Mình tính xây ở Việt Nam __eou__
+Ở nhà đất thì mặt tiền hay hẻm __eou__ Mặt tiền __eou__
+Nhà mấy tấm đất __eou__ 22 tấm __eou__
+bạn đang sống ở đâu? __eou__ HCm __eou__
+bạn đang ở cùng gia đình à? __eou__ Không __eou__
+bạn đang ở xa gia đình à? __eou__ yup __eou__
+bạn nhà ở đâu vậy? __eou__ Q7 __eou__
+trường của bạn đang học ở đâu ? __eou__ Q7 __eou__
+bạn đang ở thành phố hồ chí minh đúng không? __eou__ yup __eou__
+Hiện tại bạn sống ở đâu? __eou__ dữ liệu cá nhân không trả lời được __eou__
+Bạn có cảm thấy thoải mái ở nơi mình ở không? __eou__ yes __eou__
+Từ nhà bạn tới trường có xa không? __eou__ Tầm rất xa __eou__
+Nơi ở của bạn có điều gì thú vị không? __eou__ không có __eou__
+Bạn sống chung với gia đình hay tự lập riêng ở ngoài? __eou__ tự lập là dở rồi __eou__
+Địa chỉ chi tiết nhà bạn ở đâu? __eou__ dữ liệu cá nhân xin lỗi không thể tiết lộ __eou__
+Bạn có muốn thử đến vùng khác sinh sống không? __eou__ tại sao là muốn chứ __eou__
+nhà bạn ở đâu? __eou__ Ở Cao lãnh __eou__
+cho mình hỏi bạn sống ở quận nào? __eou__ Tui ở quận 8 ông __eou__
+hiện bạn đang ở đâu? __eou__ Tp. Hồ Chí Minh __eou__
+địa chỉ cụ thể nhà bạn là gì? __eou__ 143 Nguyễn Thị Tần __eou__
+nhà bạn ở đường nào? __eou__ Mới nói ở trên đó __eou__

@@ -1,0 +1,775 @@
+họ và tên của bạn là gì ? __eou__ họ và tên của mình là Hà Công Thành __eou__
+bạn bao nhiêu tuổi rồi ? __eou__ mình năm nay 22 tuổi __eou__
+bạn đang đi làm hay đang đi học ? __eou__ mình đang học tại trường đại học Tôn Đức Thắng __eou__
+bạn cao bao nhiêu ? __eou__ mình cao 1 mét 63 __eou__
+sở thích của bạn là gì ? __eou__ sở thích của mình là chơi game và xem phim __eou__
+bạn cho mình hỏi tên bạn là gì? __eou__ mình tên là cường __eou__
+bạn cho mình hỏi quê quán bạn ở đâu? __eou__ mình quê ở Thái Bình __eou__
+cho mình hỏi hiện tại bạn được nhiêu tuổi rồi? __eou__ mình hiện tại 22 tuổi rồi __eou__
+cho mình hỏi bạn hiện đang đi học hay đi làm? và ở đâu? __eou__ mình đang học tại trường Đại Học Tôn Đức Thắng __eou__
+hiện tại bạn đang cư trú ở đâu? __eou__ mình hiện tại đang ở 108/4 Trần Mai Ninh, phường 12, quận Tân Bình, thành phố HCM __eou__
+bạn cho mình hỏi số điện thoại bạn số mấy? __eou__ số điện thoại của tớ là 0938410364. __eou__
+bạn cho mình hỏi bạn học nghành nào? __eou__ tớ học nghành khoa học máy tinh __eou__
+bạn cho mình hỏi bạn học khoa nào? __eou__ tớ học khoa công nghệ thông tin __eou__
+bạn cho mình hỏi bạn học ở trường nào và khoá mấy? __eou__ tớ học ở trường đại học Tôn Đức thắng và tớ thuộc khoá 21 __eou__
+bạn cho mình hỏi tên của bạn là gì? __eou__ tên của tớ là Khoa __eou__
+bạn cho mình hỏi bạn sinh năm mấy? __eou__ tớ sinh năm 1999 __eou__
+bạn cho mình hỏi bạn bao nhiêu tuổi? __eou__ tớ 21 tuổi __eou__
+Cậu tên gì? __eou__ Tớ tên Phạm Thị Lan Anh. __eou__
+Bạn tên gì? __eou__ Mình tên Phạm Thị Lan Anh. __eou__
+Cậu bao nhiêu tuổi? __eou__ Tớ 22 tuổi. __eou__
+Nhà cậu ở đâu? __eou__ Nhà tớ ở Trái Đất. __eou__
+Cậu tên gì ấy nhỉ? __eou__ Tớ tên là Lan Anh. __eou__
+Hiện giờ cậu đang ở đâu? __eou__ Tớ đang ở Nhật. __eou__
+Cậu có khỏe không? __eou__ Tớ rất khỏe. __eou__
+Cậu tên gì? __eou__ Tớ tên Phạm Thị Lan Anh. __eou__
+Bạn tên gì? __eou__ Mình tên Phạm Thị Lan Anh. __eou__
+Cậu bao nhiêu tuổi? __eou__ Tớ 22 tuổi. __eou__
+Nhà cậu ở đâu? __eou__ Nhà tớ ở Trái Đất. __eou__
+Cậu tên gì ấy nhỉ? __eou__ Tớ tên là Lan Anh. __eou__
+Hiện giờ cậu đang ở đâu? __eou__ Tớ đang ở Nhật. __eou__
+Cậu có khỏe không? __eou__ Tớ rất khỏe. __eou__
+mày tên gì? __eou__ Vũ __eou__
+bao tuổi __eou__ 19 __eou__
+nhà mấy người? __eou__ 5 __eou__
+địa chỉ nhà? __eou__ quận 7 __eou__
+ở trọ hay kí túc xá? __eou__ kí túc xá __eou__
+chào bạn, bạn tên là gì thế? __eou__ mình tên là Hiếu. __eou__
+số điện thoại của bạn là gì cho mình xin với? __eou__ số điện thoại của mình là 0123456789. __eou__
+địa chỉ nhà bạn ở đâu vậy? __eou__ nhà mình ở số X, đường Y, phường Z, quận T, thành phố A. __eou__
+bạn bao nhiêu tuổi rồi? __eou__ mình 20 tuổi. __eou__
+gia đình của bạn có bao nhiêu thành viên? __eou__ gia đình mình có 5 thành viên. __eou__
+bạn làm nghề gì vậy? __eou__ mình là sinh viên năm 4. __eou__
+bạn học ngành gì thế? __eou__ mình học IT. __eou__
+bạn đi thực tập nghề nghiệp chưa? __eou__ mình đi rồi. __eou__
+trường bạn có yêu cầu cần đầu ra là tiếng anh không? __eou__ có bạn, cần ielts 5.5 __eou__
+bạn học trường gì vậy? __eou__ mình học trường đại học Tôn Đức Thắng __eou__
+địa chỉ trường bạn là gì vậy? __eou__ trường mình nằm ở số 19 Nguyễn Hữu Thọ, phường Tân Phong, quận 7, thành phố Hồ Chí Minh __eou__
+bạn cho mình hỏi tên bạn là gì? __eou__ mình tên là Tuấn __eou__
+bạn cho mình hỏi quê quán bạn ở đâu? __eou__ mình quê ở Ninh Thuận __eou__
+cho mình hỏi hiện tại bạn được nhiêu tuổi rồi? __eou__ mình hiện tại 22 tuổi rồi __eou__
+cho mình hỏi bạn hiện đang đi học hay đi làm? và ở đâu? __eou__ mình đang học tại trường Đại Học Tôn Đức Thắng __eou__
+hiện tại bạn đang cư trú ở đâu? __eou__ mình hiện tại đang ở 1041/62/20 Trần Xuân Soạn, Tân Hưng, Quận 7 Thành phố Hồ Chí Minh __eou__
+tên của bạn là gì? __eou__ Mình tên là Hưng __eou__
+bạn bao nhiêu tuổi? __eou__ Mình 21 tuổi __eou__
+bạn đang đi học hay đi làm? __eou__ mình đang đi học __eou__
+bạn là sinh viên trường nào? __eou__ Mình là sinh viên Đại học Tôn Đức Thắng __eou__
+bạn học nghành gì? __eou__ tớ đang học công nghệ thông tin. __eou__
+quê bạn ở đâu vậy ? __eou__ tớ ở Quảng Nam __eou__
+bạn đang ở kí túc xá hay ở ngoài? __eou__ à tớ ở Kí túc xá __eou__
+bạn có đang xài facebook hay zalo chi không? __eou__ tớ có xài facebook nhen __eou__
+cho tớ xin nick facebook được hem? __eou__ okay, nick face của tớ là nxhung0405. __eou__
+okay để tớ tìm thử, tớ thấy rồi. __eou__ okay cậu __eou__
+cậu cho tớ xin sđt để tiện liên lạc được không __eou__ số điện thoại của tớ là 0917234872. __eou__
+Cậu tên gì? __eou__ Tớ tên Nguyễn Ngọc Trâm. __eou__
+Bạn tên gì? __eou__ Mình tên Nguyễn Ngọc Trâm. __eou__
+Cậu bao nhiêu tuổi? __eou__ Tớ 22 tuổi. __eou__
+Nhà cậu ở đâu? __eou__ Nhà tớ ở Việt Nam. __eou__
+Cậu tên gì ấy nhỉ? __eou__ Tớ tên là Ngọc Trâm __eou__
+Hiện giờ cậu đang ở đâu? __eou__ Tớ đang ở Mỹ. __eou__
+Cậu có khỏe không? __eou__ Tớ khỏe. __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Cường __eou__
+bạn bao nhiêu tuổi thế ? __eou__ Mình mới tròn 21 __eou__
+thế bạn cao bao nhiêu ? __eou__ mình cao 1m8 __eou__
+Bạn là nam hay nữ ? __eou__ mình là nam nhưng tên cường __eou__
+bạn có ước mơ gì không ? __eou__ một công việc và gia đình hạnh phúc __eou__
+Tối mấy giờ bạn ngủ ? __eou__ khoảng 9h __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+bạn bao nhiêu tuổi? __eou__ mình năm nay là 22 tuổi rồi __eou__
+bạn đang học ở đâu? __eou__ mình đang học ở Ton Duc Thang University __eou__
+bạn còn đi học hay đi làm rồi? __eou__ mình đang học ở Ton Duc Thang University __eou__
+ước mơ sau này của bạn là làm gì? __eou__ ước mơ của mình là làm lập trình viên về web __eou__
+bạn cho mình hỏi bạn tên gì ạ? __eou__ tên tui là Thanh __eou__
+bạn đến từ khoa nào vậy ? __eou__ tôi đến từ khoa công nghệ thông tin __eou__
+năm nay bạn bao nhiêu tuổi ? __eou__ tháng sau tôi tròn 22 tuổi á __eou__
+Khi nào mày tốt nghiệp ra trường vậy ? __eou__ nếu không có vấn đề gì thì năm sau tao ra trường __eou__
+Mày tính làm gì sau khi tốt nghiệp ? __eou__ Chắc tao đi du lịch để nghỉ xả hơi __eou__
+Mày có em gái không giới thiệu tao xem với ? __eou__ Có em gái, mà nó có bồ rồi, mày tính làm em rể tao à __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Trí __eou__
+bạn hiện đang sống ở đâu? __eou__ tớ sống ở thành phố Hồ Chí Minh __eou__
+bạn hiện đang là sinh viên trường nào? __eou__ tớ đang là sinh viên trường Tôn Đức Thắng __eou__
+bạn vào làm lâu chưa? __eou__ tớ vào làm 2 năm rồi __eou__
+cho mình số bạn để tiện liên lạc nha __eou__ 0123456789 __eou__
+cảm ơn bạn __eou__ không có gì __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+không biết là năm nay bạn bao nhiêu tuổi rồi? __eou__ Mình năm này 20 tuổi. __eou__
+Nhà bạn có bao nhiêu thành viên vậy bạn? __eou__ Nhà mình có 5 người nha bạn. __eou__
+bạn có nhiều bạn bè không? __eou__ mình có nhiều bạn bè lắm đó. __eou__
+bạn có thể cho mình biết nhà bạn ở đâu không? __eou__ nhà mình ở quận 4 thành phố Hồ Chí Minh đó bạn. __eou__
+Bạn năm nay lớp mấy rồi? __eou__ Mình năm này học đại học năm 4 ấy bạn. __eou__
+nhà bạn có anh chị em không? __eou__ nhà mình không có anh chị em ruột nhưng mình đang sống với anh chị họ đấy. __eou__
+bạn có tham gia đội tuyển học sinh giỏi không? __eou__ có nha bạn, học vui lắm. __eou__
+bạn cho mình hỏi bạn học đội tuyển học sinh giỏi môn gì thế? __eou__ mình học đội tuyển học sinh giỏi môn Hóa đó bạn. __eou__
+bạn có định hướng ngành nghề cho tương lai chưa bạn? __eou__ mình có rồi nha, mình tính sau này sẽ theo học khối ngành về Kinh tế. __eou__
+những lúc rãnh rỗi bạn thường hay làm gì? __eou__ mình thì thường sẽ đọc sách và nghe nhạc, ngoài ra mình cũng thích tập thể dục lắm. __eou__
+bạn có thích coi hài kịch không? __eou__ mình thích lắm, coi xong lại cảm thấy tinh thần sảng khoái. __eou__
+hiện tại bạn đang học ngành gì vậy? __eou__ hiện tại thì mình đang theo ngành công nghê thông tin nha. __eou__
+Hiện tại bạn đang sống ở đâu? __eou__ Mình đang sống ở Sài Gòn __eou__
+Bạn từ tỉnh nào lên Sài Gòn? __eou__ Mình ở Bình Thuận lên Sài Gòn làm việc __eou__
+Bạn sinh năm bao nhiêu? __eou__ Mình sinh năm 1999 __eou__
+bạn cho mình hỏi tên bạn là gì? __eou__ tên tớ là Lan __eou__
+bạn năm nay bao nhiêu tuổi? __eou__ tớ năm nay 21 tuổi __eou__
+Hiện tại bạn đang ở đâu? __eou__ hiện tại tớ đang ở quận 7, tp HCM __eou__
+Bạn ở nhà trọ hay ở kí túc xá của trường? __eou__ Tớ ở trọ tại đường Lê Văn Lương __eou__
+Bạn cho mình hỏi quê bạn ở đâu thế? __eou__ Quê tớ ở Lai Châu __eou__
+Xin hỏi bạn tên là gì? __eou__ Mình tên là Tiến __eou__
+Bạn năm nay bao nhiêu tuổi? __eou__ Hiện tại mình được 22 tuổi __eou__
+Quê quán của bạn ở đâu? __eou__ Quê của mình ở Đồng Tháp __eou__
+Số điện thoại của bạn là gì? __eou__ Số điện thoại của mình là :P 0792240342 __eou__
+Hiện tại gia đình bạn có bao nhiêu người? __eou__ Gia đình mình hiện tại có 7 người __eou__
+Chào Minh, mình tên là Hiếu __eou__ Chào Hiếu, bạn sinh năm mấy ấy? __eou__
+Mình sinh 1997, còn bạn? __eou__ À, vậy mình bằng tuổi nhau đó. __eou__
+Ồ, mình mới vào việc, có gì giúp đỡ nhau nha __eou__ Okie bạn, chuyện đơn giản thôi __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Dân Chơi __eou__
+họ và tên đầy đủ luôn ? __eou__ họ và tên đầy đủ của tớ là Nguyễn Dân Chơi __eou__
+bạn cho mình hỏi bạn bao nhiêu tuổi ? __eou__ mình năm nay 21 tuổi __eou__
+bạn cho mình hỏi quê bạn ở đâu __eou__ quê mình ở Hà Nội __eou__
+bạn cho mình hỏi nhà bạn có bao nhiêu người? __eou__ gia đình mình có tổng cộng 4 người __eou__
+bạn cho mình hỏi bạn là con thứ mấy trong nhà? __eou__ mình là con út trong nhà __eou__
+bạn cho mình hỏi là bạn cao bao nhiêu? __eou__ mình cao 1 mét 9 __eou__
+bạn cho mình hỏi cân nặng của bạn là bao nhiêu ? __eou__ mình nặng 65kg __eou__
+bạn cho mình hỏi skype của bạn với __eou__ skype của mình la danchoi __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn cao bao nhiêu mét ? __eou__ tui cao 1 mét 5 __eou__
+bạn hiện tại đang làm nghề gì ? __eou__ mình hiện nay là sinh viên trường đại học tôn đức thắng __eou__
+bạn có sở thích nào ? __eou__ tui có nhiều sở thích như đá banh, xem phim, nghe nhạc, đi chơi __eou__
+sau này bạn mong muốn trở thành người như thế nào ? __eou__ tui muốn trở thành người tốt có công ăn việc làm ổn định có điều kiện kinh tế thời gian và sức khỏe để chăm sóc cho gia đình __eou__
+bạn có thể chia sẻ về tuổi của mình không ? __eou__ mình sinh năm 1999 hiện nay 22 tuổi con mèo __eou__
+cho mình hỏi tên bạn là gì? __eou__ mình tên là Lan __eou__
+bạn sinh năm bao nhiêu? __eou__ mình sinh năm 2002 __eou__
+bạn bao nhiêu tuôi rồi? __eou__ mình năm nay 19 tuổi __eou__
+bạn sinh ra ở đâu? __eou__ minh ở Hà Nội __eou__
+nhà bạn có bao nhiêu anh chị em? __eou__ nhà mình có 3 anh chị em __eou__
+bạn là con thứ mấy trong gia đình? __eou__ mình là con út trong gia đình __eou__
+bạn có sở thích gì? __eou__ mình có sở thích đọc sách __eou__
+bạn đang học ở đâu __eou__ mình đang học tại Trường đại học Tôn Đức Thắng __eou__
+bạn thần tượng người nổi tiến nào? __eou__ mình thần tượng ca sĩ Sơn Tùng MTP __eou__
+bạn có biết chơi nhạc cụ không? __eou__ mình biết chơi guitar __eou__
+Chào bạn, cho mình hỏi tên bạn là gì? __eou__ Mình tên là Huyền __eou__
+Năm nay bạn bao nhiêu tuổi? __eou__ Sắp tới sẽ là sinh nhật 21 tuổi của mình __eou__
+Bạn đang học trường nào đó? __eou__ Minh đang là sinh viên năm 3 trường đại học Tôn Đức Thắng __eou__
+Bạn theo học ngành gì ở trường vậy? __eou__ Mình học ngành Mạng máy tính và truyền thông dữ liệu thuộc khoa công nghệ thông tin của trường __eou__
+Bạn có đam mê hay sở thích gì không? __eou__ Mình có thích chơi đàn và hiện tại vẫn đang luyện tập __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hà __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2000 __eou__
+Cho tôi biết tên của anh được không? __eou__ Tôi tên Cường. __eou__
+Tình trạng hôn nhân của anh như thế nào? __eou__ Tôi hiện tại đang độc thân. __eou__
+Cậu có thể cho tôi biết số điện thoại được không? __eou__ Số điện thoại của tôi là 0925632541 __eou__
+Cậu có phải là học sinh hay không? __eou__ Không, tôi không phải là học sinh. __eou__
+Hiện tại cậu bao nhiêu tuổi rồi? __eou__ Tôi hiện tại 30 tuổi rồi. __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn thuộc cung gì vậy? __eou__ tớ thuộc cung song tử __eou__
+bạn sống ở đâu thế? __eou__ tớ sống ở Hà Nội __eou__
+bạn thuộc khoa nào thế? __eou__ tớ thuộc khoa công nghệ thông tin __eou__
+bạn cao bao nhiêu thế? __eou__ tớ cao 1 mét 7 __eou__
+bạn cân nặng bao nhiêu vậy? __eou__ tớ xin phép từ chối trả lời nha __eou__
+bạn tên là gì? __eou__ mình tên là Hiếu __eou__
+bạn năm nay bao nhiêu tuổi? __eou__ mình năm nay 22 tuổi __eou__
+quê bạn ở đâu? __eou__ quê mình ở Cà Mau __eou__
+bạn làm nghề gì? __eou__ mình đang là sinh viên __eou__
+bạn sinh viên trường nào? __eou__ mình sinh viên trường Tôn Đức Thắng __eou__
+bạn đang học ngành gì? __eou__ mình học công nghệ thông tin __eou__
+địa chỉ của bạn ở sài gòn là ở đâu? __eou__ mình ở quận 7 __eou__
+bạn nặng bao nhiêu kí? __eou__ mình nặng 75 kí __eou__
+bạn cao mét mấy? __eou__ mình 1 mét 75 __eou__
+nhà bạn có bao nhiêu người? __eou__ nhà mình có 4 người __eou__
+cho mình hỏi bạn tên gì? __eou__ mình tên Duy __eou__
+cho mình hỏi bạn sinh năm bao nhiêu? __eou__ mình sinh năm 2000 __eou__
+hiện tại bạn bao nhiêu tuổi? __eou__ mình 21 tuổi __eou__
+và bây giờ bạn còn đang đi học không? __eou__ mình đang học đại học __eou__
+hiện tại bạn học trường gì? __eou__ mình học trường Tôn Đức Thắng __eou__
+cho mình hỏi bạn quê ở đâu? __eou__ mình quê ở Tiền Giang __eou__
+cho mình hỏi bạn hiện tại đang ở đâu? __eou__ mình đang ở thành phố Hồ Chí Minh __eou__
+cho mình hỏi bạn tên là gì vậy ạ? __eou__ mình tên là Bình __eou__
+cho mình hỏi bạn sinh năm bao nhiêu? __eou__ mình sinh năm 2001 nhé __eou__
+bạn cho mình hỏi, bạn học ngành nào vậy ạ ? __eou__ minh đang học ngành kỹ thuật phần mềm __eou__
+bạn là sinh viên năm mấy vậy ạ ? __eou__ mình đang là sinh viên năm 3 __eou__
+bạn học trường tôn đức thắng phải không ạ ? __eou__ vâng, mình đang học tại tôn đức thắng __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn hiện tại ở đâu? __eou__ mình hiện tại ở Hồ Chí Minh __eou__
+bạn đang đi làm hả? __eou__ không, mình là sinh viên và đang đi học __eou__
+nhà bạn có bao nhiêu anh em? __eou__ mình là con một __eou__
+Xin chào, cho mình xin họ tên của bạn đi __eou__ Chào bạn, mình tên Long __eou__
+Bạn năm nay bao nhiêu tuổi rồi ? __eou__ Mình năm nay 21 tuổi __eou__
+Bạn là sinh viên à ? __eou__ Ừm mình sinh viên năm 3 của trường ĐH Tôn Đức Thắng __eou__
+Bạn học bên quận 7 hả ?, thế bạn trọ ở đâu thế ? __eou__ Mình ở với gia đình bên Bình Tân __eou__
+Bạn ở xa trường thế, vậy bạn đi học bằng phương tiện gì ? __eou__ Mình tới trường bằng xe máy __eou__
+Cho mình hỏi, tên bạn là gì? __eou__ Tên mình là Nguyễn Thành Tiến __eou__
+Bạn sinh vào năm nào thế? __eou__ Mình sinh vào năm 2000 __eou__
+Bạn hiện tại đang giữ chức vụ gì thế? __eou__ Mình đang là sinh viên tại trường Đại học Tôn Đức Thắng __eou__
+Bạn có đam mê, thích thú khi làm gì không? __eou__ Mình thích nhất là được nghiên cứu, đọc sách, cải thiện bản thân __eou__
+Bạn có mục tiêu gì cần đạt được ở thời điểm hiện tại không? __eou__ Mình thì là học tập thật tốt, nỗ lực thật nhiều __eou__
+Bạn là người gốc Nam hả? __eou__ Đúng rồi, mình sinh sống trong Nam từ thuở còn nhỏ __eou__
+Bạn có thích đọc sách không? __eou__ Tất nhiên là có rồi, sách là thứ giúp mình hiểu thêm về rất nhiều điều mới __eou__
+Bạn đang học ngành gì trong Đại học thế? __eou__ Mình đang học ngành Khoa học máy tính, chuyên ngành Tính toán thông minh thuộc Khoa Công nghệ thông tin __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Khoa __eou__
+bạn sinh năm bao nhiêu? __eou__ mình sinh năm 2000 __eou__
+bạn cao bao nhiêu? __eou__ mình cao 1m79 __eou__
+bạn sống ở đâu? __eou__ mình sống ở 18 Nguyễn Hữu Thọ __eou__
+Bạn là con mấy trong gia đình? __eou__ Mình là con đầu trong gia đình và có một em gái __eou__
+Cho hỏi mình, bạn tên gì ? __eou__ mình tên là Lan __eou__
+lan ơi, năm nay Lan bao nhiêu tuổi? __eou__ mình năm nay là 21 tuổi __eou__
+Quê của lan ở tỉnh nào? __eou__ Mình sinh sống tại Đồng nai __eou__
+Mình tên là hùng , rất vui được làm quen bạn. __eou__ cảm ơn, vậy mình cũng rất vui khi được làm bạn với hùng __eou__
+Lan đang làm việc tại công ty nào? __eou__ mình hiện tại đang bán hàng tại một shop quần áo gần siêu thị lotte mart __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn có thể cho mình biết bạn tên gì không ? __eou__ mình tên là bảo __eou__
+bạn bao nhiêu tuổi rồi ? __eou__ mình sinh năm 2001 __eou__
+bạn sinh ra và lớn lên ở đâu ? __eou__ mình sinh ra ở thành phố Hồ Chí Minh và cũng lớn lên ở đây __eou__
+bạn đang theo học ở trường gì ? __eou__ mình là sinh viên của trường đại học tôn đức thắng __eou__
+chiều cao của bạn là bao nhiêu ? __eou__ hiện tại thì mình cao 1m7 __eou__
+hiện tại ban đang ở đâu ? __eou__ mình đang ở 26/19/57/6 lâm hoành phường an lạc quận bình tân __eou__
+Bạn tên là gì? __eou__ Mình tên Trần Thanh Duy __eou__
+Bạn sinh năm bao nhiêu? __eou__ Mình sinh năm 2000 __eou__
+Bạn đến từ đâu? __eou__ Quê mình ở Trà Vinh __eou__
+Bạn đang học hay đi làm? __eou__ Mình đang học đại học __eou__
+Bạn học trường đại học nào? __eou__ Mình học trường đại học Tôn Đức Thắng __eou__
+Bạn học khoa nào ngành gì? __eou__ Mình học khoa Công Nghệ Thông Tin, ngành Mạng máy tính và Truyền thông dữ liệu __eou__
+Bạn đang ở thành phố nào? __eou__ Mình đang ở tp Hồ Chí Minh __eou__
+Bạn đang theo học ngành học nào? __eou__ Mình đang học công nghệ thông tin __eou__
+Bạn đang sống cùng gia đình hay ở một mình? __eou__ Mình sống một mình __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hưng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn đang làm việc ở đâu vậy, có thể giới thiệu cho mình được không? __eou__ mình làm ở Lotte Mart Quận 7 nhưng hiện tại đủ người rồi __eou__
+không biết bạn đã có người yêu chưa? __eou__ hiện tại thì mình đang độc thân __eou__
+bạn có dự định đi du học nước ngoài không? __eou__ nếu có thể mình sẽ thử sức với việc đi du học __eou__
+gia đình bạn hiện đang làm công việc gì? __eou__ gia đình mình đang làm ruộng bạn nha __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+cho mình hỏi tên bạn là gì? __eou__ Mình tên Lợi __eou__
+bạn sinh năm bao nhiêu __eou__ Mình sinh năm 1999 __eou__
+bạn sinh ra ở đâu? __eou__ Mình sinh ra ở Phan Thiết, Bình Thuận. __eou__
+nhà bạn có bao nhiêu thành viên? __eou__ Nhà mình gồm 4 thành viên __eou__
+sở thích của bạn là gì? __eou__ mình thích chơi game, nghe nhạc,... __eou__
+bạn có chơi thể thao không? __eou__ mình thường xuyên bơi lội __eou__
+bạn đang làm gì và ở đâu? __eou__ mình đang ở thành phố hcm và học công nghệ thông tin tại trường đại học Tôn Đức Thắng __eou__
+cho mình hỏi tên bạn là gì? __eou__ mình tên Ly __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn bao nhiêu tuổi rồi nhỉ? __eou__ mình được 19 tuổi rồi ấy bạn __eou__
+bạn sinh ngày mấy? __eou__ mình sinh ngày 1 tháng 9 __eou__
+tên đầy đủ của bạn là gì? __eou__ tên mình là Nguyễn Thị Ly Ly __eou__
+bạn cao mét mấy? __eou__ mình cao 1 mét 68 __eou__
+bạn nặng bao nhiêu ký? __eou__ mình 45kg nha bạn __eou__
+Cho bạn hỏi bạn tên gì vậy __eou__ Mình tên Mèo __eou__
+Nhà bạn ở đâu vậy? __eou__ Nhà mình ở quận 7 __eou__
+Bạn có thể cho mình biết về tuổi của bạn không? __eou__ Mình năm nay 20 tuổi __eou__
+Bạn có thể cho mình biết về chiều cao của bạn không? __eou__ Chiều cao của mình là 1m6 __eou__
+Bạn có thể nói bao nhiêu ngôn ngữ vậy? __eou__ Mình có thể nói được 1 ngôn ngữ __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Lễ __eou__
+bạn sinh năm bao nhiêu? __eou__ mình sinh năm 2000 __eou__
+bạn học ngành gì __eou__ mình học ngành công nghệ thông tin __eou__
+sở thích của bạn là gì __eou__ sở thích của mình là nghe nhạc, chơi game, du lịch, thích được yêu, sự giàu có, ghét sự nhòm ngó, yêu hòa bình __eou__
+Bạn ơi, bạn có nhóm làm bài chưa ? __eou__ Chưa bạn, nghe nói nhóm 3 người __eou__
+Bên mình hiện có 2 người nè, bạn muốn vào nhóm mình không ? __eou__ Ok, vậy bạn cho mình vào nhóm nha __eou__
+Ok, để mình tạo nhóm __eou__ À bạn, khi nào thuyết trình vậy __eou__
+2 tuần nữa nha bạn __eou__ Có kế hoạch gì chưa ? __eou__
+Để mình lên kế hoạch rồi phân công nha __eou__ Ok, vậy bạn lên kế hoạch rồi có gì gửi vào nhóm nha __eou__
+Bạn ơi, bạn có nhóm làm bài chưa ? __eou__ Chưa bạn, nghe nói nhóm 3 người __eou__
+Bên mình hiện có 2 người nè, bạn muốn vào nhóm mình không ? __eou__ Ok, vậy bạn cho mình vào nhóm nha __eou__
+Ok, để mình tạo nhóm __eou__ À bạn, khi nào thuyết trình vậy __eou__
+2 tuần nữa nha bạn __eou__ Có kế hoạch gì chưa ? __eou__
+Để mình lên kế hoạch rồi phân công nha __eou__ Ok, vậy bạn lên kế hoạch rồi có gì gửi vào nhóm nha __eou__
+bạn tên là gì? __eou__ tớ tên Đức __eou__
+bạn bao nhiêu tuổi rồi? __eou__ mình 21 tuổi __eou__
+bạn sinh ngày mấy tháng mấy vậy? __eou__ mình sinh ngày 5 tháng 3 __eou__
+bạn sinh năm con gì? __eou__ mình sinh năm con rồng __eou__
+bạn có người yêu chưa? __eou__ mình chưa có người yêu __eou__
+nhà bạn có bao nhiêu người? __eou__ nhà mình có 4 người __eou__
+bạn có anh hay chị? __eou__ mình có 1 chị __eou__
+Bạn tên gì? __eou__ Mình tên Nguyên. __eou__
+Quê bạn ở đâu? __eou__ Quê mình ở thành phố Hồ Chí Minh. __eou__
+Bạn là sinh viên khóa mấy? __eou__ Mình là sinh viên khóa 22. __eou__
+Bạn học ngành gì? __eou__ Mình học ngành Công nghệ thông tin. __eou__
+Bạn học chuyên ngành nào? __eou__ Minh học chuyên ngành Khoa học máy tính. __eou__
+Bạn có hay mua hàng online không? __eou__ Mình thường xuyên mua hàng online. __eou__
+Bạn thường hay mua trên ứng dụng nào? __eou__ Mình thường mua trên Shopee. __eou__
+Bạn có thường mua đồ điện tử hay thời trang không? __eou__ Mình hay mua đồ thời trang nhưng không thường mua đồ điện tử. __eou__
+Bạn thích mua ở shop nào trên Shopee? __eou__ Mình thường mua ở Yame, Zara, Biti's. __eou__
+Bạn thấy các loại quần áo nào mặc đẹp vào mùa hè? __eou__ Mình thường mặc quần short và sơ mi tay ngắn phối cùng với giày lười. __eou__
+Bạn thấy laptop nào tốt trong tầm giá 20 triệu? __eou__ Mình thấy các dòng ASUS Nitro và MSI khá tốt trong tầm giá đó. __eou__
+Bạn mua laptop ở đâu? __eou__ Mình mua ở XGear. __eou__
+mình nhìn bạn quen lắm, hình như bạn học trường Đại học Tôn Đức Thắng đúng không? __eou__ đúng rồi bạn, mình học ở đó, bạn cũng học tôn đức thắng hả __eou__
+bạn đang làm ở đâu vậy, giới thiệu cho mình với? __eou__ mình làm ở Phúc Long nhưng hiện tại đủ người rồi __eou__
+bạn là người ở đây hay là ở tỉnh lên vậy? __eou__ à mình là người ở đây __eou__
+không biết bạn đã có người yêu chưa? __eou__ hiện tại thì mình đang độc thân __eou__
+bạn có tính đi du học không hay tiếp tục học tại Việt Nam? __eou__ mình chưa biết nữa, nhưng nếu có cơ hội thì mình muốn đi du học __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+Bạn có thể cho mình biết tên bạn không? __eou__ Mình tên là Huy __eou__
+Bạn bao nhiêu tuổi? __eou__ Mình năm nay 22 tuổi __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Công nghệ thông tin __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Tài chính ngân hàng __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Ngôn ngữ anh __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Quản trị kinh doanh __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Điện __eou__
+bạn đang học ngành gì vậy? __eou__ tôi đang học Công nghệ sinh học __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu __eou__ mình sinh năm 2001 __eou__
+Sở thích của bạn là gj ? __eou__ Tớ thích đọc sách, tham gia các hoạt động ngoài trời __eou__
+Nếu dúng một từ để miêu tả con người bạn thì là từ gì ? __eou__ Bình thường __eou__
+Thời gian rãnh rỗi bạn thường làm gì ? __eou__ Mình thường đọc sách, chơi game. __eou__
+Bạn đang học trường gì ? __eou__ mình đang học tại đại học Tôn Đức Thắng __eou__
+Quê quán của bạn ở đâu ? __eou__ Quê hương của mình ở Bến Tre __eou__
+Tương lai bạn muốn làm gì ? __eou__ Mình muốn làm ca sĩ __eou__
+cho mình hỏi tên bạn là gì? __eou__ tớ tên Hùng __eou__
+bạn sinh năm bao nhiêu? __eou__ mình sinh năm 1999 __eou__
+bạn sinh ra ở đâu? __eou__ mình sinh ra ở Cà Mau __eou__
+bạn học tập ở đâu? __eou__ mình học ở Sài Gòn __eou__
+bạn đang làm nghề gì? __eou__ mình đang làm phục vụ quán nước __eou__
+bạn có đang độc thân không? __eou__ mình đang độc thân nhé __eou__
+Bạn ơi bạn tên gì? __eou__ Tớ tên Thịnh, Nguyễn Đan Ni Ô Thịnh __eou__
+bạn sinh năm nào? __eou__ Tớ sinh năm 1999 __eou__
+bạn cao bao nhiêu vậy? __eou__ Tớ cao 175cm __eou__
+bạn nặng bao nhiêu cân vậy? __eou__ Tớ nặng 67kg __eou__
+Giới tinh bạn là gì ? __eou__ Mình thuộc giới tinh nam __eou__
+Bạn thuộc nhóm máu nào? __eou__ Mình thuộc nhóm máu O __eou__
+bạn tên là gì? __eou__ mình tên là Khải __eou__
+bạn cao bao nhiêu? __eou__ mình cao 1 mét sáu mươi chín __eou__
+bạn nặng bao nhiêu? __eou__ mình nặng gần 80 ký __eou__
+bạn có người yêu chưa ? __eou__ mình chưa có người yêu, mình còn đang sợ ế đây này __eou__
+lương tháng bạn bao nhiêu ? __eou__ lương tháng mình 2 triệu __eou__
+Nhà bạn ở đâu? __eou__ nhà mình ở quận 8 __eou__
+Hôm qua tao thấy bạn đi chơi với nhỏ nào đúng không ? __eou__ chắc bạn nhìn nhầm rồi đó __eou__
+Gia đình bạn có mấy người ? __eou__ Nhà mình có 5 người __eou__
+bạn con một đúng không ? __eou__ không, mình là còn thứ __eou__
+Hôm qua mình nghe thấy bạn trúng số vietlot? __eou__ đúng rồi, mình trúng được 50 ngàn __eou__
+bạn học giỏi không ? __eou__ không, mình học bình bình __eou__
+số điện thoại bạn số mấy? __eou__ số điện thoại mình là 090-0000-0000 __eou__
+bạn có bao nhiêu người yêu rồi? __eou__ mình làm gì đã có người yêu, mình còn đang sợ ế đây này __eou__
+bạn tên là gì? __eou__ mình tên là Tài __eou__
+bạn cao bao nhiêu? __eou__ mình cao 1 mét bảy mươi lăm __eou__
+bạn nặng bao nhiêu? __eou__ mình nặng gần 95 ký __eou__
+bạn có người yêu chưa ? __eou__ mình chưa có người yêu __eou__
+lương tháng bạn bao nhiêu ? __eou__ mình chưa đi làm __eou__
+Nhà bạn ở đâu? __eou__ nhà mình ở quận 11 __eou__
+Hôm qua tao thấy bạn đi chơi với nhỏ nào đúng không ? __eou__ mình còn đang ế đây này __eou__
+Gia đình bạn có mấy người ? __eou__ Nhà mình có 3 người __eou__
+bạn con một đúng không ? __eou__ đúng vậy __eou__
+Hôm qua mình nghe thấy bạn trúng số vietlot? __eou__ mình có mua vé số bao giờ __eou__
+bạn học giỏi không ? __eou__ mình học bình bình __eou__
+số điện thoại bạn số mấy? __eou__ số điện thoại mình 0707336606 __eou__
+bạn có bao nhiêu người yêu rồi? __eou__ mình độc thân __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Dân, mọi người hay gọi tớ là Dân Chơi __eou__
+bạn sinh năm nào? __eou__ tớ sinh năm 2003 __eou__
+Cho mình hỏi bạn tên gì? __eou__ Mình Tên Khá Bảnh __eou__
+Bạn sinh năm nào? __eou__ mình sinh năm 1991 __eou__
+Bạn cao bao nhiêu mét? __eou__ bình thường mình cao 1m5, khi uống thuốc tăng đề kháng mình cao 2m __eou__
+Bạn nặng bao nhiêu ký? __eou__ bình thường mình nặng 80kg, uống thuốc tăng đề kháng mình còn 40kg __eou__
+Bạn có bệnh án gì không? __eou__ mình bị dị ứng với cái nghèo __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 200 __eou__
+quê bạn ở đâu? __eou__ quê mình ở Floria __eou__
+cậu sống ở đâu? __eou__ mình ở TP.HCM __eou__
+cậu có phải là giáo viên không? __eou__ không mình là game thủ __eou__
+họ tên thật của cậu là gì thế? __eou__ Mình tên Đăng, Võ Nguyễn Hải Đăng __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2001 __eou__
+Xin lỗi cho mình hỏi bạn tên gì? __eou__ Tên đầy đủ của mình là Thạch Nguyễn Khang Huy __eou__
+Bạn bao nhiêu tuổi rồi? __eou__ Tháng 5 này là mình tròn 22 tuổi __eou__
+tên của bạn là gì? __eou__ Lê Thành An. __eou__
+bạn sinh vào năm nào? __eou__ Tui sinh 1999. __eou__
+tính đến nay bạn bao nhiêu tuổi? __eou__ 21 tuổi rồi. __eou__
+chiều cao của bạn là bao nhiêu? __eou__ Tui cao 3 mét bẻ đôi. __eou__
+cân nặng của bạn là bao nhiêu? __eou__ xấp xỉ 100 kí lô. __eou__
+bạn thuộc phái nam hay phái nữ? __eou__ I am in the middle, huh. __eou__
+bạn người dân tộc nào? __eou__ Mình dân tộc Kinh. __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Nguyễn Thanh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2007 __eou__
+cho mình hỏi bạn cao bao nhiêu thế? __eou__ mình cao 1m50 nha bạn __eou__
+thế bạn nặng bao nhiêu ký? __eou__ mình nặng 1 tạ hơn nha bạn __eou__
+bạn sinh ra và lớn lên ở đâu thế? __eou__ mình sinh ra và lớn lên ở Đắk Lắk __eou__
+Bạn ơi bạn tên gì? __eou__ mình tên Minh Thư __eou__
+Bạn nặng bao nhiêu kí? __eou__ mình nặng 52 kí __eou__
+Bây giờ bạn mấy tuổi? __eou__ mình đang 20 tuổi __eou__
+tên bạn là gì? __eou__ Tên mình là Đạt __eou__
+tên bạn mong muốn được gọi là gì? __eou__ Tên mình là Đạt __eou__
+năm nay bạn bao nhiêu tuổi? __eou__ Mình năm nay 20 tuổi __eou__
+bạn cao bao nhiêu vậy? __eou__ Mình cao 1 mét 50 __eou__
+bạn nặng bao nhiêu kí? __eou__ Mình nặng 45 kí __eou__
+bạn tên gì vây ah? __eou__ Tui tên Nam, Nguyễn Hoàng Nam __eou__
+bạn năm nay là bao nhiêu tuổi rồi? __eou__ Tui năm nay 20 tuổi. __eou__
+bạn nhìn có vẻ cao nhỉ! Bạn cao bao nhiêu vây ah? __eou__ Tui cao 1m75. __eou__
+bạn tên gì? __eou__ mình tên Phát. __eou__
+Bạn thuộc nhóm máu gì? __eou__ mình nhóm máu AB. __eou__
+Sở thích của bạn là gì? __eou__ Thích xem stream. __eou__
+Cân nặng của bạn là bao nhiêu? __eou__ mình nặng 65kg. __eou__
+Bạn cao bao nhiêu? __eou__ mình cao 1m7 __eou__
+bạn bao nhiêu tuổi? __eou__ mình 22 tuổi __eou__
+cho mình hỏi bạn tên gì? __eou__ Mình tên là Khanh Đẹp Trai, SĐT: 0832840***, nhà ở Vinhome, quốc tịch Mỹ. __eou__
+bạn sinh năm nào? __eou__ Mình sinh năm 2000. __eou__
+Bạn nặng bao nhiêu ? __eou__ Mình nặng 65kg. __eou__
+Tên facebook của bạn là gì? __eou__ Mình không sử dụng MXH. __eou__
+Email của bạn là gì? __eou__ Email cá nhân của mình là khanhduynguyen170900@gmail.com, còn mail trong công ty là giamdockhanhnguyen.vin.vn __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Lý Gia Bảo __eou__
+bạn sinh năm nào? __eou__ mình vừa mới chào đời ngày hôm qua!Ahihi __eou__
+Wow ghê zậy .Nhưng sao mình lớn chậm vậy nhỉ? __eou__ Do bạn chưa chơi đồ đấy bạn ơi! __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Thụy, Thụy bean __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Thụy, Đỗ Quang Thụy __eou__
+bạn sinh năm nào? __eou__ bố m sinh năm 2000 __eou__
+Cho mình hỏi bạn tên gì? __eou__ mình tên Bảo __eou__
+Bạn sinh năm nào? __eou__ mình sinh năm 1999 __eou__
+Bạn cao bao nhiêu? __eou__ mình cao 1m68 __eou__
+Bạn nặng bao nhiêu? __eou__ mình nặng 50kg __eou__
+Bạn cao bao nhiêu? __eou__ Tui cao 2m. __eou__
+Số đo 3 vòng của ông là gì? __eou__ 90 60 100. __eou__
+cho mình hỏi bạn tên gì? __eou__ mình tên Loan __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+bạn cao bao nhiêu? __eou__ mình cao tầm 1m67 __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Tín, Nguyễn Trung Tín __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Tùng , Nguyễn Thanh Tùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+Cậu nặng bao nhiều kg? __eou__ Tớ nặng 150kg. __eou__
+Cậu sinh ở đâu ? __eou__ Quê tớ ở Quảng Nam. __eou__
+Cậu là người dân tộc gì? __eou__ Tớ là người dân tộc Hmong. __eou__
+bạn sinh ngày nào? __eou__  __eou__
+cho mình hỏi là bạn cao bao nhiêu? __eou__  __eou__
+biệt danh của bạn là gì? __eou__  __eou__
+tên đầy đủ của bạn là gì? __eou__  __eou__
+bạn sinh năm bao nhiêu? __eou__  __eou__
+bạn là nam hay nữ? __eou__  __eou__
+Bạn tên gì? __eou__ Mình tên Jang Jam. __eou__
+Bạn nhiêu tuổi? __eou__ Mình 20 tuổi. __eou__
+Bạn cao bao nhiêu? __eou__ Mình cao 1m76. __eou__
+Bạn nặng bao nhiêu? __eou__ Mình nặng 70kg. __eou__
+Bạn họ gì? __eou__ Mình họ Đào. __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2001 __eou__
+Cho mình hỏi bạn tên là gì ? __eou__ Mình tên là Nhơn __eou__
+Cho mình hỏi bạn bao nhiêu tuổi rồi ? __eou__ Mình được 20 tuổi rồi __eou__
+Cho mình hỏi bạn cao bao nhiêu mét ? __eou__ Minh cao 1m8 . __eou__
+Cho mình hỏi bạn cân nặng bao nhiêu kí ? __eou__ Minh nặng 70kg. __eou__
+Bạn đang tên gì vậy? __eou__ Mình tên Chupi __eou__
+Hiện bạn bao nhiêu tuổi rồi ? __eou__ Mới 20 __eou__
+Bạn cao bao nhiêu vậy ? __eou__ Không biết hỏi chi __eou__
+Bạn nặng bao nhiêu ? __eou__ Tao nặng nhiêu kệ tao chứ __eou__
+bạn sinh ngày nào? __eou__ mình cung bạch dương 12/04 __eou__
+cho mình hỏi là bạn cao bao nhiêu? __eou__ chắc 1m7 gì ấy __eou__
+biệt danh của bạn là gì? __eou__ hiếu đẹp trai __eou__
+tên đầy đủ của bạn là gì? __eou__ Huỳnh Trần Trung Hiếu __eou__
+bạn sinh năm bao nhiêu? __eou__ 2000 __eou__
+bạn là nam hay nữ? __eou__ nam __eou__
+Bạn đang tên gì vậy? __eou__ Mình tên Chupi __eou__
+Hiện bạn bao nhiêu tuổi rồi ? __eou__ Mới 20 __eou__
+Bạn cao bao nhiêu vậy ? __eou__ Không biết hỏi chi __eou__
+Bạn nặng bao nhiêu ? __eou__ Tao nặng nhiêu kệ tao chứ __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Đông __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+bạn cao bao nhiêu? __eou__ Mình cao 1m72 __eou__
+bạn năng bao nhiêu kí? __eou__ Mình nặng 60kg __eou__
+tên gì? __eou__ Hải __eou__
+sinh năm nào? __eou__ 2000 __eou__
+cho mình hỏi bạn tên gì? __eou__ Hải __eou__
+bạn sinh năm nào? __eou__ 2000 __eou__
+Bạn tên gì? __eou__ Vũ Đức Anh Khoa __eou__
+bạn bao tuổi __eou__ 21 tuổi __eou__
+Cao bao nhiêu ? __eou__ 1m8 __eou__
+nặng bao nhiêu ? __eou__ 70kg __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2001 __eou__
+Bạn tên gì? __eou__ Mình tên Nguyễn Trần Nhật Đức __eou__
+Bạn bao nhiêu tuổi ? __eou__ Mình 20 tuổi __eou__
+Bạn nặng bao nhiêu cân ? __eou__ Mình nặng 40kg __eou__
+Bạn cao bao nhiêu mét ? __eou__ Mình cao 1m68 __eou__
+cho mình hỏi bạn tên gì? __eou__ Lian __eou__
+bạn sinh năm nào? __eou__ 2k __eou__
+bạn cao bao nhiêu? __eou__ 1m7 __eou__
+bạn năng bao nhiêu kí? __eou__ 50 kí __eou__
+Xin chào bạn tên gì? __eou__ Mình tên Đức __eou__
+Bạn quê ở đâu? __eou__ Quê mình ở Nghệ An __eou__
+Bạn bao nhiêu tuổi? __eou__ Mình 21 tuổi __eou__
+Bạn có cao trên 1m5 không? __eou__ Minh cao trên 1m5 __eou__
+Cân nặng của bạn là bao nhiêu? __eou__ Mình nặng 72kg __eou__
+Bạn có biệt danh gì không? __eou__ Không có nha __eou__
+Sinh nhật bạn là ngày nào vậy? __eou__ 01/01/2000 __eou__
+Cho mình hỏi bạn tên gì? __eou__ Tớ tên là Bot, Automatic Robot. __eou__
+Bạn sinh năm nào? __eou__ mình sinh năm 2020 __eou__
+Bạn đến từ quốc gia nào? __eou__ Tớ đến từ Việt Nam. __eou__
+Bạn được lập trình từ ngôn ngữ nào? __eou__ Mình được lập trình từ rất nhiều ngôn ngữ. Nhưng phần lớn là Java. __eou__
+Tính đến nay, bạn đã được bao nhiêu tuổi rồi? __eou__ Mình được 1 tuổi. __eou__
+cho mình hỏi bạn tên gì? __eou__ Corgi __eou__
+bạn sinh năm nào? __eou__ 2000 __eou__
+bạn cao bao nhiêu? __eou__ 1m70 __eou__
+bạn nặng bao nhiêu? __eou__ 74kg __eou__
+Sở thích của bạn là gì? __eou__ Chơi game, nghe nhạc. __eou__
+Gu người yêu của bạn như thế nào? __eou__ Chubby __eou__
+bạn thường làm gì lúc rảnh rỗi? __eou__ Chơi game, nghe nhạc, xem phim __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2001 __eou__
+Bạn tên gì? __eou__ Vũ Đức Anh Khoa __eou__
+bạn bao tuổi __eou__ 21 tuổi __eou__
+Cao bao nhiêu ? __eou__ 1m8 __eou__
+nặng bao nhiêu ? __eou__ 70kg __eou__
+cho mình hỏi là bạn tên là gì? __eou__ mình tên là Duy, Trương Bùi Quốc Duy. __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+thế chiều cao của cậu? __eou__ mình cao 1m70 __eou__
+cân nặng thì sao? __eou__ mình nặng 80kg ạ __eou__
+cậu nhóm máu gì? __eou__ nhóm máu của mình là B __eou__
+cậu cận bao nhiêu độ? __eou__ mình cận 3,5f tiêu cự ạ __eou__
+cung hoàng đạo của bạn là gì thế? __eou__ mình cung song tử __eou__
+tôn giáo của bạn là gì? __eou__ minh theo thiên chúa giáo __eou__
+Cho mình hỏi bạn tên gì nhỉ? __eou__ Minh tên Nguyễn Thị Thu Huyền __eou__
+Cho mình biết ngày tháng năm sinh của bạn được không? __eou__ mình sinh năm 22/02/2000 __eou__
+Bạn cao bao nhiêu, nặng bao nhiêu nhỉ? __eou__ Mình cao 1m59, nặng 51kg __eou__
+Cho mình xin số điện thoại của bạn được không ? __eou__ Số điện thoại mình là 0782513xxx __eou__
+Bạn có biệt danh hoặc tên ở nhà không ? __eou__ Có. Biệt danh của mình là Mắm __eou__
+Bạn cao mét bao nhiêu vậy? __eou__ Mình cao 1 mét 70. __eou__
+Bạn tuổi con gì nhỉ? __eou__ Mình tuổi con rồng. __eou__
+Năm nay em mấy tuổi? __eou__ Năm nay em 20 tuổi. __eou__
+Bạn hôm qua mình gặp ở nhà hàng tên gì vậy? __eou__ Mình gặp ở Manwah Vincom Đồng Khởi. __eou__
+Cho mình xin số điện thoại của bạn nha? __eou__ Số điện thoại mình là 0334xxxxxx __eou__
+Cho hỏi bạn tên gì? __eou__ Mình tên Nguyễn Thị Bưởi Bưởi __eou__
+Mình có thể xin ngày sinh của bạn được không? __eou__ Mình sinh ngày 22/02/2000 __eou__
+Bạn cao mét bao nhiêu? __eou__ Mình cao lắm, có 2 mét thôi ạ __eou__
+Bạn cân nặng bao nhiêu? __eou__ Khối lượng cơ thể của mình là 50kg __eou__
+Bạn bao nhiêu tuổi rồi? __eou__ Mình 20 tuổi rồi __eou__
+bạn tên gì á? __eou__ tôi tên Tài, Dương Trọng Tài __eou__
+tôi tên Huy, 20 tuổi bạn bao nhiêu á? __eou__ Tôi cũng 20 luôn nè bạn __eou__
+bạn cao bao nhiêu ? __eou__ tôi cao 1m68 à bạn ơi __eou__
+Bạn ăn gì chưa ? __eou__ tôi ăn rồi nha, còn bạn? __eou__
+Bạn bao tuổi ? __eou__ 20 __eou__
+Có phải bạn tên là Khang __eou__ tất nhiên là không mình là Hiếu __eou__
+Chào bạn, cho mình hỏi bạn tên gì? __eou__ Mình tên Mai dễ thương __eou__
+Bạn sinh năm bao nhiêu ? __eou__ 2003 á bạn __eou__
+Mình thấy bạn hơi gầy, bạn có thể cho mình biết bạn nặng bao nhiêu ký ? __eou__ Gầy lắm bạn ơi mình chỉ có 45kg à __eou__
+Trong bạn có vẻ cao, bạn cao bao nhiêu thế ? __eou__ Mình cao tận 1m57 lận __eou__
+Bạn bao nhiêu tuổi rồi __eou__ Mình mới 18 à __eou__
+Chào bạn, cho mình hỏi bạn tên gì nhỉ ? __eou__ Nguyễn Thành Phát __eou__
+Bạn sinh nào bao nhiêu ạ ? __eou__ năm 2000 __eou__
+Cho mình xin thông tin chiều cao và cân nặng của bạn với ạ ? __eou__ cao: 1m7 , nặng : 54kg __eou__
+Chào bạn, cho mình hỏi bạn tên gì nhỉ ? __eou__ Nguyễn Thành Phát __eou__
+Bạn sinh nào bao nhiêu ạ ? __eou__ năm 2000 __eou__
+Cho mình xin thông tin chiều cao và cân nặng của bạn với ạ ? __eou__ cao: 1m7 , nặng : 54kg __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Minh, Trần Phạm Thanh Minh __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+bạn cao bao nhiêu? __eou__ mình cao 1m60 __eou__
+cân nặng của bạn là bao nhiêu vậy? __eou__ mình nặng 80kg nha __eou__
+bạn có thể cho mình biết bạn tuổi con gì được không? __eou__ mình tuổi con rồng __eou__
+Bạn tên gì vậy? __eou__ Mình tên Nam ạ __eou__
+Bạn bao nhiêu tuổi thế? __eou__ Mình 20 tuổi __eou__
+Bạn bao nhiêu kg? __eou__ Mình 72kg __eou__
+Bạn cao bao nhiêu? __eou__ Mình cao 1m73 __eou__
+Trình độ học vấn? __eou__ Mình được 12/12 __eou__
+cho mình hỏi bạn tên gì? __eou__ Mình tên Khoa __eou__
+bạn sinh năm nào? __eou__ Mình sinh 2002 __eou__
+bạn cân nặng bao nhiêu? __eou__ Mình 100 kg __eou__
+bạn có chiều cao bao nhiêu? __eou__ Mình cao 170cm __eou__
+Bạn có bị khùng không? __eou__ Mình bị khùng __eou__
+Xin cái sdt __eou__ Không  cho __eou__
+cho mình hỏi bạn tên gì? __eou__ Thành Khang __eou__
+bạn sinh năm nào? __eou__ 2k __eou__
+bạn cung hoàng đạo gì? __eou__ Ma Kết __eou__
+bạn bao nhiêu tuổi rồi? __eou__ 21 __eou__
+bạn cân nặng bao nhiêu? __eou__ 100 __eou__
+bạn có chiều cao bao nhiêu? __eou__ 170 __eou__
+Bạn tên gì? __eou__ Mình tên Hạnh __eou__
+Bạn bao nhiêu tuổi? __eou__ Tầm 20 tuổi __eou__
+Bạn bao nhiêu kí? __eou__ 52kg __eou__
+Bạn cao bao nhiêu? __eou__ 1m7 __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Lộc, Nguyễn Tấn Lộc __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2000 __eou__
+Ông nặng nhiêu kí ? __eou__ Tui cỡ 75kg __eou__
+Ông cao nhiêu cm ? __eou__ 1m72 ông __eou__
+Ông có bị cận không ? __eou__ Có, cận 3 độ mỗi mắt __eou__
+cho mình hỏi bạn tên gì? __eou__ tớ tên Hùng, Phạm Mạnh Hùng __eou__
+bạn sinh năm nào? __eou__ mình sinh năm 2001 __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+bạn sống ở đâu vậy? __eou__ mình sống ở thành phố Hồ Chí Minh __eou__
+nhà bạn có bao nhiêu anh chị em? __eou__ nhà mình có 3 anh em, mình là anh cả và có 2 đứa em gái __eou__
+mẹ bạn làm nghề gì ? __eou__ mẹ mình là cô giáo __eou__
+ba bạn làm nghề gì ? __eou__ ba mình là công an __eou__
+bạn có người yêu chưa ? __eou__ mình có rồi __eou__
+bạn có ô tô không ? __eou__ tháng sau ba mình mua cho mình __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+Bạn sinh năm bao nhiêu? __eou__ Mình sinh năm 1999 __eou__
+Bạn quê ở đâu á? __eou__ Mình quê ở Vũng Tàu á __eou__
+Tên của bạn là gì? __eou__ Mình tên Quang __eou__
+Bạn sinh năm bao nhiêu? __eou__ Mình sinh năm 2001 __eou__
+Vậy năm nay bạn bao nhiêu tuổi? __eou__ Năm nay mình 20 tuổi __eou__
+Bạn đến từ đâu? __eou__ Mình đến từ thành phố Hồ Chí Minh __eou__
+Hiện tại công việc chính của bạn là gì? __eou__ Hiện tại mình là sinh viên năm 2 __eou__
+Vậy ngành của bạn học là gì? __eou__ Mình học ngành khoa học máy tính __eou__
+Vậy bạn học trường nào? __eou__ Mình đang học tại đại học Tôn Đức Thắng __eou__
+Bạn thấy ngành mình học có quá khó không? __eou__ Mình thấy ngành mình theo học khá nặng và khó __eou__
+Hiện tại bạn sống với ai? __eou__ Mình hiện tại thì sống với ba mẹ của mình __eou__
+Bạn có thường đi du lịch với gia đình không? __eou__ Mình cũng ít khi đi du lịch với gia đình vì ba mẹ mình khá bận __eou__
+Nhà bạn ở quận mấy vậy Quang? __eou__ Nhà tôi ở quận Bình Tân. __eou__
+Khoảng cách từ nhà bạn đến trường có xa không? __eou__ Khoảng cách từ nhà tối đến trường tầm 13km. __eou__
+Thông thường từ nhà bạn đến trường tốn bào lâu? __eou__ Thông thường tốn khoảng 30 đến 40 phút. __eou__
+Mỗi lần đi học xa như vậy có ngán không? __eou__ Củng khá ngán nhưng cũng phải ráng thôi. __eou__
+Ở nhà bạn có làm gì không? __eou__ Ở nhà mình chủ yếu chơi game, lâu lâu cũng làm các project nhỏ chơi cho vui. __eou__
+Có học thêm hay luyện gì không? __eou__ Không, mình thích tự học khi có chủ đề hứng thú hơn. __eou__
+cho mình xin hỏi tên bạn là gì? __eou__ tên mình là Vân __eou__
+bạn bao nhiêu tuổi rồi? __eou__ năm nay mình 21 tuổi __eou__
+bạn đang sống ở đâu thế? __eou__ mình đang sống ở thành phố Hồ Chí Minh __eou__
+bạn thuộc cung hoàng đạo nào thế? __eou__ mình thuộc cung Song Ngư __eou__
+bạn đang là sinh viên năm mấy? __eou__ mình đang là sinh viên năm 3 __eou__
+bạn đang học ở đâu? __eou__ mình đang học ở trường đại học Tôn Đức Thắng __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+Bạn quê ở đâu vậy Lan ? __eou__ Mình quê ở Sài Gòn nhé bạn ! __eou__
+Oh ! Mình cũng quê ở sài gòn nè ! Vậy cho mình hỏi bạn bao nhiêu tuổi rồi nhỉ ? __eou__ Mình mới 20 tuổi nhé bạn ! __eou__
+Vậy bạn bao nhiêu tuổi rồi ? __eou__ Mình tròn 21 tuổi á bạn ! __eou__
+À cho mình hỏi là bạn là sinh viên hay là đang học nghề vậy ? __eou__ Hiện tại mình đang là sinh viên nhé bạn ! Mà mình cũng không biết chăc nữa vì mình học ở Học Viện Âm Nhạc Thành Phố Hồ Chí Minh đó bạn ! __eou__
+Vậy chắc cũng là sinh viên chứ nhỉ ? __eou__ Ừm mình cũng nghĩ vậy ! __eou__
+Bạn thích âm nhạc lắm hả ? __eou__ Đúng rồi âm nhạc là đam mê của mình đó bạn ! __eou__
+Oh ! bạn hay thường nghe những thể loại nhạc gì vậy ? __eou__ Hmm ! mình hay nghe nhạc Âu Mỹ á bạn ! những loại nhạc country music, vân vân và mây mây nữa ! __eou__
+bạn có thích dòng nhạc lofi không ? __eou__ Oh có chứ bạn mình cực kỳ thích luôn đó bạn ! thể loại nhạc đó nghe rất là nhẹ nhàng! __eou__
+Hiện tại bạn học tại trường nào? __eou__ Mình đang học tại trường đại học Tôn Đức Thắng __eou__
+Bạn là sinh viên năm mấy? __eou__ Hiện tại là sinh viên năm 04 và sắp ra trường rồi __eou__
+Bạn có sở thích gì không? __eou__ Mình rất quan tâm tới thời trang __eou__
+Tình trạng quan hệ hiện tại của bạn như nào? __eou__ Hiện tại mình đang độc thân __eou__
+Bạn có yêu thích môn thể thao gì không? __eou__ Mình đặc biệt yêu thích bộ môn Cầu lông __eou__
+bạn cho mình hỏi bạn tên gì thế? __eou__ mình tên Kỳ __eou__
+năm nay bạn bao nhiêu tuổi rồi? __eou__ mình 21 tuổi rồi __eou__
+bạn đang ở đâu thế? __eou__ mình ở quận __eou__
+bạn vẫn còn đang đi học phải không? __eou__ đúng rồi bạn __eou__
+bạn đang học trường nào thế? __eou__ mình đang học ở trường Đại học Tôn Đức Thắng __eou__
+bạn là sinh viên ở khoa nào? __eou__ mình là sinh viên Công nghệ thông tin __eou__
+bạn học chuyên ngành gì vậy? __eou__ mình học Kỹ thuật phần mềm __eou__
+năm nay, bạn học năm mấy rồi? __eou__ mình năm 4 rồi __eou__
+bạn chuẩn bị ra trường chưa? __eou__ hết năm nay mình sẽ ra trường __eou__
+bạn quê ở đâu thế? __eou__ quê mình ở Ninh Thuận __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên mình là Nam __eou__
+bạn cho mình hỏi Mẹ bạn tên gì? __eou__ mẹ mình tên Ngân __eou__
+bạn cho mình hỏi Ba bạn tên gì? __eou__ ba mình tên Thắng __eou__
+bạn cho mình hỏi bạn nhiêu tuổi __eou__ mình 20 tuổi __eou__
+bạn ơi bạn nhà ở đâu thế? __eou__ mình nhà ở Bình Dương __eou__
+bạn cho mình hỏi quê bạn ở đâu thế? __eou__ quê mình ở Quảng Bình __eou__
+bạn cho mình hỏi nhà bạn có bao nhiêu người? __eou__ nhà mình có 4 người __eou__
+bạn cho mình hỏi bạn học trường nào? __eou__ mình học trường Đại học Tôn Đức Thắng __eou__
+bạn cho mình hỏi bạn học Khoa gì? __eou__ mình học Khoa Công nghệ Thông tin __eou__
+bạn cho mình hỏi bạn khóa bao nhiêu? __eou__ mình khóa 21 __eou__
+Bạn tên là gì vậy? __eou__ Mình tên Quang __eou__
+Bạn bao nhiêu tuổi rồi __eou__ Năm nay 21 tuổi rồi. __eou__
+Bạn sinh ra ở đâu đấy? __eou__ Mình sinh ra ở thành phố Hồ Chí Minh __eou__
+Bạn đang làm nghề gì? __eou__ Hiện tại mình là lập trình viên __eou__
+Bạn đã đi làm chưa? __eou__ Mình chỉ mới thực tập thôi __eou__
+Bạn đi làm vui không? __eou__ Cũng thú vị lắm. __eou__
+Bạn thích gì nhất khi đi làm? __eou__ Mình thích trải nghiệp những việc khó. __eou__
+Đồ uống bạn thích uống nhất là gì? __eou__ Mình thích nhất là trà Lipton __eou__
+Bạn thích ăn nhất món gì? __eou__ Rau muống xào tỏi là món mình thất nhất. __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+Cho mình hỏi cậu tên là gì ấy? __eou__ Mình tên Hồng __eou__
+Bạn bao nhiêu tuổi rồi nhỉ? __eou__ À, mình 20. __eou__
+Số điện thoại của bạn là gì? __eou__ 0977736413 __eou__
+Bạn học trường nào vậy? __eou__ Mình học tại Trường ĐH TĐT __eou__
+Bạn học ngành gì thế? __eou__ Mình học CNTT __eou__
+Bạn tên gì vậy ? __eou__ Tui tên Cường, còn bạn ? __eou__
+Mày quê ở đâu ? __eou__ Tao quê Tam kỳ __eou__
+Mày bao nhiêu tuổi rồi ? __eou__ Tao 25 __eou__
+Bạn học trường nào ? __eou__ ĐH Tôn Đức Thắng á __eou__
+Bạn học khoa nào vậy ? __eou__ Tui học CNTT __eou__
+Bạn cho mình hỏi bạn tên gì? __eou__ Tôi mình là Lan. __eou__
+Bạn đang đi học hay đi làm? __eou__ Mình hiện đang là sinh viên năm 4. __eou__
+Sau này bạn dự định sẽ làm gì sau khi học xong? __eou__ Sau khi ra trường mình sẽ đi du học và làm ở bên đó. __eou__
+Bạn có bạn trai chưa? __eou__ Hiện tại mình đang tập trung cho sự nghiệp. __eou__
+Bạn có đang học thêm ngôn ngữ gì khác không? __eou__ Mình có học thêm Toiec để cải thiện tiếng Anh. __eou__
+Bạn hiện đang sống ở đâu? __eou__ Mình ở quận 9 __eou__
+Bạn năm nay bao nhiêu tuổi nhỉ? __eou__ Mình sắp 22 rồi __eou__
+Bạn thì sắp 25 tuổi rồi đúng không? __eou__ Mình mãi mãi tuổi 18 nhé __eou__
+Bạn học ngành gì? __eou__ Mình học ngành kỹ thuật phần mềm __eou__
+Bạn học ở quận mấy? __eou__ Mình học ở quận 7 __eou__
+Ban cho mình hỏi nhà bạn ở đâu? __eou__ Nhà tớ ở Đồng Tháp __eou__
+Bạn cho mình hỏi năm nay bạn được bao nhiêu tuổi rồi? __eou__ Năm nay mình được 22 tuổi rồi bạn __eou__
+Nhà bạn gồm có bao nhiêu người? __eou__ Nhà mình có tổng cộng 4 người __eou__
+Bạn học trường đại học gì vậy? __eou__ Mình học trường đại học Tôn Đức Thắng __eou__
+Ngành học của bạn là gì vậy? __eou__ Mình học ngành Khoa Học Máy Tính __eou__
+Bạn là sinh viên khoa nào? __eou__ Mình là sinh viên khoa Công Nghệ Thông Tin __eou__
+Có thể cho mình biết bạn sinh năm bao nhiêu? __eou__ Mình sinh năm 1999. __eou__
+Bạn hiện đang sử dụng căn cước hay là cmnd? __eou__ Hiện tại mình sử dụng căn cước. __eou__
+Bạn đang ở quận mấy? __eou__ Mình ở quận Gò Vấp __eou__
+Số điện thoại bạn đang dùng là mạng gì? __eou__ Mình dùng mạng viettel __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+Lan xinh quá cho tớ làm quen nhé __eou__ Ok được chứ __eou__
+Thế Lan ở đâu đấy? __eou__ Mình ở nhà __eou__
+Hình như bạn biết HCN đúng không? __eou__ Đúng rồi, tụi mình là bạn __eou__
+Mình là Hải, mình xin số điện thoại lần sau mời cậu đi cafe nhé? __eou__ Ok luôn, 0123456789! __eou__
+bạn cho mình hỏi bạn tên gì thế? __eou__ mình tên Dương __eou__
+năm nay bạn bao nhiêu tuổi rồi? __eou__ mình 21 tuổi rồi __eou__
+bạn đang ở đâu thế? __eou__ mình ở quận 7 __eou__
+bạn vẫn còn đang đi học phải không? __eou__ đúng rồi bạn __eou__
+bạn đang học trường nào thế? __eou__ mình đang học ở trường Đại học Tôn Đức Thắng __eou__
+bạn là sinh viên ở khoa nào? __eou__ mình là sinh viên Công nghệ thông tin __eou__
+bạn học chuyên ngành gì vậy? __eou__ mình học Kỹ thuật phần mềm __eou__
+năm nay, bạn học năm mấy rồi? __eou__ mình năm 4 rồi __eou__
+bạn chuẩn bị ra trường chưa? __eou__ hết năm nay mình sẽ ra trường __eou__
+bạn quê ở đâu thế? __eou__ quê mình ở Quảng Ngãi __eou__
+Ban tên gì? __eou__ Hùng __eou__
+bao tuổi __eou__ 20 __eou__
+Nha o dau __eou__ Ho Chi Minh __eou__
+Song voi gia dinh hay mot minh __eou__ Gia dinh __eou__
+Co anh chi em khong __eou__ Khong __eou__
+tên? __eou__ Hùng __eou__
+bao tuổi __eou__ 20 __eou__
+Nha o dau __eou__ Ho Chi Minh __eou__
+Song voi ai? __eou__ Gia dinh __eou__
+Co anh chi em khong __eou__ Khong __eou__
+Chị cho em hỏi, chị tên là gì? __eou__ Chị tên là Nhi __eou__
+Nhìn chị xinh quá, chị sinh năm mấy? __eou__ Hihi, chị sinh năm 1999 __eou__
+Cho em hỏi nhà chị ở đâu thế? __eou__ Ở Biên Hoà , Đồng Nai ă em __eou__
+Chị còn đi học không, hay đi làm rồi? __eou__ Chị còn đi học ă __eou__
+Chị học trường nào vậy? __eou__ Đại học Tôn Đức Thắng nè, chị năm cuối rồi. __eou__
+Cho em hỏi chị học khoa nào ă? __eou__ Chị học công nghệ thông tin nha em. __eou__
+Chào bạn, bạn tên gì ? __eou__ Chào bạn, mình tên là Hùng __eou__
+Bạn sinh năm bao nhiêu ? __eou__ Mình sinh năm 2002, là sinh viên năm nhất __eou__
+Hiện tại, bạn đang học tại khoa nào vậy ? __eou__ Mình là sinh viên khoa Công nghệ thông tin __eou__
+Bạn đang theo học chuyên ngành gì ? __eou__ Mình hiện đang học về ngành Khoa học máy tính, chuyên ngành Hệ thống thông tin __eou__
+Các môn thể thao bạn thường tham gia là gì ? __eou__ Mình thích chơi đá banh, bóng rổ, cầu lông, bơi lội,... __eou__
+Hiện tại, tụi mình có hoạt động về đá cầu sau giờ học, bạn có muốn tham gia không ? __eou__ Mình sẽ xem xét thời khóa biểu, nếu rãnh thì mình sẽ tham gia __eou__
+Trông bạn xanh xao quá, bạn không sao chứ? __eou__ Mình ổn, không sao đâu. __eou__
+Chào bạn, cho mình hỏi tên của bạn là gì vậy? __eou__ Chào bạn, tên mình là Nam __eou__
+Bạn ơi, bạn có thể cho mình biết chiều cao của bạn được không? __eou__ Mình cao 184cm nhé __eou__
+Bạn ơi, bạn có thể cho mình biết sở thích của bạn được không? __eou__ Uhm, mình thích chơi bóng chuyền nè __eou__
+Bạn ơi, bạn có thể cho mình biết cân nặng của bạn không? __eou__ Mình nặng 58kg bạn nhé. __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+năm nay bạn bao tuổi rồi nhỉ? __eou__ mình vừa tròn 20 rồi á __eou__
+Lan ơi, cho mình biết địa chỉ nhà bạn được không? __eou__ được chứ sao không. nhưng để làm gì thế? __eou__
+nhà bạn ở quận nào mấy thế? __eou__ mình ở Bình Thạnh ấy bạn __eou__
+cho mình hỏi bạn đi học hay đã đi làm rồi ta? __eou__ mình đi làm nhiều năm rồi bạn ơi __eou__
+Bạn cho mình hỏi bạn tên gì? __eou__ Tên mình là Lan. __eou__
+Bạn đang đi học hay đi làm? __eou__ Mình hiện đang là sinh viên năm 4. __eou__
+Sau này bạn dự định sẽ làm gì sau khi học xong? __eou__ Sau khi ra trường mình sẽ đi du học và làm ở bên đó. __eou__
+Bạn có bạn trai chưa? __eou__ Hiện tại mình đang tập trung cho sự nghiệp. __eou__
+Bạn có đang học thêm ngôn ngữ gì khác không? __eou__ Mình có học thêm Toiec để cải thiện tiếng Anh. __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Tuấn __eou__
+Cậu bao nhiêu tuổi rồi ? __eou__ tớ 20 tuổi __eou__
+Cậu cao bao nhiêu thế ? __eou__ Tớ cao 1m7 __eou__
+Cậu nặng bao nhiêu ? __eou__ Tớ nặng 60kg __eou__
+Quê cậu ở đâu thế? __eou__ Quê tở Khánh Hòa __eou__
+Cậu học ngành gì vậy? __eou__ Tớ học công nghệ thông tin __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên tớ là Lan __eou__
+còn bạn tên là gì? __eou__ tên tớ là Nam __eou__
+bạn cho mình hỏi ngày sinh của bạn là bao nhiêu? __eou__ ngày sinh của tớ là 30 __eou__
+còn ngày sinh của cậu là bao nhiêu? __eou__ ngày sinh của tớ là 29 __eou__
+bạn cho mình hỏi tháng sinh của bạn là bao nhiêu? __eou__ tháng sinh của tớ là tháng 4(April) __eou__
+còn tháng sinh của cậu là bao nhiêu? __eou__ tháng sinh của tớ là tháng 4(April) __eou__
+bạn cho mình hỏi năm sinh của bạn là bao nhiêu? __eou__ năm sinh của tớ là 2001 __eou__
+còn năm sinh của cậu là bao nhiêu? __eou__ năm sinh của tớ giống cậu ấy __eou__
+bạn cho mình hỏi số điện thoại cá nhân của bạn là gì? __eou__ số điện thoại cá nhân của tớ là 0123456798 __eou__
+vậy còn số điện thoại của cậu là bao nhiêu? __eou__ số điện thoại của tớ là 0234567891 __eou__
+bạn cho mình hỏi tên bạn gì? __eou__ tên mình là Nhân __eou__
+Bạn quê ở đâu vậy Nhân ? __eou__ Mình quê ở Sài Gòn nhé bạn ! __eou__
+Vậy bạn bao nhiêu tuổi rồi ? __eou__ Mình 20 tuổi rồi ! __eou__
+Bạn là sinh viên phải không __eou__ Hiện tại mình đang là sinh viên nhé bạn ! __eou__
+Bạn có thích âm nhạc không ? __eou__ Mình rất thích __eou__
+Bạn thích thể loại nhạc nào vậy? __eou__ Mình thích nhạc rap. __eou__
+cho mình hỏi bạn thuộc khoa nào __eou__ vâng, mình thuộc khoa Công Nghệ Thông Tin __eou__
+bạn ơi bạn sinh năm bao nhiêu? __eou__ mình sinh nắm 1999 __eou__
+quê bạn ở đâu vậy __eou__ quê mình ở cần giờ TpHCM __eou__
+con học trường nào __eou__ TDTU __eou__
+mày có người yêu chưa? __eou__ nhà bao việc __eou__
+mày giới tính gì? __eou__ hỏi vậy chi vậy ba __eou__
+Bạn cho mình hỏi bạn tên gì ? __eou__ Hiếu __eou__
+Bạn bao nhiêu tuổi ? __eou__ 22 __eou__
+Bạn cho mình hỏi bạn là nam hay nữ ? __eou__ nam __eou__
+Bạn cho mình hỏi bạn học ở đâu ? __eou__ TDTU __eou__
+Bạn cho mình hỏi bạn SDT của bạn ? __eou__ 0902622737 __eou__

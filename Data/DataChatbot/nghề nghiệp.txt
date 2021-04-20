@@ -1,0 +1,407 @@
+bạn đã có việc làm chưa ? __eou__ chưa, mình đang thất nghiệp __eou__
+bạn đã có việc làm chưa ? __eou__ rồi, mình đang làm việc cho một công ty __eou__
+bạn đã đi làm hay chưa? __eou__ mình đã đi làm rồi __eou__
+hiện tại bạn làm ở đâu? __eou__ hiện tại mình làm ở FPT software __eou__
+địa chỉ nơi làm việc của bạn ở đâu? __eou__ ở khu công nghệ cao __eou__
+bạn làm công việc gì? __eou__ mình đang là kĩ sư phần mêm __eou__
+cảm xúc của bạn như thế nào khi được nhận vào làm việc? __eou__ mình rất vui và phấn chấn khi được làm việc ở đây __eou__
+đồng nghiệp của bạn ở công ty như thế nào? __eou__ đồng nghiệp rất hòa đồng và tốt bụng __eou__
+sếp của bạn như thế nào? __eou__ sếp làm việc rất chuyên nghiệp và rất vui tính __eou__
+bạn có thích môi trường làm việc này không? __eou__ tôi rất thích môi trường làm việc này __eou__
+bạn có định hướng trong tương lai như thế nào? __eou__ mình định theo hướng phát triễn website __eou__
+bạn cho mình hỏi bạn cảm thấy như thế nào về đồng nghiệp của mình? __eou__ tớ cảm thấy đồng nghiệp của mình vui tính và hoà đồng __eou__
+bạn cho mình hỏi bạn có thường đem công việc về nhà làm không? __eou__ tớ không thường đem công việc về làm __eou__
+bạn cho mình hỏi ở nơi làm mọi người có hay họp để giải quyết vấn đề hay không? __eou__ ở nơi làm mọi người có hay họp để giải quyết vấn đề __eou__
+bạn cho mình hỏi ở nơi làm bạn có hoà đồng với đồng nghiệp không? __eou__ ở nơi làm tớ có hoà đồng với đồng nghiệp __eou__
+bạn cho mình hỏi ở nơi làm bạn có hoà đồng với đồng nghiệp không? __eou__ ở nơi làm tớ có không hoà đồng với đồng nghiệp __eou__
+Em dạo này ổn không? __eou__ Em ổn. __eou__
+Còn đi làm ở công ty cũ? __eou__ Còn anh. __eou__
+Đồng nghiệp của em thế nào? __eou__ Đào bới nhau trong những cuộc họp. __eou__
+Sếp của em thế nào? __eou__ Khó tính và thường gắt gỏng. __eou__
+Những đôi giày cao gót chắc còn làm đau em? __eou__ Cũng không đau lắm ạ. __eou__
+Em dạo này ổn không? __eou__ Em ổn. __eou__
+Còn đi làm ở công ty cũ? __eou__ Còn anh. __eou__
+Đồng nghiệp của em thế nào? __eou__ Đào bới nhau trong những cuộc họp. __eou__
+Sếp của em thế nào? __eou__ Khó tính và thường gắt gỏng. __eou__
+Những đôi giày cao gót chắc còn làm đau em? __eou__ Cũng không đau lắm ạ. __eou__
+đang đi làm hay đi học? __eou__ đang đi học __eou__
+học ở đâu? __eou__ ở quận 7 __eou__
+học ônr không? __eou__ không __eou__
+thầy giáo dạy hay không? __eou__ hay __eou__
+ngày học mấy ca? __eou__ 2 ca __eou__
+bạn làm nghề gì vậy? __eou__ mình làm giáo viên dạy Anh văn __eou__
+bạn làm việc ở đâu? __eou__ mình làm việc ở quận 1, thành phố HCM __eou__
+bạn đã đi làm hay chưa? __eou__ mình đã đi làm rồi __eou__
+hiện tại bạn làm ở đâu? __eou__ hiện tại mình làm ở FPT software __eou__
+địa chỉ nơi làm việc của bạn ở đâu? __eou__ ở khu công nghệ cao __eou__
+bạn làm công việc gì? __eou__ mình đang là kĩ sư phần mêm __eou__
+cảm xúc của bạn như thế nào khi được nhận vào làm việc? __eou__ mình rất vui và phấn chấn khi được làm việc ở đây __eou__
+đồng nghiệp của bạn ở công ty như thế nào? __eou__ đồng nghiệp rất hòa đồng và tốt bụng __eou__
+sếp của bạn như thế nào? __eou__ sếp làm việc rất chuyên nghiệp và rất vui tính __eou__
+bạn có thích môi trường làm việc này không? __eou__ tôi rất thích môi trường làm việc này __eou__
+bạn có định hướng trong tương lai như thế nào? __eou__ mình định theo hướng phát triển website và các ứng dụng mobile __eou__
+có mày __eou__ ở đâu? __eou__
+gần trường á __eou__ mày thấy chỗ đó như thế nào? __eou__
+như thế nào là sao __eou__ ý là cảm xúc, vị trí, thái độ của đồng nghiệp á mày __eou__
+Em dạo này ổn không? __eou__ Em ổn ạ. __eou__
+Còn đi làm ở công ty cũ? __eou__ Còn anh vẫn vậy hả. __eou__
+Đồng nghiệp của em thế nào? __eou__ Nói qua nói lại rồi đào bới nhau trong những cuộc họp. __eou__
+Sếp của em thế nào? __eou__ Khó tính và thường gắt gỏng. __eou__
+Những đôi giày cao gót chắc còn làm đau em? __eou__ Cũng không đau lắm ạ. __eou__
+Công việc hiện nay của bạn thế nào rồi ? __eou__ đang lên chức đó __eou__
+Tương lai bạn có dự định gì không ? __eou__ mình sẽ cố gắng để lên chức __eou__
+Bạn có để ý cô đồng nghiệp nào không ? __eou__ có chứ __eou__
+Lần đầu tiên bạn đi làm là mấy tuổi ? __eou__ khi đó mình 16 tuổi __eou__
+bạn cảm thấy sao khi cầm số tiền đầu tiên mình làm ra ? __eou__ mình rất vui và hạnh phúc __eou__
+bạn có đang đi làm không? __eou__ có, hiện tại mình đang đi dạy thêm lập trình cho các học sinh cấp 2, cấp 3 __eou__
+bạn đang làm ở đâu? __eou__ mình đang làm ở học viện công nghệ TEKY __eou__
+bạn đi làm có vui không? __eou__ chắc chắn là có rồi, làm việc mình thích cơ mà __eou__
+đồng nghiệp của bạn như thế nào? __eou__ từ sếp lớn cho tới các bạn giảng viên ai cũng dễ thương __eou__
+lương của công việc hiện tại của bạn cao không? __eou__ lương cũng đủ để tiêu vặt __eou__
+Mày đang làm cho công ty nào vậy ? __eou__ Tao đang làm cho một agency marketing nổi tiếng __eou__
+Chi nhánh của công ty mày làm nằm ở đâu ? __eou__ hiện công ty có 3 chi nhánh và tao đang làm tại quận 1 __eou__
+Công việc dạo này ổn định chứ mày ? __eou__ Công việc vất vả lắm mày ơi, đi sớm về khuya, tăng ca liên tục __eou__
+Công ty mày chắc nhiều gái xinh lắm nhờ ? __eou__ Nhiều lắm mày, mà toàn trên tuổi tao nên ngắm thôi chứ không húp được __eou__
+Đồng nghiệp trong công ty mày có hay chia phái ganh đua nhau không ? __eou__ Không mày ơi, bộ phận nào làm việc nấy nhưng cần gì theo sang giúp đỡ cho xong việc chứ không chia phe gì cả __eou__
+Mày thấy ông lead mới như nào? __eou__ Tao thấy ổng cứ sao sao ấy. __eou__
+Ừa, vào cả 2 tháng rồi mà vẫn chưa nắm được hết quy trình __eou__ Bữa giờ tao cũng hơi quạo ổng __eou__
+Chứ mày thấy tao có muốn nói chuyện với ổng à __eou__ Chịu thôi, có con A nói chuyện với ổng hợp vãi __eou__
+Ừa, không hiểu sao được như vậy luôn __eou__ Hên là tao với mày nói chuyện hợp nhau __eou__
+dạo này công việc anh làm có ổn không? __eou__ Tết đang cận kề nên công việc cũng bị hối thúc, khá là stress em à. __eou__
+tình hình dịch thế này thì công việc anh có được đảm bảo không anh? __eou__ không thể nào đâu em à, đây là tình hình chung rồi. Chúng ta đành phải sống chung với lũ thôi. __eou__
+Anh có biết công ty nào tuyển nhân viên làm online không anh? __eou__ tình hình này chắc chỉ có bán hàng online là nhiều em à, em thử tìm hiểu xem. __eou__
+không biết khi nào mới hết dịch để mình được đi làm lại anh ha __eou__ anh cũng không biết nhưng chỉ biết trông mong thôi em à. __eou__
+Hiện tại bạn đang làm ở đâu? __eou__ Mình đang làm ở quận 7 __eou__
+Bạn đang làm về công việc gì? __eou__ Mình đang làm bên mảng IT __eou__
+Những đồng nghiệp có hòa đồng không? __eou__ các đồng nghiệp rất hòa đồng với nhau __eou__
+Cảm xúc của bạn như thế nào khi được nhận vào làm? __eou__ Mình rất vui vì được nhận vào làm __eou__
+Dạo này cậu đang làm gì thế? __eou__ Mình đang đi làm công ty thôi __eou__
+Cậu làm công ty ở đâu vậy __eou__ Mình làm công ty bên Cộng hòa quận Tân bình á __eou__
+Công việc thế nào có ổn định không? __eou__ công việc ổn định cũng tốt lắm __eou__
+Đi làm có vui không, đồng nghiệp thoải mái không? __eou__ vui lắm cậu, đồng nghiệp thoải mái hòa đồng lắm __eou__
+Ngày bình thường làm mấy tiếng, có tăng ca không? __eou__ tớ làm ngày 8tiếng, đôi ngày có tăng ca thêm 4 tiếng __eou__
+Công việc hiện tại của bạn thế nào? __eou__ Công việc hiện tại của mình rất ổn __eou__
+Hiện bạn đang làm công việc gì? __eou__ Hiện tại mình đang làm dev __eou__
+Bạn đang làm việc ở đâu? __eou__ Mình đang làm việc tại quận 10 __eou__
+Tình trạng phúc lợi của công ty thế nào? __eou__ Phúc lợi của công ty rất tốt __eou__
+Quan hệ của bạn với mọi người thế nào? __eou__ Quan hệ của mình với mọi người rất tốt __eou__
+Mày thấy ông lead mới như nào? __eou__ Tao thấy ổng cứ sao sao ấy. __eou__
+Ừa, vào cả 2 tháng rồi mà vẫn chưa nắm được hết quy trình __eou__ Bữa giờ tao cũng hơi quạo ổng __eou__
+Chứ mày thấy tao có muốn nói chuyện với ổng à __eou__ Chịu thôi, có con A nói chuyện với ổng hợp vãi __eou__
+Ừa, không hiểu sao được như vậy luôn __eou__ Hên là tao với mày nói chuyện hợp nhau __eou__
+đi làm ổn không bạn ơi? __eou__ ổn lắm bạn ơi __eou__
+bạn đang việc gì vậy ? __eou__ mình làm bên mảng devops bạn __eou__
+công việc có khó không bạn ? __eou__ nó dễ vl bạn ơi __eou__
+sếp bạn có dễ không ? __eou__ sếp dễ lắm bạn ơi __eou__
+đồng nghiệp có vui không bạn? __eou__ bọn nó vui vãi bạn __eou__
+Bạn đang làm nghề gì? __eou__ Mình đang là sinh viên __eou__
+Bạn có đi làm thêm không? __eou__ Mình không __eou__
+Bạn mong muốn sẽ làm gì sau khi ra trường? __eou__ Mình mong muốn làm đúng ngành công nghệ thông tin __eou__
+bạn đang làm gì cho cuộc sống ? __eou__ mình đang ăn hại __eou__
+bạn có đang làm đúng nghề mình thích? __eou__ không, hiện tại ngành mình làm không phải là ngành mình thích __eou__
+áp lực có ảnh hưởng gì đến công việc của bạn không? __eou__ cũng có một chút, đôi khi deadline đến quá nhanh khiến mình không kịp thích ứng __eou__
+công việc của bạn có yêu cầu về lương tâm của công việc? __eou__ chắc chắn rồi, chẳng công việc nào mà không yêu cầu lương tâm của người làm việc cả __eou__
+công việc có yêu cầu sự bảo mật? __eou__ có, công ty mình yêu cầu sự bảo mật __eou__
+Công việc của bạn có mức lương như thế nào ? __eou__ mức lương của mình cũng ổn, cũng đủ ăn đủ xài __eou__
+bạn đang làm gì cho cuộc sống ? __eou__ mình đang ăn hại __eou__
+bạn có đang làm đúng nghề mình thích? __eou__ không, hiện tại ngành mình làm không phải là ngành mình thích __eou__
+áp lực có ảnh hưởng gì đến công việc của bạn không? __eou__ cũng có một chút, đôi khi deadline đến quá nhanh khiến mình không kịp thích ứng __eou__
+công việc của bạn có yêu cầu về lương tâm của công việc? __eou__ chắc chắn rồi, chẳng công việc nào mà không yêu cầu lương tâm của người làm việc cả __eou__
+công việc có yêu cầu sự bảo mật? __eou__ có, công ty mình yêu cầu sự bảo mật __eou__
+Công việc của bạn có mức lương như thế nào ? __eou__ mức lương của mình cũng ổn, cũng đủ ăn đủ xài __eou__
+bạn đang làm gì? __eou__ mình đang thất nghiệp __eou__
+bạn thích làm nghề gì? __eou__ nghề nào có nhiều tiền là mình thích hết __eou__
+bạn muốn là nghề gì? __eou__ mình __eou__
+Bạn đã có công việc chưa? __eou__  __eou__
+Bạn làm nghề gì? __eou__  __eou__
+bạn đang làm công việc gì thế? __eou__ mình đang àm giáo viên dạy tin học ở kase edu __eou__
+bạn thích thể loại công việc thế nào? __eou__ mình thích công việc nhàn nhạ và lương cao __eou__
+tình trạng công việc cảu bạn thế nào? __eou__ khá là tốt khi mình có rất nhiều lớp dạy __eou__
+Hiện tại anh đang làm nghề gì? __eou__ Mình vẫn đang học đại học và làm diễn viên tự do __eou__
+Bạn có yêu thích ngành này không? __eou__ Không hẳn __eou__
+bạn đang làm công việc gì? __eou__ Bán vé số dạo. __eou__
+bạn có đam mê trong công việc gì? __eou__ Rửa xe, thay nhớt. __eou__
+bạn có chọn công việc làm thêm nào không? __eou__ Bán trà đá vỉa hè. __eou__
+công việc hiện tại của bạn như thế nào? __eou__ Đủ mua nhà. __eou__
+bạn có yêu thích công việc mình đang làm không? __eou__ Mình có. __eou__
+môi trường làm việc của bạn như thế nào? __eou__ Thường xuyên tiếp xúc nhiều người. __eou__
+bạn có hài lòng về mức lương hiện tại không? __eou__ Có chớ. __eou__
+bạn có đang đi làm thêm không? __eou__ mình có đang đi làm đi vào mỗi tối khuya muộn __eou__
+Bạn có công việc chưa? __eou__ mình đang đi làm thêm __eou__
+Công việc bạn đang làm là gì? __eou__ mình đang làm nhân viên pha chế __eou__
+Bạn làm gì trong công việc của bạn? __eou__ mình chủ yếu pha chế thức uống theo công thức đã có và một số theo yêu cầu của khách hàng __eou__
+bạn có đang đi làm thêm không? __eou__ Mình không có đi làm thêm __eou__
+công việc bạn đang làm là gì? __eou__ Mình đang làm thiết kế trang web __eou__
+bạn có yêu thích công việc mình đang làm? __eou__ Mình rất thích công việc đang làm __eou__
+ngành nghề mà bạn yêu thích? __eou__ Mình thích nghề thiết kế trang web __eou__
+hiện tại bạn đang làm công việc gì vậy? __eou__ đi học và phụ bán hàng tại nhà __eou__
+bạn đang đi học như vậy thì bạn có đi làm thêm bên ngoài được không? __eou__ cũng được nhưng chủ yếu part time __eou__
+bạn có thích công việc của mình đang làm không? __eou__ Cũng tạm tạm thôi __eou__
+bạn muốn làm nghề gì? __eou__ làm dĩ - Vũ Trọng Phụng. __eou__
+tình trạng công việc hiện tại như thế nào? __eou__ nụ cười luôn ở trên môi, nhưng tôi chưa bao giờ ổn. __eou__
+Bạn đang làm gì? __eou__ Mình đang làm Giảng viên đại học cho trường Đh Tôn Đức Thắng. __eou__
+Bạn muốn làm nghề gì? __eou__ Mình muốn trở thành nhà thơ hoặc họa sĩ. __eou__
+Bạn đang làm nghề gì vậy? __eou__ Mình đang học sinh thôi bạn ei! __eou__
+Ngoài làm học sinh bạn còn làm gì nữa không? __eou__ Mình hay ra Ngô Gia Tự kiếm thêm thu nhập á bạn! __eou__
+Hiện tại bạn đang làm gì? __eou__ mình đang đi học và chưa đi làm __eou__
+bạn thích làm nghề gì? __eou__ mình muốn trở thành giáo sư trong ngành công nghệ thông tin __eou__
+Bạn có người yêu chưa? __eou__ có nha bạn tôi __eou__
+Bạn có hay đi chơi ở đâu với người yêu? __eou__ từ quận 7 đến các quận trong tpHCM __eou__
+Nghề nghiệp hiện tại của người yêu bạn? __eou__ Bí mật __eou__
+Bạn sắp cưới chưa? __eou__ bạn còn không gấp tôi gấp làm gì __eou__
+Ngành nghề ông thích là gì? __eou__ đóng phim. __eou__
+Ông muốn làm nghề mình thích hay nghề kiếm được nhiều tiền? __eou__ Cả 2. __eou__
+Ông có thích nghề hiện tại của mình không? __eou__ Có. __eou__
+Ông có nghĩ 'ăn không ngồi rồi' có là một nghề nghiệp? __eou__ No idea. __eou__
+Hiện tại bạn đang làm nghề gì? __eou__ mình không làm gì hết vì mình còn đang là sinh viên __eou__
+Nghề nghiệp ước mơ của bạn là gì? __eou__ mình muốn thành DA hoặc QA __eou__
+Tình trạng công việc của bạn như thế nào? __eou__ mình chưa có đi làm nên mình cũng không biết trả lời sao nữa __eou__
+bạn đang làm nghề gì vậy __eou__ mình đang làm doanh nhân triệu đô __eou__
+Bạn đang làm nghề gì ? __eou__ Tớ đang là lập trình viên cho gameloft. __eou__
+Bạn có thích công việc hiện tại không ? __eou__ Cũng được , tới hài lòng. __eou__
+Công việc cậu ổn định không? __eou__ Rất ổn định nha . __eou__
+Cậu có hay đi ăn với đồng nghiệp không? __eou__ Có nhất là cô bạn gái đồng nghiệp. __eou__
+Sếp cậu thế nào ? __eou__ Sếp tớ vừa xinh vừa quan tâm tớ. __eou__
+bạn thích nghề nào? __eou__  __eou__
+bạn đang làm nghề nào? __eou__  __eou__
+làm ơn cho mình biết bạn đã đi làm chưa? __eou__  __eou__
+lương bạn bao nhiêu? __eou__  __eou__
+Bạn đang làm gì?(Nghề nghiệp) __eou__ Mình là sinh viên. __eou__
+Tại sao bạn lại chọn nghề đó? __eou__ Mình chưa đủ kinh nghiệm để đi làm. __eou__
+Tình trạng công việc thế nào? __eou__ Học cũng tạm ổn. __eou__
+Cho mình hỏi bạn đang làm nghề gì ? __eou__ Minh đang làm full-stack __eou__
+Cho mình hỏi bạn có thích làm ở công ty mới không ? __eou__ Mình khá là hứng thú với công ty của mình __eou__
+Cho mình hỏi công việc bạn có ổn không ? __eou__ Công việc của mình khá là ổn đỉnh __eou__
+Cho mình hỏi bạn thích làm nghề gì ? __eou__ Mình thích làm biếng __eou__
+Cho mình hỏi lương bạn một tháng bao nhiêu ? __eou__ Lương mình khá là nhiều số không và đặc biệt là không thấy. __eou__
+Mày đang làm ở đâu ? __eou__ Tui đang làm ở công ty tui hihi __eou__
+Mày làm về cái gì ? __eou__ Tao làm web __eou__
+Lương ổn không ? __eou__ Cũng được đủ ăn đủ mặc __eou__
+Hệ số lương của mày cao không ? __eou__ Công ty tao không có hệ số lương __eou__
+Mày muốn chuyển nghề không hay vẫn thích công ty đó ? __eou__ Không tao thích công ty đây __eou__
+Công ty mày bao lâu thì tăng lương một lần? __eou__ Không biết nữa mỗi người mỗi khác, tao thì 6 tháng một lần. __eou__
+Công ty đó có còn đang tuyển không ? __eou__ Tao không biết nữa mày lên coi liên hệ phòng nhân sự thử __eou__
+bạn thích nghề nào? __eou__ chưa biết nữa __eou__
+bạn đang làm nghề nào? __eou__ đang là sinh viên đại học __eou__
+làm ơn cho mình biết bạn đã đi làm chưa? __eou__ chưa đi làm cùng lắm là phụ gia đình. __eou__
+lương bạn bao nhiêu? __eou__ chưa có đi làm __eou__
+bạn muốn đổi nghề không? __eou__ có thể tương lai nếu có đường ra. __eou__
+Mày đang làm ở đâu ? __eou__ Tui đang làm ở công ty tui hihi __eou__
+Mày làm về cái gì ? __eou__ Tao làm web __eou__
+Lương ổn không ? __eou__ Cũng được đủ ăn đủ mặc __eou__
+Hệ số lương của mày cao không ? __eou__ Công ty tao không có hệ số lương __eou__
+Mày muốn chuyển nghề không hay vẫn thích công ty đó ? __eou__ Không tao thích công ty đây __eou__
+Công ty mày bao lâu thì tăng lương một lần? __eou__ Không biết nữa mỗi người mỗi khác, tao thì 6 tháng một lần. __eou__
+Công ty đó có còn đang tuyển không ? __eou__ Tao không biết nữa mày lên coi liên hệ phòng nhân sự thử __eou__
+bạn đang đi làm đúng không? __eou__ Đi học __eou__
+bạn đang làm nghề gì __eou__ Sinh viên __eou__
+bạn thích làm nghề gì nhất? __eou__ Làm IT __eou__
+công việc bạn đang làm có ổn không? __eou__ ổn __eou__
+lương bạn bao nhiêu 1 tháng? __eou__ 5000$ __eou__
+đang làm nghề gì? __eou__ Shipper __eou__
+Nghề nghiệp mong muốn trong tương lai là gì? __eou__ Quản lí doanh nghiệp __eou__
+Bạn đang làm nghề gì? __eou__ Shipper __eou__
+Nghề nghiệp mà bạn mong muốn trong tương lai là gì? __eou__ Quản lí doanh nghiệp __eou__
+Bạn có đi làm thêm không ? __eou__ Có __eou__
+Bạn Làm nghề gì ? __eou__ Làm nghề kiếm tiền __eou__
+Bạn Thích làm nghề gì nhất ? __eou__ Làm nghề gì mà nhiều tiền __eou__
+Bạn Hiện tại đang làm gì ? __eou__ Đang làm công dân Việt Nam __eou__
+Bạn có đang đi làm không ? __eou__ Có. Mình đang đi làm tại FPT __eou__
+Bạn có thích công việc đó không ? __eou__ Có. Mình thích công việc hiện tại này của mình __eou__
+Bạn làm công việc cùng ngành hay trái ngành ? __eou__ Mình làm côg việc liên quan về ngành của mình __eou__
+Công việc của bạn lương thế nào ? __eou__ Công việc của mình lương khá ổn __eou__
+Bạn làm công việc này bao lâu rồi ? __eou__ Được hơn 1 năm rồi __eou__
+bạn đang đi làm đúng không? __eou__ không __eou__
+bạn đang làm nghề gì __eou__ đi học __eou__
+bạn thích làm nghề gì nhất? __eou__ IT __eou__
+công việc bạn đang làm có ổn không? __eou__ ổn __eou__
+lương bạn bao nhiêu 1 tháng? __eou__ còn học __eou__
+Trong tương lai bạn muốn làm nghề gì? __eou__ Mình muốn làm hacker __eou__
+Cậu đang làm nghề gì? __eou__ Tớ đang là lập trình viên __eou__
+Cậu còn thích nghề gì khác không? __eou__ Tớ còn thích làm ca sĩ hoặc nghề nào đó liên quan đến nghệ thuật __eou__
+Tình trạng công việc của cậu thế nào? __eou__ Công việc của tớ khá ổn, rất thoải mái __eou__
+Cậu có gặp áp lực trong công việc không? __eou__ Tớ chịu khá nhiều áp lực trong công việc __eou__
+Lương tháng của cậu bao nhiêu? __eou__ Lương tháng của mình khoảng 30 triệu __eou__
+Bạn có đi làm thêm không ? __eou__ Có __eou__
+Bạn Làm nghề gì ? __eou__ Làm nghề kiếm tiền __eou__
+Bạn Thích làm nghề gì nhất ? __eou__ Làm nghề gì mà nhiều tiền __eou__
+Bạn Hiện tại đang làm gì ? __eou__ Đang làm công dân Việt Nam __eou__
+nghề nghiệp của cậu là gì? __eou__ ăn bám __eou__
+công việc cậu làm như thế nào? __eou__ ăn, ngủ, đi học __eou__
+cậu có định hướng gì trong tương lai không? __eou__ chinh phục mặt trời là định hướng cuối cùng của mình __eou__
+cậu thử dự đoán về công việc đang làm đi? __eou__ công việc hiện tại của mình rất ổn, mình đang sống dưới gầm cầu __eou__
+Bạn đang làm nghề gì nhỉ? __eou__ Mình hiện đang là sinh viên, ngoài ra mình còn có công việc bán thời gian là phục vụ __eou__
+Bạn muốn mình sau này làm nghề gì? __eou__ Mình muốn làm Dược sĩ __eou__
+Lương sau khi ra trường của anh bao nhiêu? __eou__ Lương sau khi ra trường của mình khoảng nghìn đô. __eou__
+Chị có làm việc đúng ngành học của mình không? __eou__ Tính tới hiện tại chỉ cảm thấy đang làm đúng với ngành mình chọn __eou__
+Sếp của anh quản lý nhân sự công ty bằng cách nào? __eou__ Sếp anh quản lý nhân sự bằng cách __eou__
+Công việc mơ ước của bé sau này là gì? __eou__ Công việc ước mơ của bé sau này là làm phi công. __eou__
+Công việc của cháu mùa dịch này bị ảnh hưởng thế nào? __eou__ Hiện tại công việc cháu không ảnh hưởng quá nhiều do được xếp làm việc online tại nhà. __eou__
+Bạn đang làm gì? __eou__ Mình là sinh viên __eou__
+Bạn thích làm nghề gì? __eou__ Mình thích làm kinh doanh __eou__
+Bạn có muốn làm đa cấp không? __eou__ Tất nhiên là không __eou__
+Bạn có muốn kiếm được 1 tỷ / 1 tháng ? __eou__ Tất nhiên là có __eou__
+Nghề hot hiện nay, theo bạn là gì? __eou__ Lập trình viên, kinh doanh, marketing __eou__
+Bạn đang thích nghề gì? __eou__ Tôi thích trở thành một nghệ sĩ chuyên nghiệp trong lĩnh vực âm nhạc. __eou__
+Bạn muốn làm nghề gì? __eou__ Tôi muốn sau này ra trường có thể trở thành một lập trình viên. __eou__
+Bạn có dự định về nghề nghiệp tương lai sau này không ? __eou__ Tôi muốn vừa đi làm ban ngày, ban đêm có thể đứng trên sân khấu biểu diễn __eou__
+Bạn có dự định về tương lai không? __eou__ Lập trình full stack website nha bạn. __eou__
+tôi cần một công việc. __eou__ Việc làm cuối của bạn là gì? __eou__
+Việc làm cuối của bạn là gì? __eou__ tôi là một họa sĩ. __eou__
+Chuyện gì đã xảy ra? __eou__ tôi đã bị cho nghỉ việc vì không có việc làm. __eou__
+Ý anh là gì? __eou__ có sắp bị sa thải ở nơi này không? __eou__
+Hiện tại, bạn đang làm gì ? __eou__ Làm người yêu Cún đó __eou__
+Tình trạng của việc bạn như thế nào ? __eou__ Kìm nén cảm xúc __eou__
+Ngành nghề của bạn có áp lực không ? __eou__ Làm người yêu Cún sao phải áp lực chứ __eou__
+Nếu bạn không làm công việc hiện tại thì bạn sẽ làm gì ? __eou__ Làm bồ Cún __eou__
+Công việc của bạn có đủ lo cho bạn và gia đình bạn ? __eou__ Cún lo được mà __eou__
+Bạn đang làm nghề gì? __eou__ không làm gì hết __eou__
+Bạn thích nghề gì ? __eou__ nghề nào có tiền thì làm trừ nghề bậy bạ __eou__
+Bạn đang làm ở vị trí nào? __eou__ ở nhà nằm ngủ __eou__
+Bạn đang làm nghề gì? __eou__ không làm gì hết __eou__
+Bạn thích nghề gì ? __eou__ nghề nào có tiền thì làm trừ nghề bậy bạ __eou__
+Bạn đang làm ở vị trí nào? __eou__ ở nhà nằm ngủ __eou__
+Bạn đang làm nghề gì ? __eou__ Tui đi còn đi học ông ơi __eou__
+Sau này bạn muốn làm gì ? __eou__ Mở quán coffee đó __eou__
+Bạn học ngành gì ? __eou__ I.T á __eou__
+Sao bạn lại muốn mở quán cafe ? __eou__ Đam mê đó ông hehe __eou__
+Nghề nghiệp hiện tại của bạn là gì? __eou__ Mình làm coach __eou__
+Bạn đang đi học hay đã đi làm? __eou__ Mình đang đi học __eou__
+Bạn có thích công việc của mình không? __eou__ Mình không thích __eou__
+Bạn có cảm thấy công việc của mình nhàm chán không? __eou__ Dĩ nhiên là có __eou__
+bạn đang làm công việc gì ? __eou__ mình chạy xe __eou__
+bạn có công việc đàng hoàng chưa? __eou__ chưa cho lắm __eou__
+bạn đang làm công việc gì ? __eou__ có __eou__
+bạn có công việc đàng hoàng chưa? __eou__ có __eou__
+bạn thích theo nghề gì? __eou__ có __eou__
+tình trạng công việc của bạn thế nào rồi? __eou__ có __eou__
+bạn có thực sự thích công việc của mình? __eou__ có __eou__
+bạn đang đi làm đúng không? __eou__ tui đi học __eou__
+bạn đang làm nghề gì __eou__ Học sinh sinh viên có là 1 nghề không ? __eou__
+bạn thích làm nghề gì nhất? __eou__ Mở quán net __eou__
+công việc bạn đang làm có ổn không? __eou__ Không ổn lắm __eou__
+lương bạn bao nhiêu 1 tháng? __eou__ 4 tháng 19tr500 __eou__
+lâu rồi không gặp, bây giờ ông đang làm gì ? __eou__ tôi đang làm lập trình viên __eou__
+ông làm ở đâu ? __eou__ tôi làm ở FPTS __eou__
+lương ổn không ông ? __eou__ lương cũng khá ổn đó ông, khá cao so với mặt bằng chung __eou__
+chế độ đãi ngộ như nào ông ? __eou__ được thưởng tháng 13, nói chung là cũng được thưởng khá nhiều __eou__
+ông làm được mấy năm rồi ? __eou__ tính đến nay thì cũng được ba năm rồi ông __eou__
+cũng lâu rồi nhỉ, hiện giờ ông đang là senior ? __eou__ chuẩn rồi ông __eou__
+có làm mentor cho bọn sinh viên mới tốt nghiệp không ông ? __eou__ có ông, đôi lúc hơi phiền phức __eou__
+Nghe nói bạn đã đi làm rồi mà đúng không? __eou__ Đúng rồi á. __eou__
+Bạn đang làm nghề gì á? __eou__ Mình đang làm tester á __eou__
+Bạn hài lòng về công việc đó không? __eou__ Mình rất vui vì được làm á __eou__
+Đồng nghiệp của bạn thì thế nào? __eou__ Rất tốt á __eou__
+Hiện tại bạn làm việc ở đâu? __eou__ Hiện tại mình làm ở quán cây khế __eou__
+Vậy bạn làm công việc gì ở đó? __eou__ Mình đang làm quản lý quán __eou__
+Bạn cảm thấy như thế nào khi làm việc ở đó? __eou__ Mình cảm thấy ở đó môi trường rất vui và luôn tràn ngập năng lượng __eou__
+Bạn thấy đồng nghiệp của bạn như thế nào? __eou__ Mình thấy họ rất hòa đồng và luôn giúp đỡ mình trong công việc __eou__
+Bạn có thường gặp những tình huống khó xử trong công việc không? __eou__ Mình cũng thường xuyên gặp những tình huống khó xử __eou__
+Đợt rồi đi thực tập sao rồi? __eou__ Cũng bình thường thôi, mình do dỡ marketing bản thân chỉ kiếm được một chổ làm ở một quán net. __eou__
+Vô quán net làm mà cũng được nữa à? __eou__ Mình làm kỹ thuật trong tiệm đó và đây là một quán net khá hiện đại. __eou__
+Quán net hiện đại ở chổ nào vậy? __eou__ Quan net ở đây đưa tất cả dữ liệu cần thiết của các máy tập trung lại trên một máy chủ chính. __eou__
+Cách thức hoạt động của quán net đó như thế nào vậy? __eou__ Tất cả ứng dụng và hệ điều hành, cách thiết lặp hệ điều hành đều được lưu trữ trên máy chủ, khi một máy con được khỏi động, máy con sẽ thông qua đường mạng LAN và lấy những thứ cần thiết về để khỏi động. __eou__
+công việc hiện tại của bạn là gì? __eou__ mình đang làm nhân viên văn phòng __eou__
+bạn đang làm việc ở đâu? __eou__ mình đang làm bán thời gian ở Highlands Coffee __eou__
+công việc mơ ước của bạn là gì? __eou__ mình muốn trở thành tiếp viên hàng không __eou__
+bạn có đang thích công việc hiện tại của mình không? __eou__ mình cảm thấy mãn nguyện với công việc của mình __eou__
+bạn có đam mê với công việc không? __eou__ mình nghĩ là có __eou__
+Hiện tại bạn đang làm nghề gì? __eou__ Mình đang là Lập trình Web tại công ty Vietnam __eou__
+Bạn làm tại đâu? __eou__ Minh làm tại công ty quốc tế DVS, tại chi nhánh HCM __eou__
+Không biết bên mình lương bổng như nào nhỉ? __eou__ Đủ sống thôi bạn ạ __eou__
+Môi trường làm việc tại đây có dễ thích nghi hay không? __eou__ Mình làm tại đây cách đây vài tháng mà cứ ngỡ là nhân viên lâu năm không à ^^ __eou__
+Công ty mình có dễ hòa nhập không bạn nhỉ? __eou__ Quá dễ luôn ấy chứ __eou__
+giờ bạn làm gì thế? __eou__ mình làm kỹ sư phần mềm __eou__
+bạn làm chủ yếu mảng nào đó? __eou__ mình làm backend __eou__
+bạn làm ở đâu? __eou__ mình làm ở quận 3 __eou__
+bạn làm ở công ty đó bao lâu rồi? __eou__ mình làm được gần 1 năm rồi __eou__
+công ty bạn đông không? __eou__ công ty mình tầm 100 người __eou__
+bạn cho mình hỏi bạn làm gì? __eou__ mình làm Lập trình viên __eou__
+bạn cho mình hỏi bạn làm ở đâu? __eou__ mình làm ở quận 9 __eou__
+bạn cho mình hỏi bạn làm công ty gì? __eou__ mình làm ở công ty FPT Software __eou__
+bạn cho mình hỏi bạn làm về lĩnh vực gì? __eou__ mình làm về ERP __eou__
+bạn cho mình hỏi môi trường công ty bạn thế nào? __eou__ công ty mình môi trường chuyên nghiệp __eou__
+bạn cho mình hỏi lương bạn bao nhiêu? __eou__ lương mình 20 củ khoai __eou__
+bạn cho mình hỏi một tuần bạn làm mấy ngày __eou__ một tuần mình làm 5 ngày __eou__
+Bạn đang đi làm ở đâu vậy? __eou__ Công ty mình làm ở Tân Bình __eou__
+Vậy công việc của bạn là gì? __eou__ Mình là lập trình viên. __eou__
+Bạn thấy làm ở đó thế nào? __eou__ Thấy được và vui lắm. __eou__
+Quen việc chưa? __eou__ Mặc dù chơi quen, nhưng cũng học hỏi được nhiều điều. __eou__
+Bạn quen được ai trong công ty chưa? __eou__ Có chứ. Mình có quen được gần hết người trong tổ. __eou__
+Cậu thích nhất điều gì khi làm ở đó? __eou__ Chế độ khá tốt. Mình thấy các anh rất chuyên nghiệp trong công việc __eou__
+Nay cậu làm gì rồi? __eou__ Tớ làm ở cửa hàng tiện lợi á __eou__
+Cửa hàng nào vậy, có gần nhà không __eou__ Vinmart á cậu, cách nhà tớ 2 km. __eou__
+Cậu làm ở đó lâu chưa? __eou__ Chưa chỉ mới hai tháng à __eou__
+Lương bổng như thế nào á, có đủ sống không? __eou__ Vẫn ổn đấy cậu ạ, tháng này tớ được thưởng nè __eou__
+Thưởng nhiều không cậu? __eou__ Tết nè, được có 1 tháng lương à __eou__
+Công việc mày ổn không ? __eou__ Cũng bình thường __eou__
+Lương mày cao không ? __eou__ Không cao lắm , đủ xài à __eou__
+Bạn đang làm ở đâu á? __eou__ Tui làm ngoài Quận 1 __eou__
+Sếp mày khó không ? __eou__ Khó nhưng mà ổng tốt lắm __eou__
+Bạn đang làm nghề gì ? __eou__ Tui đi Code dạo thôi __eou__
+Mày giờ đang làm ở đâu thế? __eou__ À tao đang làm bên FPT nè. __eou__
+Mày làm về gì? __eou__ Tao làm thiết kế với phát triển Web. __eou__
+Đi làm ở FPT có gì vui không? __eou__ Đi làm ở đó không có lương mà còn không có giám sát hướng dẫn nữa. __eou__
+Mấy anh mentor ở chỗ mày ok không? __eou__ Mấy anh mentor bên đây hướng dẫn nhiệt tình lắm. __eou__
+Khi nào mày vô làm chính thức cho công ty? __eou__ Thực tập khoảng 3 tháng người ta sẽ xét duyệt. __eou__
+Bạn đang đi làm quận mấy đó? __eou__ Mình đang làm ở quận 3 __eou__
+Bạn làm ở công ty này được bao lâu rồi? __eou__ Mình làm cũng gần 2 năm rồi __eou__
+Bạn làm công việc gì vậy? __eou__ Mình đang làm BA - Business Analyst __eou__
+BA là làm gì? __eou__ Google đi bạn __eou__
+Bạn thấy công ty ok không? __eou__ Cũng ok đang có nhiều dự án lắm __eou__
+Bạn đang làm việc ở công ty nào? __eou__ Mình đang làm việc cho công ty FPT __eou__
+Những đồng nghiệp của bạn có hòa đồng vui vẽ với nhau khồng? __eou__ Đồng nghiệp của mình rất hòa đồng và tốt bụng __eou__
+Làm việc ở công ty như vậy bạn có thoải mái không? __eou__ Mình cảm thấy vô cùng thoải mái khi làm việc ở đây vì công ty mình luôn luôn hỗ trợ nhân viên hết mình __eou__
+Lúc mới bắt đầu công việc bạn có nghĩ mình đã chọn đúng nghề? __eou__ Không hẵn thế. Nhưng làm một thời gian thì đúng là như vậy __eou__
+Công việc có thuận lợi như bạn đã nghĩ? __eou__ Công việc của mình vô cùng thuận lợi __eou__
+Công việc của cậu dạo này thế nào?Ôn chứ __eou__ Deadline của tớ khá nhiều.Nhưng cũng không mệt lắm. __eou__
+Công việc của bạn có vượt khả năng không? __eou__ Mình nghĩ là ổn. __eou__
+Xếp của bạn có hay la rầy nhân viên không? __eou__ Cũng không hẳn?Anh ấy rất thân thiện và giúp đỡ nhân viên. __eou__
+Công ty của bạn có xa nhà quá hay không? __eou__ À không?Công ty cách nhà mình khoản 2km đi xe. __eou__
+Con ơi, năm nay ra trường có công việc ổn định chưa? __eou__ Dạ rồi cô ơi, con làm ở ABC __eou__
+Làm ở đấy tốt không con? __eou__ Dạ cũng được, con mới vào cũng không biết nhiều __eou__
+Có gần nhà không con? __eou__ Cách chỗ con ở tầm 15p đi xe ạ __eou__
+Thế thì cũng gần, lương nay bao nhiêu rồi? __eou__ Dạ hihi __eou__
+giờ bạn làm gì thế? __eou__ mình làm kỹ sư phần mềm __eou__
+bạn làm chủ yếu mảng nào đó? __eou__ mình làm backend __eou__
+bạn làm ở đâu? __eou__ mình làm ở quận 3 __eou__
+bạn làm ở công ty đó bao lâu rồi? __eou__ mình làm được gần 1 năm rồi __eou__
+công ty bạn đông không? __eou__ công ty mình tầm 100 người __eou__
+Cậu có đang đi làm chưa ? __eou__ Rồi cậu, làm từ hồi đợt thực tập tới giờ __eou__
+Cậu đang đi làm ở đâu vậy ? __eou__ Tớ đang làm ở Cyberlogitec Việt Nam trên đường Cộng Hòa __eou__
+Đi làm ở đó thoải mái không cậu ? __eou__ Tớ làm part time nên việc cũng nhẹ, không căng thẳng, dồn dập, gấp gút lắm __eou__
+Lead team cậu có khó tính không ? __eou__ Anh leader bên tớ dễ tính tính lắm, thoải mái, không có làm khó hay yêu cầu cao gì __eou__
+Nghe nói, bạn tìm được việc rồi hả? __eou__ Đúng rồi, mình vừa được nhận vào làm hôm qua __eou__
+Bạn làm việc gì vậy, có thể cho mình biết không? __eou__ À, mình làm phục vụ thôi. __eou__
+Bạn làm ở đâu vậy? __eou__ Mình làm ở quán nước nằm trên đường Lê Văn Lương __eou__
+Ngày đầu tiên làm như thế nào, có mệt lắm không? __eou__ Cũng hơi mệt thôi, chắc từ từ sẽ quen __eou__
+Anh quản lí chỗ bạn làm có khó tính không? __eou__ Không, anh ấy cũng khá dễ tính __eou__
+mầy làm ở đâu? __eou__ công ty ABC __eou__
+ở Gò Vấp phải không? __eou__ ừm nó đó __eou__
+lương thế nào? __eou__ đủ sống à __eou__
+còn mày làm ở đâu? __eou__ chạy grab __eou__
+trong công ty làm chức gì rồi? __eou__ làm lính à __eou__
+Cậu hiện nay đang làm gì vậy? __eou__ Tớ đang là sinh viên __eou__
+Vậy cậu học trường đại học nào? __eou__ Trường Đại học Tôn Đức Thắng __eou__
+Cậu học ngành gì vậy? __eou__ Ngành công nghệ thông tin đó cậu __eou__
+Cậu thấy học ngành đó vui không? __eou__ Cũng khá vui nếu cậu chịu khó học __eou__
+Giảng viên của cậu dạy dễ hiểu không? __eou__ Khá khó hiểu nếu cậu không tập trung __eou__
+Bạn bè cùng khóa có hòa thuận không? __eou__ Mọi người đều khá là dễ mến __eou__
+cậu dạo này đi làm ổn không? __eou__ cũng ổn lắm ây cậu __eou__
+công việc có nặng quá không cậu? __eou__ không câụ ơi cũng thường thường à cậu __eou__
+công việc này có cần nhiều thời gian để học không cậu? __eou__ không cậu ơi chắc khoảng 3 tháng thôi cậu nếu cậu có kiến thức nền __eou__
+cậu có phiền chỉ mình phần này của công việc được không? __eou__ được chứ cậu cớ sao không __eou__
+cậu có cảm xúc gì khi làm công việc này? __eou__ tớ cảm thấy rất là hứng khởi khi làm công việc này __eou__
+Bạn đang học tập hay làm việc thế? __eou__ Mình đang học ở TDTU á bạn. __eou__
+Bạn là SV năm mấy rồi? __eou__ Mình là sinh viên năm 2 rồi. __eou__
+bạn còn làm việc ở chỗ đó không? __eou__ mình vẫn còn làm __eou__
+sao dạo này chán quá bạn ơi __eou__ sao vậy bạn kể mình nghe đi __eou__
+xếp mắng tao? __eou__ mắng gì? __eou__
+đang làm gì đấy? __eou__ đang làm báo cáo __eou__
+công việc thế nào rồi con? __eou__ dạ ổn mẹ ạ __eou__
+Cậu đang làm công việc hiện tại là gì ? __eou__ IT __eou__
+Nơi cậu đang làm ở đâu, có xa lắm không ? __eou__ DVS __eou__
+Công việc cụ thể của cậu ở công ty mỗi ngày là gì ? __eou__ Developer API Facebook __eou__
+Làm có vui không, đồng nghiệp có tốt và thân thiện không ? __eou__ Không __eou__
+Có bao nhiêu đồng nghiệp cùng làm với cậu ở công ty ? __eou__ 20 __eou__
+Thu nhập mỗi tháng của bạn ở công ty là khoảng bao nhiêu ? __eou__ 700k __eou__
